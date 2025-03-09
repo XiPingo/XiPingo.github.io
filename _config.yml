@@ -2,10 +2,10 @@
 title: Xi Xiang
 description: Success lies in trying.
 url: https://XiPingo.github.io
-avatar: /avatar.jpeg
+avatar: /avatar.JPG
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /bg.JPG
 
 # Gems
 plugins:
