@@ -1,4 +1,4 @@
-name: pages-build-deployment
+name: Jekyll Site Build
 
 on:
   push:
@@ -10,21 +10,29 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - name: Checkout Code
+      uses: actions/checkout@v4  # 升级到最新版本
 
     - name: Set up Ruby
-      uses: actions/setup-ruby@v1
+      uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '2.7'
+        ruby-version: '3.1'  # Jekyll 3.9+ 需要 Ruby 2.4+
+        bundler-cache: true  # 自动处理依赖缓存
 
     - name: Fix Dubious Ownership
       run: git config --global --add safe.directory /github/workspace
 
-    - name: Install Bundler
-      run: gem install bundler
+    - name: Install Missing Dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y build-essential patch zlib1g-dev liblzma-dev
 
-    - name: Install Gems
-      run: bundle install
+    - name: Bundle Install
+      run: |
+        bundle config path vendor/bundle  # 指定本地安装路径
+        bundle install --jobs 4 --retry 3
 
     - name: Build Site
-      run: bundle exec jekyll build
+      run: bundle exec jekyll build --trace  # 添加调试参数
+      env:
+        JEKYLL_ENV: production
