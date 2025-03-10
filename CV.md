@@ -27,7 +27,8 @@ Research Assistant to: Professor [Shen Haopeng](https://nubs.nju.edu.cn/shp%C2%A
 ## Research Interests
 - Microeconomics: Game Theory and Information Economics, Microeconomic Theory.  
 - Econometics: Applied Microeconometics.  
-- Digital Economics and Big Data Economics: Graph Theory and Algorithm (for social network).  
+- Digital Economics and Big Data Economics: Graph Theory and Algorithm (for social network).
+    
 ---
 ##  Projects
 ### CS
