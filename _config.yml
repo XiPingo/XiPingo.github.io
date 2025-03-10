@@ -30,6 +30,10 @@ exclude:
   - scripts/
   - not-pure-poole.gemspec
 
+# 确保包含静态资源目录
+include:
+  - assets/images/favicons
+
 # Optimize Jekyl SEO Tag
 twitter:
   username: Xi Xiang
