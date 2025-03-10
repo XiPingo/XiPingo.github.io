@@ -32,11 +32,11 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: Xi Xiang
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Xi Xiang
   links:
     - https://twitter.com/XiPingo
     - https://github.com/XiPingo
@@ -57,6 +57,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
+  name: Xi Xiang
   url: https://github.com/XiPingo/
   email: xiangxi@smail.nju.edu.cn
