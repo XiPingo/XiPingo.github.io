@@ -10,8 +10,27 @@
   {%- else -%}
     {%- assign year_string = year_from | append: '&nbsp;' | append: '-' | append: '&nbsp;' | append: year_to -%}
   {%- endif -%}
+
   <small>
     &copy; {{ year_string }} {% if site.author %}<a href="{{ site.author.url }}">{{ site.author.name }}</a>{% endif %}. All rights reserved.
-    Powered by <a href="https://jekyllrb.com/">Jekyll</a> & <a href="https://github.com/vszhub/not-pure-poole">Not Pure Poole</a>.
+    Powered by <a href="https://jekyllrb.com/">Jekyll</a> & <a href="https://bgithub.xyz/vszhub/not-pure-poole">Not Pure Poole</a>.
   </small>
+
+  <!-- 新增图片部分 -->
+  <div class="footer-image">
+    <img src="{{ '院标.png' | relative_url }}" alt="院标" style="max-width: 100px; height: auto;">
+    <p class="image-caption">院标</p>
+  </div>
 </footer>
+
+<style>
+/* 可选样式 */
+.footer-image {
+  margin-top: 1rem;
+  text-align: center;
+}
+.image-caption {
+  font-size: 0.8em;
+  color: #666;
+}
+</style>
