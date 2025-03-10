@@ -8,25 +8,30 @@ Hey, this is my CV.
 **Location:** Mianyang, Sichuan Province, China  
 **Current Institution:** Nanjing University  
 **Major:** Economics (Honors Program)  
-**Minor:** Computer Science and Technology  
+**Minor:** Computer Science and Technology    
+   
 ---
 ## Education
 **2023.09 - Present:**  
-Economics, Department of Economics, School of Business, Nanjing University  
+Economics, Department of Economics, School of Business, Nanjing University    
+   
 ---
 ## Mentor
 
-Research Assistant to: Professor [Shen Haopeng](https://nubs.nju.edu.cn/shp%C2%A0/list.htm)
+Research Assistant to: Professor [Shen Haopeng](https://nubs.nju.edu.cn/shp%C2%A0/list.htm)    
+    
 ---
-## Courses
-**Mathematics:**  Calculus Ⅰ(Tier 1), Calculus Ⅱ(Tier 1), Linear Algebra(Tier 1), Discrete Mathematics, Probability Theory and Mathematical Statistics.  
-**Economics:**  Political Economy Ⅰ, Political Economy of Socialism with Chinese Characteristics, Microeconomics, Intermediate Microeconomics, Macroeconomics, Intermediate Macroeconomics, Introduction to Econometics, Development Economics, Big Data Economics, Game Theory, Public Finance, Experimental Economics.  
+## Courses  
+**Mathematics:**  Calculus Ⅰ(Tier 1), Calculus Ⅱ(Tier 1), Linear Algebra(Tier 1), Discrete Mathematics, Probability Theory and Mathematical Statistics, *Statistics*.     
+**Economics:**  Political Economy Ⅰ, Political Economy of Socialism with Chinese Characteristics, Microeconomics, *Intermediate Microeconomics*, Macroeconomics, Intermediate Macroeconomics, *Introduction to Econometrics*, Development Economics, Big Data Economics, Game Theory, Public Finance, Experimental Economics, *International Trade*, *New Institution Economics*, *Mathematical Economics*, *Digital Economics*, *Introduction wto Capital*.  
 **Optional Courses**: Management, Accounting.   
-**Computer Science and Technology:**  Python Programming, Basics of Programming,  Digital Logic and Computer Organization, Data Structures.  
+**Computer Science and Technology:**  Python Programming, Basics of Programming,  Data Structures, *Alogorithm Design & Analysis*, Digital Logic and Computer Organization, *Introduction to Computer System*, *Database Technology and Its Application*.      
+ (Finished course, *Ongoing course*)    
+     
 ---
 ## Research Interests
 - Microeconomics: Game Theory and Information Economics, Microeconomic Theory.  
-- Econometics: Applied Microeconometics.  
+- Econometircs: Applied Microeconometics.  
 - Digital Economics and Big Data Economics: Graph Theory and Algorithm (for social network).
     
 ---
