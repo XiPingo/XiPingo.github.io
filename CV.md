@@ -2,7 +2,7 @@
 layout: page
 title: CV
 ---
-Hey, this is my CV.
+Welcome to my CV. Good morning, good afternoon and good night! I hope you all well. {: .message }
 
 # Xi Xiang
 **Location:** Mianyang, Sichuan Province, China  
@@ -22,10 +22,14 @@ Research Assistant to: Professor [Shen Haopeng](https://nubs.nju.edu.cn/shp%C2%A
     
 ---
 ## Courses  
-**Mathematics:**  Calculus Ⅰ(Tier 1), Calculus Ⅱ(Tier 1), Linear Algebra(Tier 1), Discrete Mathematics, Probability Theory and Mathematical Statistics, *Statistics*.     
-**Economics:**  Political Economy Ⅰ, Political Economy of Socialism with Chinese Characteristics, Microeconomics, *Intermediate Microeconomics*, Macroeconomics, Intermediate Macroeconomics, *Introduction to Econometrics*, Development Economics, Big Data Economics, Game Theory, Public Finance, Experimental Economics, *International Trade*, *New Institution Economics*, *Mathematical Economics*, *Digital Economics*, *Introduction to Capital*.  
-**Optional Courses**: Management, Accounting.   
-**Computer Science and Technology:**  Python Programming, Basics of Programming,  Data Structures, *Alogorithm Design & Analysis*, Digital Logic and Computer Organization, *Introduction to Computer System*, *Database Technology and Its Application*.      
+### Mathematics:     
+Calculus Ⅰ(Tier 1), Calculus Ⅱ(Tier 1), Linear Algebra(Tier 1), Discrete Mathematics, Probability Theory and Mathematical Statistics, *Statistics*.     
+### Economics:    
+Political Economy Ⅰ, Political Economy of Socialism with Chinese Characteristics, Microeconomics, *Intermediate Microeconomics*, Macroeconomics, Intermediate Macroeconomics, *Introduction to Econometrics*, Development Economics, Big Data Economics, Game Theory, Public Finance, Experimental Economics, *International Trade*, *New Institution Economics*, *Mathematical Economics*, *Digital Economics*, *Introduction to Capital*.  
+### Optional Courses:     
+Management, Accounting.   
+### Computer Science and Technology:       
+Python Programming, Basics of Programming,  Data Structures, *Alogorithm Design & Analysis*, Digital Logic and Computer Organization, *Introduction to Computer System*, *Database Technology and Its Application*.      
  (Finished course, *Ongoing course*)    
      
 ---
@@ -35,9 +39,9 @@ Research Assistant to: Professor [Shen Haopeng](https://nubs.nju.edu.cn/shp%C2%A
 - Digital Economics and Big Data Economics: Graph Theory and Algorithm (for social network).
     
 ---
-##  Projects
+##  Projects    
 ### CS
-- NEMU (Project of ICS，ongoing)   
+- NEMU (Project of ICS, ongoing)   
 - CPU-XX1 (Project of DLCO, using digital logic and it can perform bubbling sort and quick sort) 2024.12  
 ### Econ
 - A project on Local Government Land Finance in China (ongoing)  
