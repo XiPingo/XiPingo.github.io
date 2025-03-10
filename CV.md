@@ -23,7 +23,7 @@ Research Assistant to: Professor [Shen Haopeng](https://nubs.nju.edu.cn/shp%C2%A
 ---
 ## Courses  
 **Mathematics:**  Calculus Ⅰ(Tier 1), Calculus Ⅱ(Tier 1), Linear Algebra(Tier 1), Discrete Mathematics, Probability Theory and Mathematical Statistics, *Statistics*.     
-**Economics:**  Political Economy Ⅰ, Political Economy of Socialism with Chinese Characteristics, Microeconomics, *Intermediate Microeconomics*, Macroeconomics, Intermediate Macroeconomics, *Introduction to Econometrics*, Development Economics, Big Data Economics, Game Theory, Public Finance, Experimental Economics, *International Trade*, *New Institution Economics*, *Mathematical Economics*, *Digital Economics*, *Introduction wto Capital*.  
+**Economics:**  Political Economy Ⅰ, Political Economy of Socialism with Chinese Characteristics, Microeconomics, *Intermediate Microeconomics*, Macroeconomics, Intermediate Macroeconomics, *Introduction to Econometrics*, Development Economics, Big Data Economics, Game Theory, Public Finance, Experimental Economics, *International Trade*, *New Institution Economics*, *Mathematical Economics*, *Digital Economics*, *Introduction to Capital*.  
 **Optional Courses**: Management, Accounting.   
 **Computer Science and Technology:**  Python Programming, Basics of Programming,  Data Structures, *Alogorithm Design & Analysis*, Digital Logic and Computer Organization, *Introduction to Computer System*, *Database Technology and Its Application*.      
  (Finished course, *Ongoing course*)    
@@ -44,5 +44,6 @@ Research Assistant to: Professor [Shen Haopeng](https://nubs.nju.edu.cn/shp%C2%A
 - A project on The relationship between central and local governments: Based on the perspective of game theory (ongoing)  
 - Effective Responses to Stigmatized Enterprises: A Case Study of the Convenience Food Industry (with AI Peiyuan, YIN Tao and XU Fanjiahui, **first prize** in the freshman track at the 27th Forum of Science & Arts of Nanjing University) 2024.05  
 ### Others
-- Works in the Nanjing University Undergraduate Admissions Volunteer Association
-- Worked as an editor in the All-Media Center of the Undergraduate Admissions Office of Nanjing University (using Jianying and Pr)
+- Works in the Nanjing University Undergraduate Admissions Volunteer Association 2024.05 - Present     
+- Worked as an editor in the All-Media Center of the Undergraduate Admissions Office of Nanjing University (using Jianying and Pr) 2024.09 - Present    
+- Excellence Award of the First Most Beautiful Note Contest of Nanjing University 2024.10   
