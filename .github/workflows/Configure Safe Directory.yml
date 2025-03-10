@@ -1,2 +1,0 @@
-- name: Configure Safe Directory
-  run: git config --global --add safe.directory /github/workspace
