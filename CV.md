@@ -4,8 +4,24 @@ title: CV
 ---
 Hey, this is my CV.
 
-This website is based on **github.io** and **Not Pure People**.
-
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
-
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+# Xiang Xi
+**Location:** Mianyang, Sichuan Province, China  
+**Current Institution:** Nanjing University  
+**Major:** Economics (Honors Program)  
+**Minor:** Computer Science and Technology  
+---
+## Education
+**2023.09 - Present:**  
+Department of Economics, School of Business, Nanjing University  
+---
+## Mentor
+**Research Assistant to:** Professor Shen Haopeng  
+---
+## Courses
+**Mathematics:**  
+**Economics:**  
+**Computer Science and Technology:**  
+---
+## Research Interests
+---
+## Ongoing Projects
