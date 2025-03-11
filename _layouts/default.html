@@ -23,6 +23,15 @@
       </div>
 
       <div class="content pure-u-1 pure-u-md-1-2">
+        <div class="news-box">
+          <h2>News</h2>
+          <ul class="news-list">
+            {% for message in site.data.news %}
+              <li>{{ message }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+
         {%- include content.html -%}
       </div>
       <div class="sidebar-right pure-u-1 pure-u-md-1-4">
