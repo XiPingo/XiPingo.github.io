@@ -26,7 +26,7 @@ Research Assistant to: Professor [Shen Haopeng](https://nubs.nju.edu.cn/shp%C2%A
 ### Mathematic     
 Calculus Ⅰ(Tier 1), Calculus Ⅱ(Tier 1), Linear Algebra(Tier 1), Discrete Mathematics, Probability Theory and Mathematical Statistics, *Statistics*.     
 ### Economy    
-Political Economy Ⅰ, Political Economy of Socialism with Chinese Characteristics, Microeconomics, *Intermediate Microeconomics*, Macroeconomics, Intermediate Macroeconomics, *Introduction to Econometrics*, Development Economics, Big Data Economics, Game Theory, Public Finance, Experimental Economics, *International Trade*, *New Institution Economics*, *Mathematical Economics*, *Digital Economics*, *Introduction to Capital*.  
+Political Economy Ⅰ, Political Economy Ⅱ(Socialism), Microeconomics, *Intermediate Microeconomics*, Macroeconomics, Intermediate Macroeconomics, *Introduction to Econometrics*, Development Economics, Big Data Economics, Game Theory, Public Finance, Experimental Economics, *International Trade*, *New Institution Economics*, *Mathematical Economics*, *Digital Economics*, *Introduction to Capital*.  
 ### Optional Course     
 Management, Accounting.   
 ### Computer Science and Technology       
