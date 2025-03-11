@@ -24,13 +24,20 @@ Research Assistant to: Professor [Shen Haopeng](https://nubs.nju.edu.cn/shp%C2%A
 ---
 ## Courses  
 ### Mathematic     
-Calculus Ⅰ(Tier 1), Calculus Ⅱ(Tier 1), Linear Algebra(Tier 1), Discrete Mathematics, Probability Theory and Mathematical Statistics, *Statistics*.     
+Calculus Ⅰ(Tier 1), Calculus Ⅱ(Tier 1), Linear Algebra(Tier 1)    
+Discrete Mathematics, Probability Theory and Mathematical Statistics, *Statistics*.     
 ### Economy    
-Political Economy Ⅰ, Political Economy Ⅱ(Socialism), Microeconomics, *Intermediate Microeconomics*, Macroeconomics, Intermediate Macroeconomics, *Introduction to Econometrics*, Development Economics, Big Data Economics, Game Theory, Public Finance, Experimental Economics, *International Trade*, *New Institution Economics*, *Mathematical Economics*, *Digital Economics*, *Introduction to Capital*.  
-### Optional Course     
-Management, Accounting.   
+Political Economy Ⅰ, Political Economy Ⅱ(Socialism), *Introduction to Capital*    
+Microeconomics, *Intermediate Microeconomics*, Macroeconomics, Intermediate Macroeconomics, *Introduction to Econometrics*     
+Game Theory, *Mathematical Economics*.      
+#### Financial Direction    
+Management, Accounting, Public Finance, *International Trade*.   
+#### Intersection Direction    
+Experimental Economics, *New Institution Economics*, Development Economics.     
+#### Digital and Big Data Direction
+Big Data Economics, *Digital Economics*, *Database Technology and Its Application*.
 ### Computer Science and Technology       
-Python Programming, Basics of Programming,  Data Structures, *Alogorithm Design & Analysis*, Digital Logic and Computer Organization, *Introduction to Computer System*, *Database Technology and Its Application*.      
+Python Programming, Basics of Programming, Data Structures, *Alogorithm Design & Analysis*, Digital Logic and Computer Organization, *Introduction to Computer System*.       
  (Finished course, *Ongoing course*)    
      
 ---
