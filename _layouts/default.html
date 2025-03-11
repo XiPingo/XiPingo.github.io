@@ -23,8 +23,8 @@
       </div>
 
       <div class="content pure-u-1 pure-u-md-1-2">
-        {%- include search-box.html -%} <!-- 搜索框 -->
-        
+        {%- include home-header.html -%} <!-- 包含标题和其他内容 -->
+
         {% if page.title == "Home" %}
           <div class="news-box">
             <h2>News</h2>
@@ -36,7 +36,7 @@
           </div>
         {% endif %}
 
-        {%- include content.html -%}
+        {%- include archive-dates.html -%} <!-- 包含归档日期列表 -->
       </div>
       <div class="sidebar-right pure-u-1 pure-u-md-1-4">
         {%- include sidebar-right.html -%}
