@@ -37,7 +37,10 @@ Experimental Economics, *New Institution Economics*, Development Economics.
 #### Digital and Big Data Direction
 Big Data Economics, *Digital Economics*, *Database Technology and Its Application*.
 ### Computer Science and Technology       
-Python Programming, Basics of Programming, Data Structures, *Alogorithm Design & Analysis*, Digital Logic and Computer Organization, *Introduction to Computer System*.       
+#### Software
+Python Programming, Basics of Programming, Data Structures, *Alogorithm Design & Analysis*.    
+#### Hardware    
+Digital Logic and Computer Organization, *Introduction to Computer System*.       
  (Finished course, *Ongoing course*)    
      
 ---
