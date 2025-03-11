@@ -1,6 +1,5 @@
----
-# Use a comment to ensure Jekyll reads the file to be transformed into CSS later
-# only main files contain this front matter, not partials.
+// Use a comment to ensure Jekyll reads the file to be transformed into CSS later
+// only main files contain this front matter, not partials.
 ---
 
 //
@@ -36,7 +35,50 @@
   @import "syntax-dark";
 }
 
-// Sass for creating the swatches
+// 新增的消息盒子样式
+.news-box {
+  background-color: #ffe6f2; /* 淡粉色 */
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.news-box h2 {
+  color: #333;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+.news-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.news-list li {
+  margin-bottom: 10px;
+  color: #444;
+  line-height: 1.6;
+}
+
+.news-list li:last-child {
+  margin-bottom: 0;
+}
+
+// 响应式设计
+@media (max-width: 768px) {
+  .news-box {
+    padding: 15px;
+    margin-bottom: 15px;
+  }
+
+  .news-box h2 {
+    font-size: 1.5rem;
+  }
+}
+
+// 原有的颜色示例代码
 .colors {
   display: grid;
   grid-template-columns: max-content 1fr;
