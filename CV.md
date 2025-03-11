@@ -30,16 +30,16 @@ Discrete Mathematics, Probability Theory and Mathematical Statistics, *Statistic
 Political Economy Ⅰ, Political Economy Ⅱ(Socialism), *Introduction to Capital*    
 Microeconomics, *Intermediate Microeconomics*, Macroeconomics, Intermediate Macroeconomics, *Introduction to Econometrics*     
 Game Theory, *Mathematical Economics*.      
-#### Financial Direction    
+#### * Financial Direction    
 Management, Accounting, Public Finance, *International Trade*.   
-#### Intersection Direction    
+#### * Intersection Direction    
 Experimental Economics, *New Institution Economics*, Development Economics.     
-#### Digital and Big Data Direction
+#### * Digital and Big Data Direction
 Big Data Economics, *Digital Economics*, *Database Technology and Its Application*.
 ### Computer Science and Technology       
-#### Software
+#### * Software
 Python Programming, Basics of Programming, Data Structures, *Alogorithm Design & Analysis*.    
-#### Hardware    
+#### * Hardware    
 Digital Logic and Computer Organization, *Introduction to Computer System*.       
  (Finished course, *Ongoing course*)    
      
