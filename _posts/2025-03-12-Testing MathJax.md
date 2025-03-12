@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Testing MathJax
+title: 2025-03-12-Testing MathJax.md
 tags: mathjax
 math: true
 date: 2025-03-12 17:05 +0800
