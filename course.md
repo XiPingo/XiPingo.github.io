@@ -5,75 +5,103 @@ title: course
 On this page, I will put some links to the homepage of the course, containing my understanding of the course and my own notes, I hope it will be helpful.
 {: .message }   
 
-# Courses
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Mathematics</th>
+    </tr>
+    <tr>
+      <th>Semester</th>
+      <th>Course</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>1-1</td><td>Calculus Ⅰ(Tier 1)</td></tr>
+    <tr><td>1-1</td><td>Linear Algebra(Tier 1)</td></tr>
+    <tr><td>1-2</td><td>Calculus Ⅱ(Tier 1)</td></tr>
+    <tr><td>1-2</td><td>Discrete Mathematics</td></tr>
+    <tr><td>2-1</td><td>Probability Theory and Mathematical Statistics</td></tr>
+    <tr><td>2-2</td><td>Statistics</td></tr>
+  </tbody>
+</table>
 
-## Mathematics
-| Semester | Course Name                              |
-|----------|------------------------------------------|
-| 1-1      | Calculus Ⅰ(Tier 1)                      |
-| 1-1      | Linear Algebra(Tier 1)                  |
-| 1-2      | Calculus Ⅱ(Tier 1)                      |
-| 1-2      | Discrete Mathematics                    |
-| 2-1      | Probability Theory and Mathematical Statistics |
-| 2-2      | *Statistics*                            |
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Economy - Semester Courses</th>
+    </tr>
+    <tr>
+      <th>Semester</th>
+      <th>Course</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>1-1</td><td>Political Economy Ⅰ</td></tr>
+    <tr><td>1-1</td><td>Microeconomics</td></tr>
+    <tr><td>1-2</td><td>Calculus Ⅱ(Tier 1)</td></tr>
+    <tr><td>1-2</td><td>Discrete Mathematics</td></tr>
+    <tr><td>1-2</td><td>Macroeconomics</td></tr>
+    <tr><td>2-1</td><td>Political Economy Ⅱ(Socialism)</td></tr>
+    <tr><td>2-1</td><td>Game Theory</td></tr>
+    <tr><td>2-1</td><td>Intermediate Macroeconomics</td></tr>
+    <tr><td>2-2</td><td>Introduction to Capital</td></tr>
+    <tr><td>2-2</td><td>Intermediate Microeconomics</td></tr>
+    <tr><td>2-2</td><td>Introduction to Econometrics</td></tr>
+    <tr><td>2-2</td><td>Mathematical Economics</td></tr>
+  </tbody>
+</table>
 
----
+<table>
+  <thead>
+    <tr><th>Financial Direction</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Management</td></tr>
+    <tr><td>Accounting</td></tr>
+    <tr><td>Public Finance</td></tr>
+    <tr><td><em>International Trade</em></td></tr>
+  </tbody>
+</table>
 
-## Economy
-### Semester Courses
-| Semester | Course Name                              |
-|----------|------------------------------------------|
-| 1-1      | Political Economy Ⅰ                     |
-| 1-1      | Microeconomics                          |
-| 1-2      | Calculus Ⅱ(Tier 1)                      |
-| 1-2      | Discrete Mathematics                    |
-| 1-2      | Macroeconomics                          |
-| 2-1      | Political Economy Ⅱ(Socialism)          |
-| 2-1      | Game Theory                             |
-| 2-1      | Intermediate Macroeconomics             |
-| 2-2      | Introduction to Capital                 |
-| 2-2      | Intermediate Microeconomics             |
-| 2-2      | Introduction to Econometrics            |
-| 2-2      | Mathematical Economics                  |
+<table>
+  <thead>
+    <tr><th>Intersection Direction</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Experimental Economics</td></tr>
+    <tr><td><em>New Institution Economics</em></td></tr>
+    <tr><td>Development Economics</td></tr>
+  </tbody>
+</table>
 
-### Financial Direction
-| Course Name               |
-|---------------------------|
-| Management                |
-| Accounting                |
-| Public Finance            |
-| *International Trade*     |
+<table>
+  <thead>
+    <tr><th>Digital and Big Data Direction</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Big Data Economics</td></tr>
+    <tr><td><em>Digital Economics</em></td></tr>
+    <tr><td><em>Database Technology and Its Application</em></td></tr>
+  </tbody>
+</table>
 
-### Intersection Direction
-| Course Name               |
-|---------------------------|
-| Experimental Economics    |
-| *New Institution Economics* |
-| Development Economics     |
-
-### Digital and Big Data Direction
-| Course Name                          |
-|--------------------------------------|
-| Big Data Economics                   |
-| *Digital Economics*                  |
-| *Database Technology and Its Application* |
-
-*(Finished course, *Ongoing course*)*
-
----
-
-## Computer Science and Technology
-| Semester | Course Name                          |
-|----------|--------------------------------------|
-| 1-2      | Python Programming                   |
-| 1-2      | Basics of Programming                |
-| 1-2      | Digital Logic and Computer Organization |
-| 2-1      | Data Structures                      |
-| 2-1      | Game Theory                          |
-| 2-2      | *Algorithm Design & Analysis*       |
-| 2-2      | *Introduction to Computer System*   |
-
-
-  
-     
----
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Computer Science and Technology</th>
+    </tr>
+    <tr>
+      <th>Semester</th>
+      <th>Course</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>1-2</td><td>Python Programming</td></tr>
+    <tr><td>1-2</td><td>Basics of Programming</td></tr>
+    <tr><td>1-2</td><td>Digital Logic and Computer Organization</td></tr>
+    <tr><td>2-1</td><td>Data Structures</td></tr>
+    <tr><td>2-1</td><td>Game Theory</td></tr>
+    <tr><td>2-2</td><td>Algorithm Design & Analysis</td></tr>
+    <tr><td>2-2</td><td>Introduction to Computer System</td></tr>
+  </tbody>
+</table>
