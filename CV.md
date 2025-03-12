@@ -59,7 +59,7 @@ Digital Logic and Computer Organization, *Introduction to Computer System*.
 ### Econ
 - A project on Local Government Land Finance in China (ongoing)  
 - A project on The relationship between central and local governments: Based on the perspective of game theory (ongoing)  
-- Effective Responses to Stigmatized Enterprises: A Case Study of the Convenience Food Industry (with AI Peiyuan, YIN Tao and XU Fanjiahui, **first prize** in the freshman track at the 27th Forum of Science & Arts of Nanjing University) 2024.05     
+- Effective Responses to Stigmatized Enterprises: A Case Study of the Convenience Food Industry (AI Peiyuan, **XIANG Xi**, YIN Tao and XU Fanjiahui, **first prize** in the freshman track at the 27th Forum of Science & Arts of Nanjing University) 2024.05     
 
 ### Others
 - Works in the Nanjing University Undergraduate Admissions Volunteer Association 2024.05 - Present     
