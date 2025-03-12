@@ -28,8 +28,10 @@ Calculus Ⅰ(Tier 1), Calculus Ⅱ(Tier 1), Linear Algebra(Tier 1)
 Discrete Mathematics, Probability Theory and Mathematical Statistics, *Statistics*.     
 ### Economy    
 Political Economy Ⅰ, Political Economy Ⅱ(Socialism), *Introduction to Capital*    
-Microeconomics, *Intermediate Microeconomics*, Macroeconomics, Intermediate Macroeconomics, *Introduction to Econometrics*     
-Game Theory, *Mathematical Economics*.      
+Microeconomics, *Intermediate Microeconomics*, Game Theory    
+Macroeconomics, Intermediate Macroeconomics    
+*Introduction to Econometrics*     
+*Mathematical Economics*.      
 * #### Financial Direction    
 Management, Accounting, Public Finance, *International Trade*.   
 * #### Intersection Direction    
