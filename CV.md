@@ -35,7 +35,8 @@ Management, Accounting, Public Finance, *International Trade*.
 * #### Intersection Direction    
 Experimental Economics, *New Institution Economics*, Development Economics.     
 * #### Digital and Big Data Direction
-Big Data Economics, *Digital Economics*, *Database Technology and Its Application*.
+Big Data Economics, *Digital Economics*, *Database Technology and Its Application*.    
+
 ### Computer Science and Technology       
 * #### Software
 Python Programming, Basics of Programming, Data Structures, *Alogorithm Design & Analysis*.    
