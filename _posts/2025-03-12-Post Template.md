@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Post Template
+title: 2025-03-12-Post Template.md
 date: 2025-03-12 17:04 +0800
 last_modified_at: 2025-03-12 17:04 +0800
 tags: [Template]
