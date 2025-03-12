@@ -1,6 +1,6 @@
 ---
 layout: page
-title: course
+title: Course
 ---
 On this page, I will put some links to the homepage of the course, containing my understanding of the course and my own notes, I hope it will be helpful.
 {: .message }   
@@ -48,7 +48,7 @@ On this page, I will put some links to the homepage of the course, containing my
     </tr>
     <tr>
       <td class="semester-column">2-2</td>
-      <td><em>Statistics</em></td>
+      <td>Statistics</td>
       <td><a href="https://xipingo.github.io/resource/Statistics">Link</a></td>
     </tr>
   </tbody>
@@ -216,12 +216,12 @@ On this page, I will put some links to the homepage of the course, containing my
     </tr>
     <tr>
       <td class="semester-column">2-2</td>
-      <td><em>Algorithm Design & Analysis</em></td>
+      <td>Algorithm Design & Analysis</td>
       <td><a href="https://xipingo.github.io/resource/AlgorithmDesignAndAnalysis">Link</a></td>
     </tr>
     <tr>
       <td class="semester-column">2-2</td>
-      <td><em>Introduction to Computer System</em></td>
+      <td>Introduction to Computer System</td>
       <td><a href="https://xipingo.github.io/resource/IntroductionToComputerSystem">Link</a></td>
     </tr>
   </tbody>
