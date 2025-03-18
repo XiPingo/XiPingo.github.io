@@ -18,7 +18,7 @@ Economics, Department of Economics, School of Business, Nanjing University
    
 ---
 ## Mentor
-Doctoral Supervisor, Professor [Pi Jiancai](https://nubs.nju.edu.cn/pjc/list.htm)
+Doctoral Supervisor, Professor [Pi Jiancai](https://nubs.nju.edu.cn/pjc/list.htm)    
 Research Assistant to: Professor [Shen Haopeng](https://nubs.nju.edu.cn/shp%C2%A0/list.htm)    
     
 ---
@@ -66,4 +66,15 @@ Digital Logic and Computer Organization, *Introduction to Computer System*.
 ### Others
 - Works in the Nanjing University Undergraduate Admissions Volunteer Association 2024.05 - Present     
 - Worked as an editor in the All-Media Center of the Undergraduate Admissions Office of Nanjing University (using Jianying and Pr) 2024.09 - Present    
-- Excellence Award of the First Most Beautiful Note Contest of Nanjing University 2024.10   
+- Excellence Award of the First Most Beautiful Note Contest of Nanjing University 2024.10
+
+---
+## About Grades   
+### GPA (Update:2024-2025-1)   
+Total:4.43/5   Degree:4.47/5    
+If you need, email me for my Transcript.
+### English   
+* CET-4: 601（Listening:203 Reading:214 Translating and Writing:184)   
+* CET-6: 542（Listening:185 Reading:210 Translating and Writing:147)
+### Others
+* 2025 MCM/ICM *waiting*   
