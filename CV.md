@@ -6,7 +6,7 @@ Welcome to my CV. Good morning, good afternoon and good night! I hope you all we
 {: .message }   
 
 # Xi Xiang
-**Location:** Mianyang, Sichuan Province, China  
+**Location:** Jiangsu, Nanjing Province, China  
 **Current Institution:** Nanjing University  
 **Major:** Economics (Honors Program)  
 **Minor:** Computer Science and Technology    
@@ -18,7 +18,7 @@ Economics, Department of Economics, School of Business, Nanjing University
    
 ---
 ## Mentor
-
+Doctoral Supervisor, Professor [Pi Jiancai](https://nubs.nju.edu.cn/pjc/list.htm)
 Research Assistant to: Professor [Shen Haopeng](https://nubs.nju.edu.cn/shp%C2%A0/list.htm)    
     
 ---
