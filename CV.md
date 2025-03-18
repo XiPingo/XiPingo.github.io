@@ -60,7 +60,7 @@ Digital Logic and Computer Organization, *Introduction to Computer System*.
   ▪ Developing a simplified x86 architecture emulator | *In Progress (Spring 2025)*
 
 - **CPU-XX1 Digital Logic Design**  
-  *Digital Logic and Computer Organization Course Project*  
+  *Course Project for Digital Logic and Computer Organization*  
   ▪ Implemented bubble sort and quick sort algorithms using digital logic circuits  
   ▪ Designed with Logisim simulation tool | *Completed (Dec 2024)*
 
