@@ -100,10 +100,36 @@ Digital Logic and Computer Organization, *Introduction to Computer System*.
 ## Academic Credentials
 
 ### GPA Summary (Updated: Fall 2024)
-| Category       | Score    |
-|----------------|----------|
-| Cumulative GPA | 4.43/5.0 |
-| Degree GPA     | 4.47/5.0 |
+<style>
+  .semester-column { text-align: center; }
+  /* 新增通用表格样式 */
+  table { border-collapse: collapse; margin: 1em 0; }
+  th, td { padding: 8px 12px; border: 1px solid #ddd; }
+  th { background-color: #f5f5f5; }
+</style>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Academic Performance</th>
+    </tr>
+    <tr>
+      <th>Category</th>
+      <th>Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Cumulative GPA</td>
+      <td class="semester-column">4.43/5.0</td>
+    </tr>
+    <tr>
+      <td>Degree GPA</td>
+      <td class="semester-column">4.47/5.0</td>
+    </tr>
+  </tbody>
+</table>
+
 
 *Official academic transcripts available upon request via email.*
 
@@ -111,21 +137,75 @@ Digital Logic and Computer Organization, *Introduction to Computer System*.
 
 ### Language Proficiency
 
-#### CET-4 (College English Test Band 4)
-| Section                | Score |
-|------------------------|-------|
-| Listening Comprehension| 203   |
-| Reading Comprehension  | 214   |
-| Translation & Writing  | 184   |
-| **Total**              | 601   |
+<style>
+  .semester-column { text-align: center; }
+  table { border-collapse: collapse; margin: 1em 0; }
+  th, td { padding: 8px 12px; border: 1px solid #ddd; }
+  th { background-color: #f5f5f5; }
+</style>
 
-#### CET-6 (College English Test Band 6) 
-| Section                | Score |
-|------------------------|-------|
-| Listening Comprehension| 185   |
-| Reading Comprehension  | 210   |
-| Translation & Writing  | 147   |
-| **Total**              | 542   |
+<!-- CET-4 成绩表 -->
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">CET-4 (College English Test Band 4)</th>
+    </tr>
+    <tr>
+      <th>Section</th>
+      <th>Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Listening Comprehension</td>
+      <td class="semester-column">203</td>
+    </tr>
+    <tr>
+      <td>Reading Comprehension</td>
+      <td class="semester-column">214</td>
+    </tr>
+    <tr>
+      <td>Translation &amp; Writing</td>
+      <td class="semester-column">184</td>
+    </tr>
+    <tr>
+      <td><strong>Total</strong></td>
+      <td class="semester-column"><strong>601</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- CET-6 成绩表 -->
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">CET-6 (College English Test Band 6)</th>
+    </tr>
+    <tr>
+      <th>Section</th>
+      <th>Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Listening Comprehension</td>
+      <td class="semester-column">185</td>
+    </tr>
+    <tr>
+      <td>Reading Comprehension</td>
+      <td class="semester-column">210</td>
+    </tr>
+    <tr>
+      <td>Translation &amp; Writing</td>
+      <td class="semester-column">147</td>
+    </tr>
+    <tr>
+      <td><strong>Total</strong></td>
+      <td class="semester-column"><strong>542</strong></td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
 
