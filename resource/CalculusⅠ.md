@@ -24,9 +24,10 @@ All rights reserved by 科学出版社.
 
 ## Courseware of CalculusⅠ
 
- [Courseware](https://xipingo.github.io/resourse/CalculusⅠ/02_1 Calculus Ⅰ Courseware.pdf).
+ [Courseware](https://xipingo.github.io/resource/CalculusⅠ/02_1_CalculusⅠ_Courseware.pdf).
+ 
 
- All rights reserved by Professer [Xiao Yuanming](https://math.nju.edu.cn/jzyg/apypl/20240321/i261787.html)
+ All rights reserved by Professer [Xiao Yuanming](https://math.nju.edu.cn/jzyg/apypl/20240321/i261787.html).
 
 -----
 
