@@ -12,49 +12,69 @@ Welcome to the homepage of **CalculusⅠ** !
 
 The teaching content of this course is as follows：   
 
-<table>
-<thead>
+<table border="1" width="100%">
 <tr>
-<th>Teaching Content</th>
-</tr>
-</thead>
-<tfoot>
-<tr>
-<td>Total Content</td>
-</tr>
-</tfoot>
-<tbody>
-<tr>
-<td>1. Review of basic knowledge of elementary mathematics for subsequent instruction</td>
+<th>Section</th>
+<th>Content</th>
 </tr>
 <tr>
-<td> - Fundamental concepts of set theory, mappings and functions, basic elementary functions, composite functions, elementary functions, complex numbers, polar coordinates</td>
+<td>1. Review of Basic Elementary Mathematics</td>
+<td>
+<ul>
+<li>Fundamental concepts of set theory</li>
+<li>Mappings and functions</li>
+<li>Basic elementary functions</li>
+<li>Composite functions and elementary functions</li>
+<li>Complex numbers and polar coordinates</li>
+</ul>
+</td>
 </tr>
 <tr>
-<td> - Sequences, limits of functions</td>
+<td>2. Limits and Continuity</td>
+<td>
+<ul>
+<li>Sequences and limits of functions</li>
+<li>Continuity and discontinuities of functions</li>
+<li>Properties of continuous functions on closed intervals</li>
+</ul>
+</td>
 </tr>
 <tr>
-<td> - Continuity and discontinuities of functions, properties of continuous functions on closed intervals</td>
+<td>3. Differential Calculus</td>
+<td>
+<ul>
+<li>Definition of derivatives and arithmetic operation rules</li>
+<li>Derivative rules for inverse functions, composite functions, and basic derivative formulas</li>
+<li>Logarithmic differentiation, implicit function differentiation, and derivative rules for parametric equations</li>
+<li>Definition and properties of differentials</li>
+<li>Mean value theorems (L'Hôpital's rule, Lagrange's mean value theorem, Cauchy's mean value theorem)</li>
+<li>Taylor's formula</li>
+</ul>
+</td>
 </tr>
 <tr>
-<td> - Definition of derivatives, rules of arithmetic operations on derivatives, derivative rules for inverse functions, basic derivative formulas, derivative rules for composite functions, logarithmic differentiation, implicit function differentiation, derivative rules for equations with parameters, definition and properties of differentials</td>
+<td>4. Integral Calculus</td>
+<td>
+<ul>
+<li>Primitive functions, definitions, and properties of indefinite integrals</li>
+<li>First and second substitution methods, integration by parts, and basic integration formulas for indefinite integrals</li>
+<li>Definitions and properties of definite integrals, Newton-Leibniz formula</li>
+<li>Substitution and integration by parts for definite integrals</li>
+<li>Method of evaluating definite integrals using infinitesimals</li>
+<li>Geometric applications of definite integrals (area of plane figures, volume via cross-sectional areas, curve arc length, volumes/surface areas of rotating surfaces, curve curvature, etc.)</li>
+</ul>
+</td>
 </tr>
 <tr>
-<td> - Mean value theorems in differential calculus (L’Hopital’s rule, Lagrange’s rule, Cauchy’s rule), L’Hopital’s rule, Taylor’s formula</td>
+<td>5. Analytic Geometry and Vector Algebra</td>
+<td>
+<ul>
+<li>Cartesian coordinate system</li>
+<li>Basic knowledge of vectors</li>
+<li>Vector algebra (operations, properties, etc.)</li>
+</ul>
+</td>
 </tr>
-<tr>
-<td> - Primitive functions and definitions and properties of indefinite integrals, first and second substitution methods and integration by parts for indefinite integrals, basic integration formulas</td>
-</tr>
-<tr>
-<td> - Definitions and properties of definite integrals, Newton - Leibniz formula, substitution and integration by parts for definite integrals</td>
-</tr>
-<tr>
-<td> - Method of evaluating definite integrals using infinitesimals, applications of definite integrals in geometry (including area calculations of plane figures, volumes of solids given cross - sectional areas, arc lengths of curves, volumes and surface areas of rotating surfaces, curvature of curves, etc.)</td>
-</tr>
-<tr>
-<td> - Cartesian coordinate system, basic knowledge of vectors, vector algebra</td>
-</tr>
-</tbody>
 </table>
 
 # Course Resourse
