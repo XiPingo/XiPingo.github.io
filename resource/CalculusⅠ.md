@@ -1,14 +1,16 @@
 ---
 layout: post
 title: CalculusⅠ
-date: 2023-12-30 13:04 +0800
-last_modified_at: 2025-03-12 17:04 +0800
+date: 2023-09-04 13:04 +0800
+last_modified_at: 2023-12-30 17:04 +0800
 tags: Math
 toc:  true
 math: true
 ---
 Welcome to the homepage of **CalculusⅠ** !
 {: .message }
+
+# Course Introduction
 
 The teaching content of this course is as follows：   
 
@@ -76,6 +78,8 @@ The teaching content of this course is as follows：
 </td>
 </tr>
 </table>
+
+-----
 
 # Course Resourse
 
