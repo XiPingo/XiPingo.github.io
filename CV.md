@@ -23,6 +23,9 @@ Research Assistant to: Professor [Shen Haopeng](https://nubs.nju.edu.cn/shp%C2%A
     
 ---
 ## Courses  
+
+ (Finished course, *Ongoing course*)   
+
 ### Mathematic     
 Calculus Ⅰ(Tier 1), Calculus Ⅱ(Tier 1), Linear Algebra(Tier 1)    
 Discrete Mathematics, Probability Theory and Mathematical Statistics, *Statistics*.     
@@ -44,7 +47,6 @@ Big Data Economics, *Digital Economics*, *Database Technology and Its Applicatio
 Python Programming, Basics of Programming, Data Structures, *Alogorithm Design & Analysis*.    
 * #### Hardware    
 Digital Logic and Computer Organization, *Introduction to Computer System*.       
- (Finished course, *Ongoing course*)    
      
 ---
 ## Research Interests
@@ -67,6 +69,11 @@ Digital Logic and Computer Organization, *Introduction to Computer System*.
 ---
 
 ### Economics Research
+- **The Mechanism and Heterogeneity of the Impact of Digital Trade on the Quality of Employment in China**  
+  ▪ Verify four hypotheses: digital trade boosts employment quality, consumption amplifies effect, education investment has threshold, skill level mediates   
+  ▪ Build hierarchical regression model, use entropy - weight & instrumental variable, and diverse methods for robustness   
+  ▪ Explore infrastructure - related threshold effect, find possible inhibition of digital infrastructure | *In Progress (Spring 2025)*
+
 - **Land Finance Mechanisms of Chinese Local Governments**  
   ▪ Analyzing fiscal decentralization and land monetization strategies  
   ▪ Developing game theory models for policy analysis | *In Progress (Fall 2024)*
@@ -211,4 +218,4 @@ Digital Logic and Computer Organization, *Introduction to Computer System*.
 
 ### Competition Records
 - **2025 Mathematical Contest in Modeling (MCM)**  
-  Current Status: *Under Review*
+  **Honorable Mention** with Zhan Chen and Haoyu Shen.
