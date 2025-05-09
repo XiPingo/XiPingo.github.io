@@ -71,10 +71,11 @@ Digital Logic and Computer Organization, *Introduction to Computer System*.
 ---
 
 ### Economics Research
-- **The Mechanism and Heterogeneity of the Impact of Digital Trade on the Quality of Employment in China**  
+- **The Mechanism and Heterogeneity of the Impact of Digital Trade on the Quality of Employment in China**
+    *Team Members: **XIANG Xi**, WU Haomin and FAN Jincheng* 
   ▪ Verify four hypotheses: digital trade boosts employment quality, consumption amplifies effect, education investment has threshold, skill level mediates   
   ▪ Build hierarchical regression model, use entropy - weight & instrumental variable, and diverse methods for robustness   
-  ▪ Explore infrastructure - related threshold effect, find possible inhibition of digital infrastructure | *In Progress (Spring 2025)*
+  ▪ **Awarded Third Prize** - The 36th "Silver Star Cup" undergraduate academic paper competition | *May 2025*
 
 - **Land Finance Mechanisms of Chinese Local Governments**  
   ▪ Analyzing fiscal decentralization and land monetization strategies  
