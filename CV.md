@@ -1,7 +1,9 @@
 ---
 layout: page
 title: CV
+toc:  true
 ---
+
 Welcome to my CV. Good morning, good afternoon and good night! I hope you all well. 
 {: .message }   
 
