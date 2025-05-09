@@ -83,8 +83,8 @@ On this page, I will put some links to the homepage of the course, containing my
     </tr>
     <tr>
       <td class="semester-column">2-1</td>
-      <td>Political Economy Ⅱ(Socialism)</td>
-      <td><a href="https://xipingo.github.io/resource/PoliticalEconomyⅡ(Socialism)">Link</a></td>
+      <td>Political Economy Ⅱ</td>
+      <td><a href="https://xipingo.github.io/resource/PoliticalEconomyⅡ">Link</a></td>
     </tr>
     <tr>
       <td class="semester-column">2-1</td>
