@@ -7,7 +7,7 @@ tags: Math
 toc:  true
 math: true
 ---
-Welcome to the homepage of **CalculusⅠ** !
+Welcome to the homepage of **Calculus Ⅰ** !
 {: .message }
 
 # Course Introduction
@@ -83,7 +83,7 @@ The teaching content of this course is as follows：
 
 # Course Resourse
 
-## Textbook of CalculusⅠ
+## Textbook of Calculus Ⅰ
 
  [Textbook](https://www.icourse163.org/course/NJU-1462027163).
 
@@ -91,7 +91,7 @@ All rights reserved by 科学出版社.
 
 -----
 
-## Courseware of CalculusⅠ
+## Courseware of Calculus Ⅰ
 
  [Courseware](https://xipingo.github.io/resource/CalculusⅠ/02_1_Calculus I Courseware.pdf).
  
@@ -100,13 +100,13 @@ All rights reserved by 科学出版社.
 
 -----
 
-## Midterm of CalculusⅠ
+## Midterm of Calculus Ⅰ
 
  [Midterm](https://xipingo.github.io/resource/CalculusⅠ/03_1_Calculus I Midterm.pdf).
 
 -----
 
-## Final of CalculusⅠ
+## Final of Calculus Ⅰ
 
  [Final](https://xipingo.github.io/resource/CalculusⅠ/03_2_Calculus I Final.pdf).
 
