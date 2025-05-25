@@ -83,7 +83,7 @@ The teaching content of this course is as follows：
 
 # Course Resourse
 
-## Textbook of Calculus Ⅰ
+## Textbook of CalculusⅠ
 
  [Textbook](https://www.icourse163.org/course/NJU-1462027163).
 
@@ -91,7 +91,7 @@ All rights reserved by 科学出版社.
 
 -----
 
-## Courseware of Calculus Ⅰ
+## Courseware of CalculusⅠ
 
  [Courseware](https://xipingo.github.io/resource/CalculusⅠ/02_1_Calculus I Courseware.pdf).
  
@@ -100,13 +100,13 @@ All rights reserved by 科学出版社.
 
 -----
 
-## Midterm of Calculus Ⅰ
+## Midterm of CalculusⅠ
 
  [Midterm](https://xipingo.github.io/resource/CalculusⅠ/03_1_Calculus I Midterm.pdf).
 
 -----
 
-## Final of Calculus Ⅰ
+## Final of CalculusⅠ
 
  [Final](https://xipingo.github.io/resource/CalculusⅠ/03_2_Calculus I Final.pdf).
 
