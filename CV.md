@@ -9,7 +9,7 @@ Welcome to my CV. Good morning, good afternoon and good night! I hope you all we
 
 # Xi Xiang
 **Location:** Nanjing, China  
-**Institution:** Nanjing University (NJU)  
+**Institution:** Nanjing University ([NJU](https://www.nju.edu.cn/))  
 **Major:** Economics (Honors Program)  
 **Minor:** Computer Science and Technology    
    
@@ -59,6 +59,12 @@ Digital Logic and Computer Organization, *Introduction to Computer System*.
 ## Project Experience
 
 ### Computer Science
+
+
+- **Sports Meeting Management System**  
+  *A system for managing sports events, athletes, and results*  
+  ▪ Enables administrators to manage events and athletes, including functions such as adding, modifying, and deleting events, managing athlete information, and entering results; also supports athletes in registering, logging in, and querying registered events, personal results, event results, and department-level results, etc. | *Completed (May 2025)*
+  
 - **NEMU (NJU EMUlator)**  
   *Course Project for Introduction to Computer Systems*  
   ▪ Developing a simplified x86 architecture emulator | *In Progress (Spring 2025)*
