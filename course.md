@@ -51,6 +51,11 @@ On this page, I will put some links to the homepage of the course, containing my
       <td>Statistics</td>
       <td><a href="https://xipingo.github.io/resource/Statistics">Link</a></td>
     </tr>
+    <tr>
+      <td class="semester-column">3-1</td>
+      <td><em>Operations Research</em></td>
+      <td><a href="https://xipingo.github.io/resource/OperationsResearch">Link</a></td>
+    </tr>
   </tbody>
 </table>
 
@@ -116,6 +121,21 @@ On this page, I will put some links to the homepage of the course, containing my
       <td>Mathematical Economics</td>
       <td><a href="https://xipingo.github.io/resource/MathematicalEconomics">Link</a></td>
     </tr>
+  <tr>
+      <td class="semester-column">3-1</td>
+      <td><em>Chinese Economic History</em></td>
+      <td><a href="https://xipingo.github.io/resource/ChineseEconomicHistory">Link</a></td>
+    </tr>
+  <tr>
+      <td class="semester-column">3-1</td>
+      <td><em>Intermediate Econometrics</em></td>
+      <td><a href="https://xipingo.github.io/resource/IntermediateEconometrics">Link</a></td>
+    </tr>
+  <tr>
+      <td class="semester-column">3-1</td>
+      <td><em>Industrial Economics</em></td>
+      <td><a href="https://xipingo.github.io/resource/ndustrialEconomics">Link</a></td>
+    </tr>
   </tbody>
 </table>
 
@@ -137,8 +157,16 @@ On this page, I will put some links to the homepage of the course, containing my
       <td><a href="https://xipingo.github.io/resource/PublicFinance">Link</a></td>
     </tr>
     <tr>
-      <td><em>International Trade</em></td>
+      <td>International Trade</td>
       <td><a href="https://xipingo.github.io/resource/InternationalTrade">Link</a></td>
+    </tr>
+    <tr>
+      <td><em>Monetary Finance and Banking</em></td>
+      <td><a href="https://xipingo.github.io/resource/MonetaryFinanceAndBanking">Link</a></td>
+    </tr>
+    <tr>
+      <td><em>Empirical Methods in Finance</em></td>
+      <td><a href="https://xipingo.github.io/resource/ImpiricalMethodsInFinance">Link</a></td>
     </tr>
   </tbody>
 </table>
@@ -153,12 +181,16 @@ On this page, I will put some links to the homepage of the course, containing my
       <td><a href="https://xipingo.github.io/resource/ExperimentalEconomics">Link</a></td>
     </tr>
     <tr>
-      <td><em>New Institution Economics</em></td>
+      <td>New Institution Economics</td>
       <td><a href="https://xipingo.github.io/resource/NewInstitutionEconomics">Link</a></td>
     </tr>
     <tr>
       <td>Development Economics</td>
       <td><a href="https://xipingo.github.io/resource/DevelopmentEconomics">Link</a></td>
+    </tr>
+    <tr>
+      <td><em>Behavioral Economics</em></td>
+      <td><a href="https://xipingo.github.io/resource/BehavioralEconomics">Link</a></td>
     </tr>
   </tbody>
 </table>
@@ -173,11 +205,11 @@ On this page, I will put some links to the homepage of the course, containing my
       <td><a href="https://xipingo.github.io/resource/BigDataEconomics">Link</a></td>
     </tr>
     <tr>
-      <td><em>Digital Economics</em></td>
+      <td>Digital Economics</td>
       <td><a href="https://xipingo.github.io/resource/DigitalEconomics">Link</a></td>
     </tr>
     <tr>
-      <td><em>Database Technology and Its Application</em></td>
+      <td>Database Technology and Its Application</td>
       <td><a href="https://xipingo.github.io/resource/DatabaseTechnologyAndItsApplication">Link</a></td>
     </tr>
   </tbody>
@@ -224,6 +256,31 @@ On this page, I will put some links to the homepage of the course, containing my
       <td class="semester-column">2-2</td>
       <td>Introduction to Computer System</td>
       <td><a href="https://xipingo.github.io/resource/IntroductionToComputerSystem">Link</a></td>
+    </tr>
+    <tr>
+      <td class="semester-column">3-1</td>
+      <td><em>Introduction to Databases</em></td>
+      <td><a href="https://xipingo.github.io/resource/IntroductionToDatabases">Link</a></td>
+    </tr>
+    <tr>
+      <td class="semester-column">3-1</td>
+      <td><em>Computer Networks</em></td>
+      <td><a href="https://xipingo.github.io/resource/ComputerNetworks">Link</a></td>
+    </tr>
+    <tr>
+      <td class="semester-column">3-1</td>
+      <td><em>Introduction to Machine Learning</em></td>
+      <td><a href="https://xipingo.github.io/resource/IntroductionToMachineLearning">Link</a></td>
+    </tr>
+    <tr>
+      <td class="semester-column">3-1</td>
+      <td><em>Elements of Cryptography</em></td>
+      <td><a href="https://xipingo.github.io/resource/ElementsOfCryptography">Link</a></td>
+    </tr>
+    <tr>
+      <td class="semester-column">3-1</td>
+      <td><em>Software Engineering</em></td>
+      <td><a href="https://xipingo.github.io/resource/SoftwareEngineering">Link</a></td>
     </tr>
   </tbody>
 </table>
