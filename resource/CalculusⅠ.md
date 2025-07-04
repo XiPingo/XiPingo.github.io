@@ -7,12 +7,13 @@ tags: Math
 toc:  true
 math: true
 ---
-Welcome to the homepage of **Calculus Ⅰ** !
+Welcome to the homepage of **Calculus Ⅰ** !   
+Tips: 凌波能信步，苦海岂无边。
 {: .message }
 
 # Course Introduction
 
-The teaching content of this course is as follows：   
+The teaching content of this course is as follows:   
 
 <table border="1" width="100%">
 <tr>
@@ -109,5 +110,11 @@ All rights reserved by 科学出版社.
 ## Final of CalculusⅠ
 
  [Final](https://xipingo.github.io/resource/CalculusⅠ/03_2_Calculus I Final.pdf).
+
+-----
+
+## Notes of CalculusⅠ
+
+ [Notes(Handwrite Version)](https://xipingo.github.io/resource/CalculusⅠ/NotesOfCalculusⅠ.pdf) by Xipingo, there is no LaTeX version of it.
 
 -----
