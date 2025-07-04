@@ -30,25 +30,25 @@ Research Assistant to: Professor [Shen Haopeng](https://nubs.nju.edu.cn/shp%C2%A
 
 ### Mathematic     
 Calculus Ⅰ(Tier 1), Calculus Ⅱ(Tier 1), Linear Algebra(Tier 1)    
-Discrete Mathematics, Probability Theory and Mathematical Statistics, *Statistics*.     
+Discrete Mathematics, Probability Theory and Mathematical Statistics, Statistics, *Opreation Research*.     
 ### Economy    
-Political Economy Ⅰ, Political Economy Ⅱ, *Introduction to Capital*    
-Microeconomics, *Intermediate Microeconomics*, Game Theory    
-Macroeconomics, Intermediate Macroeconomics    
-*Introduction to Econometrics*     
-*Mathematical Economics*.      
+Political Economy Ⅰ, Political Economy Ⅱ, Introduction to Capital, *Chinese Economic History*    
+Microeconomics, Intermediate Microeconomics, Game Theory    
+Macroeconomics, Intermediate Macroeconomics, *Industrial Economics*    
+Introduction to Econometrics, *Intermediate Econometics*    
+Mathematical Economics.      
 * #### Financial Direction    
-Management, Accounting, Public Finance, *International Trade*.   
+Management, Accounting, Public Finance, International Trade, *Monetary Finance and Banking*, *Empirical Methods in Finance*.   
 * #### Intersection Direction    
-Experimental Economics, *New Institution Economics*, Development Economics.     
+Experimental Economics, New Institution Economics, Development Economics, *Behavioral Economics*.     
 * #### Digital and Big Data Direction
-Big Data Economics, *Digital Economics*, *Database Technology and Its Application*.    
+Big Data Economics, Digital Economics, Database Technology and Its Application.    
 
 ### Computer Science and Technology       
 * #### Software
-Python Programming, Basics of Programming, Data Structures, *Alogorithm Design & Analysis*.    
+Python Programming, Basics of Programming, Data Structures, Alogorithm Design & Analysis, *Introduction to Databases*, *Computer Networks*, *Introduction to Machine Learning*, *Elements of Cryptography*, *Software Engineering*.    
 * #### Hardware    
-Digital Logic and Computer Organization, *Introduction to Computer System*.       
+Digital Logic and Computer Organization, Introduction to Computer System.       
      
 ---
 ## Research Interests
@@ -77,6 +77,12 @@ Digital Logic and Computer Organization, *Introduction to Computer System*.
 ---
 
 ### Economics Research
+
+- **The Return Rate Trend and Professional Heterogeneity of Higher Education in China**   
+  *Team Members: **XIANG Xi** and GUI Yuhe*   
+  ▪ An article summary and a modified Mincer Equation   
+  ▪ Combine The Return Rate Trend and Professional Heterogeneity of Higher Education| *In Progress (Spring 2025)*
+
 - **The Mechanism and Heterogeneity of the Impact of Digital Trade on the Quality of Employment in China**   
   *Team Members: **XIANG Xi**, WU Haomin and FAN Jincheng*    
   ▪ Verify four hypotheses: digital trade boosts employment quality, consumption amplifies effect, education investment has threshold, skill level mediates    
@@ -115,10 +121,9 @@ Digital Logic and Computer Organization, *Introduction to Computer System*.
 ---
 ## Academic Credentials
 
-### GPA Summary (Updated: Fall 2024)
+### GPA Summary (Updated: Spring 2025)
 <style>
   .semester-column { text-align: center; }
-  /* 新增通用表格样式 */
   table { border-collapse: collapse; margin: 1em 0; }
   th, td { padding: 8px 12px; border: 1px solid #ddd; }
   th { background-color: #f5f5f5; }
@@ -137,11 +142,11 @@ Digital Logic and Computer Organization, *Introduction to Computer System*.
   <tbody>
     <tr>
       <td>Cumulative GPA</td>
-      <td class="semester-column">4.43/5.0</td>
+      <td class="semester-column">4.45/5.0</td>
     </tr>
     <tr>
       <td>Degree GPA</td>
-      <td class="semester-column">4.47/5.0</td>
+      <td class="semester-column">4.50/5.0</td>
     </tr>
   </tbody>
 </table>
@@ -228,3 +233,4 @@ Digital Logic and Computer Organization, *Introduction to Computer System*.
 ### Competition Records
 - **2025 Mathematical Contest in Modeling (MCM)**  
   **Honorable Mention** with Zhan Chen and Haoyu Shen.
+  
