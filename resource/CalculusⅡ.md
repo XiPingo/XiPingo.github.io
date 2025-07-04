@@ -38,11 +38,11 @@ All rights reserved by 科学出版社.
 
 ## Courseware of CalculusⅠ
 
- [Courseware(Part1)](https://xipingo.github.io/resource/CalculusⅡ/01_1_CalculusII(part1).pdf).   
- [Courseware(Part2)](https://xipingo.github.io/resource/CalculusⅡ/01_1_CalculusII(part2).pdf).   
- [Courseware(Part3)](https://xipingo.github.io/resource/CalculusⅡ/01_1_CalculusII(part3).pdf).   
- [Courseware(Part4)](https://xipingo.github.io/resource/CalculusⅡ/01_1_CalculusII(part4).pdf).   
- [Courseware(Part5)](https://xipingo.github.io/resource/CalculusⅡ/01_1_CalculusII(part5).pdf).   
+ [Courseware(Part1)](https://xipingo.github.io/resource/CalculusⅡ/01_1_CalculusII(Part1).pdf).   
+ [Courseware(Part2)](https://xipingo.github.io/resource/CalculusⅡ/01_1_CalculusII(Part2).pdf).   
+ [Courseware(Part3)](https://xipingo.github.io/resource/CalculusⅡ/01_1_CalculusII(Part3).pdf).   
+ [Courseware(Part4)](https://xipingo.github.io/resource/CalculusⅡ/01_1_CalculusII(Part4).pdf).   
+ [Courseware(Part5)](https://xipingo.github.io/resource/CalculusⅡ/01_1_CalculusII(Part5).pdf).   
  
 
  All rights reserved by Professer [Lu Hong](https://math.nju.edu.cn/jzyg/apypl/20240321/i261806.html).
@@ -57,7 +57,7 @@ All rights reserved by 科学出版社.
 
 ## Final of CalculusⅡ
 
- [Final](https://xipingo.github.io/resource/CalculusⅠ/02_4_Calculus II Final.pdf).
+ [Final](https://xipingo.github.io/resource/CalculusⅡ/02_4_Calculus II Final.pdf).
 
 -----
 

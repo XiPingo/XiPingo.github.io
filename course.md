@@ -34,7 +34,7 @@ On this page, I will put some links to the homepage of the course, containing my
     <tr>
       <td class="semester-column">1-2</td>
       <td>Calculus Ⅱ(Tier 1)</td>
-      <td><a href="https://xipingo.github.io/resource/CalculusⅡ">Link</a></td>
+      <td><a href="https://xipingo.github.io/resource/CalculusⅡ">Good</a></td>
     </tr>
     <tr>
       <td class="semester-column">1-2</td>
