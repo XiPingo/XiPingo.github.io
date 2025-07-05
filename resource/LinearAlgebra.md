@@ -8,7 +8,7 @@ toc:  true
 math: true
 ---
 Welcome to the homepage of **Linear Algebra** !   
-Tips:秩亏维降藏玄机，变换行移见妙章。
+Tips: 秩亏维降藏玄机，变换行移见妙章。
 {: .message }
 
 # Course Introduction
