@@ -114,7 +114,7 @@ On this page, I will put some links to the homepage of the course, containing my
     <tr>
       <td class="semester-column">2-2</td>
       <td>Introduction to Econometrics</td>
-      <td><a href="https://xipingo.github.io/resource/IntroductionToEconometrics">Link</a></td>
+      <td><a href="https://byelenin.github.io/Metrics_2025/">Update Yourself</a></td>
     </tr>
     <tr>
       <td class="semester-column">2-2</td>
@@ -250,12 +250,12 @@ On this page, I will put some links to the homepage of the course, containing my
     <tr>
       <td class="semester-column">2-2</td>
       <td>Algorithm Design & Analysis</td>
-      <td><a href="https://xipingo.github.io/resource/AlgorithmDesignAndAnalysis">Link</a></td>
+      <td><a href="https://tcs.nju.edu.cn/shili/courses/2025spring-algo/">Update Yourself</a></td>
     </tr>
     <tr>
       <td class="semester-column">2-2</td>
       <td>Introduction to Computer System</td>
-      <td><a href="https://xipingo.github.io/resource/IntroductionToComputerSystem">Link</a></td>
+      <td><a href="http://114.212.10.193:8080/course/ics25s/">Update Yourself</a></td>
     </tr>
     <tr>
       <td class="semester-column">3-1</td>
