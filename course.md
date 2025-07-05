@@ -29,7 +29,7 @@ On this page, I will put some links to the homepage of the course, containing my
     <tr>
       <td class="semester-column">1-1</td>
       <td>Linear Algebra(Tier 1)</td>
-      <td><a href="https://xipingo.github.io/resource/LinearAlgebra">Link</a></td>
+      <td><a href="https://xipingo.github.io/resource/LinearAlgebra">Good</a></td>
     </tr>
     <tr>
       <td class="semester-column">1-2</td>
@@ -44,7 +44,7 @@ On this page, I will put some links to the homepage of the course, containing my
     <tr>
       <td class="semester-column">2-1</td>
       <td>Probability Theory and Mathematical Statistics</td>
-      <td><a href="https://xipingo.github.io/resource/ProbabilityTheoryAndMathematicalStatistics">Link</a></td>
+      <td><a href="https://xipingo.github.io/resource/ProbabilityTheoryAndMathematicalStatistics">Good</a></td>
     </tr>
     <tr>
       <td class="semester-column">2-2</td>
