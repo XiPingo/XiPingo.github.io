@@ -118,8 +118,10 @@ All rights reserved by 科学出版社.
 
  [Notes(Handwrite Version)](https://xipingo.github.io/resource/CalculusⅠ/NotesOfCalculusⅠ.pdf) by Xipingo, there is no LaTeX version of it.
 
+-----
+
  ## Tips of CalculusⅠ
 
- All you need to do is **刷题**!
+ All you need to do is **刷题** !
 
 -----

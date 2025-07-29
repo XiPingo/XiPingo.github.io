@@ -238,7 +238,7 @@ On this page, I will put some links to the homepage of the course, containing my
       <td><a href="https://xipingo.github.io/resource/BasicsOfProgramming">Link</a></td>
     </tr>
     <tr>
-      <td class="semester-column">1-2</td>
+      <td class="semester-column">2-1</td>
       <td>Digital Logic and Computer Organization</td>
       <td><a href="https://xipingo.github.io/resource/DigitalLogicAndComputerOrganization">Link</a></td>
     </tr>

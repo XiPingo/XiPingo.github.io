@@ -67,8 +67,10 @@ All rights reserved by 科学出版社.
  [Notes(Part2, Handwrite Version)](https://xipingo.github.io/resource/CalculusⅡ/NotesOfCalculusⅡ(Part2).pdf)    
  by Xipingo, there is no LaTeX version of it.
 
+-----
 
- ## Tips of CalculusⅡ
+ ## Tips of CalculusⅡ   
 
- All you need to do is also **刷题**!
+ All you need to do is also **刷题** !
+ 
 -----
