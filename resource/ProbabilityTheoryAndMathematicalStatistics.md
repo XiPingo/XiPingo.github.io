@@ -242,4 +242,9 @@ All rights reserved by 科学出版社.
 
  [Notes(LaTeX Version)](https://xipingo.github.io/resource/ProbabilityTheoryAndMathematicalStatistics/03_3 概率论与数理统计笔记.pdf) by Xipingo.
 
+
+## Tips of Probability Theory and Mathematical Statistics
+
+ Maybe you need not to **刷题** a lot this time. But it is important.
+
 -----

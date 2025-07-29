@@ -57,4 +57,8 @@ All rights reserved by 科学出版社.
 
  [Notes(Handwrite Version)](https://xipingo.github.io/resource/LinearAlgebra/NotesOfLinearAlgebra.pdf) by Xipingo, there is no LaTeX version of it.
 
+  ## Tips of Linear Algebra
+
+ All you need to do is still **刷题**!
+
 -----
