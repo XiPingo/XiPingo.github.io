@@ -1,13 +1,13 @@
 ---
 layout: post
-title: CalculusⅠ
-date: 2023-09-04 13:04 +0800
-last_modified_at: 2023-12-30 17:04 +0800
-tags: Math
+title: Mathematical Economics
+date: 2025-02-19 10:10 +0800
+last_modified_at: 2025-06-04 12:00 +0800
+tags: Economics
 toc:  true
 math: true
 ---
-Welcome to the homepage of **Calculus Ⅰ** !   
+Welcome to the homepage of **Mathematical Economics** !   
 Tips: 凌波能信步，苦海岂无边。
 {: .message }
 
@@ -120,7 +120,7 @@ All rights reserved by 科学出版社.
 
 -----
 
- ## Tips of CalculusⅠ   
+## Tips of CalculusⅠ   
 
  All you need to do is **刷题** !
 

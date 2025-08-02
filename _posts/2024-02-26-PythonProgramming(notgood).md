@@ -1,13 +1,13 @@
 ---
 layout: post
-title: CalculusⅡ
-date: 2024-02-26 13:04 +0800
-last_modified_at: 2024-06-17 17:04 +0800
-tags: Math
+title: Python Programming
+date: 2024-02-26 14:00 +0800
+last_modified_at: 2024-06-13 12:00 +0800
+tags: Computer
 toc:  true
 math: true
 ---
-Welcome to the homepage of **Calculus Ⅱ** !   
+Welcome to the homepage of **Python Programming** !   
 Tips:    
 多元函数藏天地，偏微各剖玄机。   
 分峰测谷寻临界点，全微分万象，叠积分拾级。   
@@ -69,7 +69,7 @@ All rights reserved by 科学出版社.
 
 -----
 
- ## Tips of CalculusⅡ   
+## Tips of CalculusⅡ   
 
  All you need to do is also **刷题** !
  

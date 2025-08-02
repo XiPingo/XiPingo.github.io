@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Linear Algebra
-date: 2023-09-04 13:04 +0800
-last_modified_at: 2023-12-30 17:04 +0800
-tags: Math
+title: Microeconomics
+date: 2023-09-12 14:00 +0800
+last_modified_at: 2023-12-27 17:00 +0800
+tags: Economics
 toc:  true
 math: true
 ---
-Welcome to the homepage of **Linear Algebra** !   
+Welcome to the homepage of **Microeconomics** !   
 Tips: 秩亏维降藏玄机，变换行移见妙章。
 {: .message }
 

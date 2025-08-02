@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Probability Theory and Mathematical Statistics
-date: 2024-09-04 13:04 +0800
-last_modified_at: 2024-12-31 17:04 +0800
+date: 2024-09-03 14:00 +0800
+last_modified_at: 2024-12-24 17:00 +0800
 tags: Math
 toc:  true
 math: true
