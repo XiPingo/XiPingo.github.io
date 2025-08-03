@@ -51,18 +51,13 @@ On this page, I will put some links to the homepage of the course, containing my
       <td>Statistics</td>
       <td><a href="https://xipingo.github.io/resource/Statistics">Link</a></td>
     </tr>
-    <tr>
-      <td class="semester-column">3-1</td>
-      <td><em>Operations Research</em></td>
-      <td><a href="https://xipingo.github.io/resource/OperationsResearch">Link</a></td>
-    </tr>
   </tbody>
 </table>
 
 <table>
   <thead>
     <tr>
-      <th colspan="3">Economy</th>
+      <th colspan="3">Economics</th>
     </tr>
     <tr>
       <th class="semester-column">Semester</th>
@@ -163,10 +158,6 @@ On this page, I will put some links to the homepage of the course, containing my
     <tr>
       <td><em>Monetary Finance and Banking</em></td>
       <td><a href="https://xipingo.github.io/resource/MonetaryFinanceAndBanking">Link</a></td>
-    </tr>
-    <tr>
-      <td><em>Empirical Methods in Finance</em></td>
-      <td><a href="https://xipingo.github.io/resource/ImpiricalMethodsInFinance">Link</a></td>
     </tr>
   </tbody>
 </table>
@@ -285,4 +276,4 @@ On this page, I will put some links to the homepage of the course, containing my
   </tbody>
 </table>
 
-<p>Note：<em>Ongoing Course</em></p>
+<p>Note: <mark><em>Ongoing Course</em></mark></p>
