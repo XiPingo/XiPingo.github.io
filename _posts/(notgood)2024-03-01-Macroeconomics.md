@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microeconomics
+title: Macroeconomics
 date: 2024-03-01 14:00 +0800
 last_modified_at: 2024-06-14 17:00 +0800
 tags: Economics
