@@ -30,7 +30,7 @@ Research Assistant to: Professor [Shen Haopeng](https://nubs.nju.edu.cn/shp%C2%A
 
 ### Mathematic     
 Calculus Ⅰ(Tier 1), Calculus Ⅱ(Tier 1), Linear Algebra(Tier 1)    
-Discrete Mathematics, Probability Theory and Mathematical Statistics, Statistics, *Opreation Research*.     
+Discrete Mathematics, Probability Theory and Mathematical Statistics, Statistics.     
 ### Economy    
 Political Economy Ⅰ, Political Economy Ⅱ, Introduction to Capital, *Chinese Economic History*    
 Microeconomics, Intermediate Microeconomics, Game Theory    
@@ -136,7 +136,7 @@ Digital Logic and Computer Organization, Introduction to Computer System.
     </tr>
     <tr>
       <th>Category</th>
-      <th>Score</th>
+      <th style="text-align: center;">Score</th>
     </tr>
   </thead>
   <tbody>
@@ -173,7 +173,7 @@ Digital Logic and Computer Organization, Introduction to Computer System.
     </tr>
     <tr>
       <th>Section</th>
-      <th>Score</th>
+      <th style="text-align: center;">Score</th>
     </tr>
   </thead>
   <tbody>
@@ -204,7 +204,7 @@ Digital Logic and Computer Organization, Introduction to Computer System.
     </tr>
     <tr>
       <th>Section</th>
-      <th>Score</th>
+      <th style="text-align: center;">Score</th>
     </tr>
   </thead>
   <tbody>
