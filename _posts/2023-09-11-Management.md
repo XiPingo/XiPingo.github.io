@@ -13,7 +13,7 @@ Tips: 为将者不通天文，不懂地理，不晓阴阳，不知奇门遁甲�
 
 # Course Introduction
 
-Course number: 09000510 Credit: 3   
+<mark>Course number: 09000510 Credit: 3</mark>   
 
 The teaching content of this course is as follows:   
 

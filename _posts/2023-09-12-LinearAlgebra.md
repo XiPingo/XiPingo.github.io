@@ -13,7 +13,7 @@ Tips: 秩亏维降藏玄机，变换行移见妙章。
 
 # Course Introduction   
 
-Course number: 00010011C Credit: 4   
+<mark>Course number: 00010011C Credit: 4</mark>   
 
 The teaching content of this course is as follows:   
 
