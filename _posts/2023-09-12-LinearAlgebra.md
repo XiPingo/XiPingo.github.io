@@ -11,7 +11,9 @@ Welcome to the homepage of **Linear Algebra** !
 Tips: 秩亏维降藏玄机，变换行移见妙章。
 {: .message }
 
-# Course Introduction
+# Course Introduction   
+
+Course number: 00010011C Credit: 4   
 
 The teaching content of this course is as follows:   
 

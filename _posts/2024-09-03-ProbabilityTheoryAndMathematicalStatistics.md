@@ -16,6 +16,8 @@ Tips:
 
 # Course Introduction
 
+Course number: 11100200 Credit: 3   
+
 The teaching content of this course is as follows:   
 
 <table border="1" width="100%">
