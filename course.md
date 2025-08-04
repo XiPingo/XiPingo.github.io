@@ -24,17 +24,17 @@ On this page, I will put some links to the homepage of the course, containing my
     <tr>
       <td class="semester-column">1-1</td>
       <td>Calculus Ⅰ(Tier 1)</td>
-      <td><a href="https://xipingo.github.io/2023/09/04/Calculus%E2%85%A0/">Good</a></td>
+      <td><a href="https://xipingo.github.io/2023/09/13/Calculus%E2%85%A0/">Good</a></td>
     </tr>
     <tr>
       <td class="semester-column">1-1</td>
       <td>Linear Algebra(Tier 1)</td>
-      <td><a href="https://xipingo.github.io/2023/09/04/LinearAlgebra/">Good</a></td>
+      <td><a href="https://xipingo.github.io/2023/09/12/LinearAlgebra/">Good</a></td>
     </tr>
     <tr>
       <td class="semester-column">1-2</td>
       <td>Calculus Ⅱ(Tier 1)</td>
-      <td><a href="https://xipingo.github.io/2024/02/26/Calculus%E2%85%A1/">Good</a></td>
+      <td><a href="https://xipingo.github.io/2024/02/27/Calculus%E2%85%A1/">Good</a></td>
     </tr>
     <tr>
       <td class="semester-column">1-2</td>
@@ -44,7 +44,7 @@ On this page, I will put some links to the homepage of the course, containing my
     <tr>
       <td class="semester-column">2-1</td>
       <td>Probability Theory and Mathematical Statistics</td>
-      <td><a href="https://xipingo.github.io/2024/09/04/ProbabilityTheoryAndMathematicalStatistics/">Good</a></td>
+      <td><a href="https://xipingo.github.io/2024/09/03/ProbabilityTheoryAndMathematicalStatistics/">Good</a></td>
     </tr>
     <tr>
       <td class="semester-column">2-2</td>
@@ -141,7 +141,7 @@ On this page, I will put some links to the homepage of the course, containing my
   <tbody>
     <tr>
       <td>Management</td>
-      <td><a href="https://xipingo.github.io/resource/Management">Link</a></td>
+      <td><a href="https://xipingo.github.io/2023/09/11/Management/">Good</a></td>
     </tr>
     <tr>
       <td>Accounting</td>
