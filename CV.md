@@ -107,16 +107,21 @@ Digital Logic and Computer Organization, Introduction to Computer System.
 ### Professional Activities
 - **Admissions Ambassador**  
   Nanjing University Undergraduate Recruitment Office  
+  ▪ Sichuan Admissions Team of Nanjing University | *June 2025*    
   ▪ Conducting campus tours and applicant consultations | *May 2024 - Present*
 
 - **Multimedia Editor**  
-  University Admissions All-Media Center  
+  Nanjing University Undergraduate Recruitment Office All-Media Center  
   ▪ Video production with Adobe Premiere & Jianying     
   ▪ Content creation for official social media platforms | *Sept 2024 - Present*
 
 - **Academic Excellence Award**  
   1st "Most Beautiful Lecture Notes" Competition  
   ▪ Recognized for exceptional course documentation | *Oct 2024*
+
+- **Peer Mentor for Freashmen**
+  School of Business, Nanjing University    
+  ▪ 2025 Peer mentor for freashmen | *Aug 2025 - Present*
 
 ---
 ## Academic Credentials
