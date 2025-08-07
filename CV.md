@@ -10,7 +10,7 @@ Welcome to my CV. Good morning, good afternoon and good night! I hope you all we
 # Xi Xiang
 **Location:** Nanjing, China  
 **Institution:** Nanjing University ([NJU](https://www.nju.edu.cn/))  
-**Major:** Economics (Honors Program)  
+**Major:** Economics (Talent Training Program)  
 **Minor:** Computer Science and Technology    
    
 ---
@@ -26,7 +26,7 @@ Research Assistant to: Professor [Shen Haopeng](https://nubs.nju.edu.cn/shp%C2%A
 ---
 ## Courses  
 
-<mark> (Finished course, *Ongoing course*)</mark>   
+<mark> (Finished course, <em>Ongoing course</em>)</mark>   
 
 ### Mathematic     
 Calculus Ⅰ(Tier 1), Calculus Ⅱ(Tier 1), Linear Algebra(Tier 1)    
@@ -112,14 +112,14 @@ Digital Logic and Computer Organization, Introduction to Computer System.
 
 - **Multimedia Editor**  
   Nanjing University Undergraduate Recruitment Office All-Media Center  
-  ▪ Video production with Adobe Premiere & Jianying     
+  Video production with Adobe Premiere & Jianying     
   ▪ Content creation for official social media platforms | *Sept 2024 - Present*
 
 - **Academic Excellence Award**  
   1st "Most Beautiful Lecture Notes" Competition  
   ▪ Recognized for exceptional course documentation | *Oct 2024*
 
-- **Peer Mentor for Freashmen**
+- **Peer Mentor for Freashmen**    
   School of Business, Nanjing University    
   ▪ 2025 Peer mentor for freashmen | *Aug 2025 - Present*
 
