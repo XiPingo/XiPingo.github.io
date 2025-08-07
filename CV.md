@@ -26,7 +26,7 @@ Research Assistant to: Professor [Shen Haopeng](https://nubs.nju.edu.cn/shp%C2%A
 ---
 ## Courses  
 
- (Finished course, *Ongoing course*)   
+<mark> (Finished course, *Ongoing course*)</mark>   
 
 ### Mathematic     
 Calculus Ⅰ(Tier 1), Calculus Ⅱ(Tier 1), Linear Algebra(Tier 1)    
