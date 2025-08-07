@@ -74,7 +74,7 @@ On this page, I will put some links to the homepage of the course, containing my
     <tr>
       <td class="semester-column">1-1</td>
       <td>Microeconomics</td>
-      <td><a href="https://xipingo.github.io/resource/Microeconomics">Link</a></td>
+      <td><a href="https://xipingo.github.io/2023/09/12/Microeconomics/">Good</a></td>
     </tr>
     <tr>
       <td class="semester-column">1-2</td>
