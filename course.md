@@ -69,7 +69,7 @@ On this page, I will put some links to the homepage of the course, containing my
     <tr>
       <td class="semester-column">1-1</td>
       <td>Political Economy Ⅰ</td>
-      <td><a href="https://xipingo.github.io/resource/PoliticalEconomyⅠ">Link</a></td>
+      <td><a href="https://xipingo.github.io/2023/09/13/PoliticalEconomy%E2%85%A0/">Good</a></td>
     </tr>
     <tr>
       <td class="semester-column">1-1</td>

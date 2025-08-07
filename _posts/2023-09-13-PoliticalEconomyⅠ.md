@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Political EconomicsⅠ
+title: Political EconomyⅠ
 date: 2023-09-13 09:00 +0800
 last_modified_at: 2023-12-28 12:00 +0800
 tags: Economics
 toc:  true
 math: true
 ---
-Welcome to the homepage of **Political Economics Ⅰ** !   
+Welcome to the homepage of **Political Economy Ⅰ** !   
 Tips: 原来的货币占有者作为资本家，昂首前行；劳动力占有者作为他的工人，尾随于后。一个笑容满面，雄心勃勃；一个战战兢兢，畏缩不前，像在市场上出卖了自己的皮一样，只有一个前途——让人家来鞣。
 {: .message }
 
@@ -92,7 +92,7 @@ The teaching content of this course is as follows:
 
 # Course Resourse
 
-## Textbook of Political Economics Ⅰ
+## Textbook of Political Economy Ⅰ
 
  [Textbook](https://book.douban.com/subject/35572068/?_dtcc=1).
 
@@ -100,7 +100,7 @@ All rights reserved by 高等教育出版社、人民出版社.
 
 -----
 
-## Courseware of Political Economics Ⅰ
+## Courseware of Political Economy Ⅰ
 
  [Courseware(Part1)](https://xipingo.github.io/resource/PoliticalEconomyⅠ/Political Economy Ⅰ Courseware(part1).pdf).   
  [Courseware(Part2)](https://xipingo.github.io/resource/PoliticalEconomyⅠ/Political Economy Ⅰ Courseware(part2).pdf).
@@ -110,20 +110,20 @@ All rights reserved by 高等教育出版社、人民出版社.
 
 -----
 
-## Final of Political Economics Ⅰ
+## Final of Political Economy Ⅰ
 
- [FinalA](https://xipingo.github.io/resource/PoliticalEconomicsⅠ/Political Economy Ⅰ Final A.pdf).   
- [FinalB](https://xipingo.github.io/resource/PoliticalEconomicsⅠ/Political Economy Ⅰ Final B.pdf).
-
------
-
-## Exercise of Political Economics Ⅰ   
-
- [Exercise](Question of Political Economy Ⅰ.pdf).
+ [FinalA](https://xipingo.github.io/resource/PoliticalEconomyⅠ/Political Economy Ⅰ Final A.pdf).   
+ [FinalB](https://xipingo.github.io/resource/PoliticalEconomyⅠ/Political Economy Ⅰ Final B.pdf).
 
 -----
 
-## Tips of Political Economics Ⅰ   
+## Exercise of Political Economy Ⅰ   
+
+ [Exercise](https://xipingo.github.io/resource/PoliticalEconomyⅠ/Question of Political Economy Ⅰ.pdf).
+
+-----
+
+## Tips of Political Economy Ⅰ   
 
 To understand the basic concepts, the emphasis is on how to calculate the problem of surplus value.
 
