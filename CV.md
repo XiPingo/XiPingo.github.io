@@ -26,6 +26,9 @@ Research Assistant to: Professor [Shen Haopeng](https://nubs.nju.edu.cn/shp%C2%A
 ---
 ## Courses  
 
+Only taken courses are listed below, for more details, click [me](https://xipingo.github.io/course/).   
+{: .message }   
+
 <mark> (Finished course, <em>Ongoing course</em>)</mark>   
 
 ### Mathematic     
@@ -48,7 +51,7 @@ Big Data Economics, Digital Economics, Database Technology and Its Application.
 * #### Software
 Python Programming, Basics of Programming, Data Structures, Alogorithm Design & Analysis, *Introduction to Databases*, *Computer Networks*, *Introduction to Machine Learning*, *Elements of Cryptography*, *Software Engineering*.    
 * #### Hardware    
-Digital Logic and Computer Organization, Introduction to Computer System.       
+Digital Logic and Computer Organization, Introduction to Computer Systems.       
      
 ---
 ## Research Interests
