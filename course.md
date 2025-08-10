@@ -222,7 +222,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     <tr>
       <td class="semester-column">1-2</td>
       <td>Python Programming</td>
-      <td><a href="https://xipingo.github.io/resource/PythonProgramming">Link</a></td>
+      <td><a href="https://xipingo.github.io/2024/02/26/PythonProgramming">Good</a></td>
     </tr>
     <tr>
       <td class="semester-column">1-2</td>
