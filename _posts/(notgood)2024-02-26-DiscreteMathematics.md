@@ -9,68 +9,142 @@ math: true
 ---
 Welcome to the homepage of **Discrete Mathematics** !   
 Tips:    
-多元函数藏天地，偏微各剖玄机。   
-分峰测谷寻临界点，全微分万象，叠积分拾级。   
-雅可比式明变换，经纬换大地。   
-梯度指归极向处，高斯拓界开新域。   
-算尽人间曲直，浑然正道无睽。
+在大部分时间里，我们并不存在；在某些时间，有你而没有我；在另一些时间，有我而没有你；再有一些时间，你我都存在。   
+博尔赫斯《小径分岔的花园》
 {: .message }
 
 # Course Introduction
 
 The teaching content of this course is as follows:   
 
-<table border="1" width="100%"> <tr> <th>Section</th> <th>Content</th> </tr> <tr> <td>1. Space Analytic Geometry</td> <td> <ul> <li>Equations of planes and lines in space</li> <li>Space surfaces</li> <li>Space curves</li> </ul> </td> </tr> <tr> <td>2. Multivariable Differential Calculus</td> <td> <ul> <li>Definition, limits, and continuity of multivariable functions</li> <li>Partial derivatives, higher-order partial derivatives, total differential</li> <li>Partial derivatives of composite and implicit functions</li> <li>Taylor's formula for functions of two variables</li> <li>Multivariable vector functions, directional derivatives</li> <li>Applications of partial derivatives in geometry</li> <li>Extrema and constrained extrema of multivariable functions</li> </ul> </td> </tr> <tr> <td>3. Multiple Integrals</td> <td> <ul> <li>Double integrals: definition, properties, computation, applications</li> <li>Triple integrals: definition, properties, computation, applications</li> </ul> </td> </tr> <tr> <td>4. Vector Calculus</td> <td> <ul> <li>Line integrals (first/second kind): definition, properties, computation</li> <li>Surface integrals (first/second kind): definition, properties, computation</li> <li>Green's formula, Stokes' formula, Gauss's formula</li> </ul> </td> </tr> <tr> <td>5. Series</td> <td> <ul> <li>Convergence/divergence of numerical series, properties of convergent series</li> <li>Convergence tests for positive-term series</li> <li>Convergence tests for arbitrary series</li> <li>Convergence of function series</li> <li>Power series: convergence radius/domain, sum function, function expansion</li> <li>Fourier series: definition, Fourier expansion of functions</li> </ul> </td> </tr> <tr> <td>6. Improper Integrals</td> <td> <ul> <li>Convergence and divergence of improper integrals</li> </ul> </td> </tr> <tr> <td>7. Ordinary Differential Equations (ODEs)</td> <td> <ul> <li>Basic concepts of ODEs</li> <li>Solution methods for first-order ODEs</li> <li>Solution methods for special higher-order ODEs</li> <li>General solution of linear nonhomogeneous ODEs with constant coefficients</li> </ul> </td> </tr> </table>
+<table border="1" width="100%">
+  <tr>
+    <th>Week</th>
+    <th>Content</th>
+  </tr>
+  <tr>
+    <td>Week 1</td>
+    <td>Propositional Logic</td>
+  </tr>
+  <tr>
+    <td>Week 2</td>
+    <td>
+      <ul>
+        <li>Introduction to Predicate Logic</li>
+        <li>Methods of Proof</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Week 3</td>
+    <td>
+      <ul>
+        <li>Sets and Operations</li>
+        <li>Functions and Operations</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Week 4</td>
+    <td>
+      <ul>
+        <li>Natural Numbers and Elementary Number Theory</li>
+        <li>Cardinality of Sets</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Week 5-6</td>
+    <td>
+      <ul>
+        <li>Induction and Recursion</li>
+        <li>Basic Counting Principles</li>
+        <li>Permutations and Combinations</li>
+        <li>Discrete Probability</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Week 7-8</td>
+    <td>
+      <ul>
+        <li>Relations and Their Properties</li>
+        <li>Partial Order Relations</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Week 9-11</td>
+    <td>
+      <ul>
+        <li>Introduction to Algebraic Systems</li>
+        <li>Group Theory Fundamentals</li>
+        <li>Subgroups and Cyclic Groups</li>
+        <li>Algebraic Lattices and Boolean Algebra</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Week 12-16</td>
+    <td>
+      <ul>
+        <li>Basic Concepts of Graph Theory</li>
+        <li>Graph Connectivity</li>
+        <li>Eulerian and Hamiltonian Graphs</li>
+        <li>Bipartite Graph Matching</li>
+        <li>Directed Graphs</li>
+        <li>Tree Structures</li>
+        <li>Course Summary</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 -----
 
 # Course Resourse
 
-## Textbook of CalculusⅡ
+## Textbook of Discrete Mathematics
 
- [Textbook1](https://www.icourse163.org/course/20240925-1471825161)   
- [Textbook2](https://www.icourse163.org/course/2024092502-1471811162).
+ [Textbook](https://book.douban.com/subject/34866266/).     
+ [The Algebraic Lattices Part Textbook](https://book.douban.com/subject/26776768/).
  
-
-All rights reserved by 科学出版社.
-
------
-
-## Courseware of CalculusⅠ
-
- [Courseware(Part1)](https://xipingo.github.io/resource/CalculusⅡ/01_1_CalculusII(Part1).pdf).   
- [Courseware(Part2)](https://xipingo.github.io/resource/CalculusⅡ/01_1_CalculusII(Part2).pdf).   
- [Courseware(Part3)](https://xipingo.github.io/resource/CalculusⅡ/01_1_CalculusII(Part3).pdf).   
- [Courseware(Part4)](https://xipingo.github.io/resource/CalculusⅡ/01_1_CalculusII(Part4).pdf).   
- [Courseware(Part5)](https://xipingo.github.io/resource/CalculusⅡ/01_1_CalculusII(Part5).pdf).   
- 
-
- All rights reserved by Professer [Lu Hong](https://math.nju.edu.cn/jzyg/apypl/20240321/i261806.html).
+All rights reserved by 机械工业出版社, 高等教育出版社.
 
 -----
 
-## Midterm of CalculusⅡ
+## Courseware of Discrete Mathematics
 
- [Midterm](https://xipingo.github.io/resource/CalculusⅡ/02_3_Calculus II Midterm.pdf).
+ [Courseware](https://xipingo.github.io/resource/DiscreteMathematics/Coueseware of Discrete Mathematics.pdf).     
+ [QuestionCourse](https://xipingo.github.io/resource/DiscreteMathematics/03_1 Question Course.pdf).
 
------
-
-## Final of CalculusⅡ
-
- [Final](https://xipingo.github.io/resource/CalculusⅡ/02_4_Calculus II Final.pdf).
+ All rights reserved by Professer [Qu Yuzhong](https://cs.nju.edu.cn/58/0a/c2639a153610/page.htm).
 
 -----
 
-## Notes of CalculusⅡ   
+## Midterm of Discrete Mathematics
 
- [Notes(Part1, Handwrite Version)](https://xipingo.github.io/resource/CalculusⅡ/NotesOfCalculusⅡ(Part1).pdf)   
- [Notes(Part2, Handwrite Version)](https://xipingo.github.io/resource/CalculusⅡ/NotesOfCalculusⅡ(Part2).pdf)    
+ [Midterm](https://xipingo.github.io/resource/DiscreteMathematics/04_2 Discrete Mathematics Midterm.pdf).
+
+-----
+
+## Final of Discrete Mathematics
+
+ [Final](https://xipingo.github.io/resource/DiscreteMathematics/04_3 Discrete Mathematics Final.pdf).
+
+-----
+
+## Homework of Discrete Mathematics   
+
+ [Homework(Part1, Handwrite Version)](https://xipingo.github.io/resource/DiscreteMathematics/04_1 Homework(part1).pdf)   
+ [Homework(Part2, Handwrite Version)](https://xipingo.github.io/resource/DiscreteMathematics/04_1 Homework(part2).pdf)    
+ [Homework(Part3, Handwrite Version)](https://xipingo.github.io/resource/DiscreteMathematics/04_1 Homework(part3).pdf)   
  by Xipingo, there is no LaTeX version of it.   
 
 -----
 
-## Tips of CalculusⅡ   
+## Tips of Discrete Mathematics   
 
- All you need to do is also **刷题** !
+Sometimes you need not only to master complex concepts and theorems, but also to have a clever proof technique.
  
 -----
