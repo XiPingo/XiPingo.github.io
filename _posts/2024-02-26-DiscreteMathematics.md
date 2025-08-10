@@ -15,7 +15,7 @@ Tips:
 
 # Course Introduction
 
-<mark>Course number: 22000020 Credit:5</mark>   
+<mark>Course number: 22000020 Credit: 5</mark>   
 
 The teaching content of this course is as follows:   
 

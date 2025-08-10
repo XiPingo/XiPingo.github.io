@@ -165,7 +165,7 @@ All rights reserved by 高等教育出版社.
 
 -----
 
-## Tips of CalculusⅡ   
+## Tips of Python Programming   
 
 **Coding** makes perfect, instead of *noting and reciting*.
  
