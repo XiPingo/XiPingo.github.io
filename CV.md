@@ -149,11 +149,11 @@ Digital Logic and Computer Organization, Introduction to Computer Systems.
   </thead>
   <tbody>
     <tr>
-      <td>Cumulative GPA</td>
+      <td>Overall GPA</td>
       <td class="semester-column">4.45/5.0</td>
     </tr>
     <tr>
-      <td>Degree GPA</td>
+      <td>Compulsory Course GPA</td>
       <td class="semester-column">4.50/5.0</td>
     </tr>
   </tbody>

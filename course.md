@@ -278,3 +278,5 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
 </table>
 
 <p>Note: <mark><em>Ongoing Course</em></mark></p>
+
+![placeholder](https://xipingo.github.io/assets/images/building.jpg "building"){: .align-center}
