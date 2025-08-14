@@ -18,7 +18,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     <tr>
       <th class="semester-column">Semester</th>
       <th>Course Name</th>
-      <th>Link</th>
+      <th>Page</th>
     </tr>
   </thead>
   <tbody>
@@ -63,7 +63,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     <tr>
       <th class="semester-column">Semester</th>
       <th>Course Name</th>
-      <th>Link</th>
+      <th>Page</th>
     </tr>
   </thead>
   <tbody>
@@ -215,7 +215,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     <tr>
       <th class="semester-column">Semester</th>
       <th>Course Name</th>
-      <th>Link</th>
+      <th>Page</th>
     </tr>
   </thead>
   <tbody>
