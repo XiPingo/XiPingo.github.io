@@ -146,7 +146,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     </tr>
     <tr>
       <td>Accounting</td>
-      <td><a href="https://xipingo.github.io/resource/Accounting">No Link</a></td>
+      <td><a href="https://xipingo.github.io/2024/02/27/Accounting">Released</a></td>
     </tr>
     <tr>
       <td>Public Finance</td>
@@ -227,7 +227,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     <tr>
       <td class="semester-column">1-2</td>
       <td>Basics of Programming</td>
-      <td><a href="https://xipingo.github.io/resource/BasicsOfProgramming">No Link</a></td>
+      <td><a href="https://xipingo.github.io/2024/02/27/BasicsOfProgramming">Released</a></td>
     </tr>
     <tr>
       <td class="semester-column">2-1</td>
