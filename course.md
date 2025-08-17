@@ -18,23 +18,23 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     <tr>
       <th class="semester-column">Semester</th>
       <th>Course Name</th>
-      <th>Page</th>
+      <th>HomePage</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td class="semester-column">1-1</td>
-      <td>Calculus Ⅰ(Tier 1)</td>
+      <td>Calculus Ⅰ (Tier 1)</td>
       <td><a href="https://xipingo.github.io/2023/09/13/Calculus%E2%85%A0/">Released</a></td>
     </tr>
     <tr>
       <td class="semester-column">1-1</td>
-      <td>Linear Algebra(Tier 1)</td>
+      <td>Linear Algebra (Tier 1)</td>
       <td><a href="https://xipingo.github.io/2023/09/12/LinearAlgebra/">Released</a></td>
     </tr>
     <tr>
       <td class="semester-column">1-2</td>
-      <td>Calculus Ⅱ(Tier 1)</td>
+      <td>Calculus Ⅱ (Tier 1)</td>
       <td><a href="https://xipingo.github.io/2024/02/27/Calculus%E2%85%A1/">Released</a></td>
     </tr>
     <tr>
@@ -63,7 +63,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     <tr>
       <th class="semester-column">Semester</th>
       <th>Course Name</th>
-      <th>Page</th>
+      <th>HomePage</th>
     </tr>
   </thead>
   <tbody>
@@ -215,7 +215,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     <tr>
       <th class="semester-column">Semester</th>
       <th>Course Name</th>
-      <th>Page</th>
+      <th>HomePage</th>
     </tr>
   </thead>
   <tbody>
