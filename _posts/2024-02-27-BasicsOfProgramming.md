@@ -10,7 +10,7 @@ math: true
 Welcome to the homepage of **Basics of Programming** !   
 Tips:    
 “C 很容易使你搬起石头砸自己的脚，而 C++ 把这事变得更难，但是如果一定要这么做，那么你的整条腿都会被炸飞。”   
-———— Bjarne Stroustrup
+——— Bjarne Stroustrup
 {: .message }
 
 # Course Introduction
