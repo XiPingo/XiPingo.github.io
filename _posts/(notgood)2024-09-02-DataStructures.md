@@ -9,9 +9,8 @@ math: true
 ---
 Welcome to the homepage of **Data Structures** !   
 Tips:    
-随机非随意，概率破玄机。   
-无序隐有序，统计解迷离。   
-严加安《悟道诗》
+“Out of clutter, find simplicity. From discord, find harmony. In the middle of difficulty lies opportunity.”     
+—— Einstein
 {: .message }
 
 # Course Introduction
@@ -20,197 +19,93 @@ The teaching content of this course is as follows:
 
 <table border="1" width="100%">
   <tr>
-    <th>Section</th>
+    <th>Week</th>
     <th>Content</th>
   </tr>
   <tr>
-    <td>1.1-5: Basic Concepts & Probability Axioms</td>
+    <td>1: AVL Trees</td>
     <td>
       <ul>
-        <li>Fundamental concepts of random events</li>
-        <li>Probability axioms and properties</li>
-        <li>Classical and geometric probability models</li>
+        <li>Operations on AVL Trees</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td>1.6-9: Conditional Probability & Independence</td>
+    <td>2-4: Splay Trees</td>
     <td>
       <ul>
-        <li>Conditional probability definition</li>
-        <li>Total probability formula</li>
-        <li>Bayes' theorem and applications</li>
-        <li>Independence of events</li>
+        <li>Basic operations of Splay Trees</li>
+        <li>Amortized complexity analysis</li>
+        <li>Amortized analysis of Splay Trees</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td>2.3: Random Variables & Distributions</td>
+    <td>5-7: B-Trees & Red-Black Trees</td>
     <td>
       <ul>
-        <li>Definition of random variables</li>
-        <li>Distribution functions (CDF)</li>
-        <li>Discrete vs. continuous random variables</li>
-        <li>Common probability distributions</li>
+        <li>B-Trees</li>
+        <li>Insertion and deletion in Red-Black Trees</li>
+        <li>Logical relation and analysis between Red-Black Trees and B-Trees</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td>2.4: Functions of Random Variables</td>
+    <td>8-9: Union-Find</td>
     <td>
       <ul>
-        <li>Distribution transformations</li>
-        <li>Methods for deriving distributions of functions</li>
-        <li>Applications to probability calculations</li>
+        <li>Union-Find algorithms and implementation</li>
+        <li>Complexity analysis of Union-Find</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td>3.1-3: Random Vectors</td>
+    <td>10-11: Heaps</td>
     <td>
       <ul>
-        <li>Joint distribution functions</li>
-        <li>Discrete and continuous bivariate random variables</li>
-        <li>Marginal distributions</li>
+        <li>Binary Heap</li>
+        <li>Leftist Heap</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td>3.4-5: Conditional Distributions & Transformations</td>
+    <td>12-16: Graph Algorithms</td>
     <td>
       <ul>
-        <li>Conditional distributions for random vectors</li>
-        <li>Distributions of vector transformations</li>
-        <li>Multivariate distribution techniques</li>
+        <li>Graph representation and traversal</li>
+        <li>Minimum Spanning Tree: Prim’s & Kruskal’s Algorithms</li>
+        <li>Single-Source Shortest Path</li>
+        <li>All-Pairs Shortest Path: Floyd’s Algorithm</li>
+        <li>Maximum Matching Algorithm</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td>4.2: Expectation & Variance</td>
+    <td>17: Review & Assignment Guidance</td>
     <td>
       <ul>
-        <li>Mathematical expectation properties</li>
-        <li>Variance and standard deviation</li>
-        <li>Moments and moment-generating functions</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>4.3-4: Covariance & Characteristic Functions</td>
-    <td>
-      <ul>
-        <li>Covariance and correlation coefficients</li>
-        <li>Correlation functions</li>
-        <li>Characteristic functions and properties</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>5.1-2: Limit Theorems</td>
-    <td>
-      <ul>
-        <li>Law of Large Numbers (LLN)</li>
-        <li>Central Limit Theorem (CLT)</li>
-        <li>Applications and convergence concepts</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>6.1-2: Statistics</td>
-    <td>
-      <ul>
-        <li>Sample statistics definitions</li>
-        <li>Common statistical measures</li>
-        <li>Data summarization techniques</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>6.3: Sampling Distributions</td>
-    <td>
-      <ul>
-        <li>Distribution of sample statistics</li>
-        <li>Chi-square, t, and F distributions</li>
-        <li>Sampling distribution derivations</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>7.1-2: Point Estimation</td>
-    <td>
-      <ul>
-        <li>Method of moments estimation</li>
-        <li>Maximum likelihood estimation (MLE)</li>
-        <li>Properties of point estimators</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>7.3-4: Estimation Properties & Intervals</td>
-    <td>
-      <ul>
-        <li>Unbiasedness and efficiency</li>
-        <li>Confidence interval construction</li>
-        <li>Interval estimation methods</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>8.1-2: Hypothesis Testing Theory</td>
-    <td>
-      <ul>
-        <li>Null and alternative hypotheses</li>
-        <li>Type I/II errors and significance levels</li>
-        <li>Test statistics and rejection regions</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>8.3: Normal Distribution Tests</td>
-    <td>
-      <ul>
-        <li>Z-tests and t-tests</li>
-        <li>Chi-square tests for variance</li>
-        <li>ANOVA applications</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>8.4: Nonparametric Tests</td>
-    <td>
-      <ul>
-        <li>Goodness-of-fit tests (e.g., Kolmogorov-Smirnov)</li>
-        <li>Rank-based tests (e.g., Wilcoxon, Mann-Whitney)</li>
-        <li>Distribution-free methods</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>Review</td>
-    <td>
-      <ul>
-        <li>Comprehensive review of key concepts</li>
-        <li>Problem-solving strategies</li>
-        <li>Exam preparation</li>
+        <li>Problem-solving discussion</li>
+        <li>Final project guidance</li>
       </ul>
     </td>
   </tr>
 </table>
 
+
 -----
 
 # Course Resourse
 
-## Textbook of Probability Theory and Mathematical Statistics
+## Textbook of Data Structures
 
- [Textbook](https://book.douban.com/subject/35021195/).
+ [Textbook](https://book.douban.com/subject/26421141/).
  
 
-All rights reserved by 科学出版社.
+All rights reserved by 机械工业出版社.
 
 -----
 
-## Courseware of Probability Theory and Mathematical Statistics   
+## Courseware of Data Structures
 
  [Courseware(Part1)](https://xipingo.github.io/resource/ProbabilityTheoryAndMathematicalStatistics/02_1 Random Events and Probabilities.pdf).   
  [Courseware(Part2)](https://xipingo.github.io/resource/ProbabilityTheoryAndMathematicalStatistics/02_2 Random Variables and Their Distributions.pdf).   
@@ -226,25 +121,19 @@ All rights reserved by 科学出版社.
 
 -----
 
-## Midterm of Probability Theory and Mathematical Statistics
-
- [Midterm](https://xipingo.github.io/resource/ProbabilityTheoryAndMathematicalStatistics/03_1 Mid.pdf).
-
------
-
-## Final of Probability Theory and Mathematical Statistics
+## Final of Data Structures
 
  [Final](https://xipingo.github.io/resource/ProbabilityTheoryAndMathematicalStatistics/03_2 Final.pdf).
 
 -----
 
-## Notes of Probability Theory and Mathematical Statistics
+## OJ of Data Structures
 
  [Notes(LaTeX Version)](https://xipingo.github.io/resource/ProbabilityTheoryAndMathematicalStatistics/03_3 概率论与数理统计笔记.pdf) by Xipingo.
 
 -----
 
-## Tips of Probability Theory and Mathematical Statistics
+## Tips of Data Structures
 
  Maybe you need not to **刷题** a lot this time. But it is important.
 

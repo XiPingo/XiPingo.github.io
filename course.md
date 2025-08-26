@@ -160,6 +160,10 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
       <td><em>Monetary Finance and Banking</em></td>
       <td><a href="https://xipingo.github.io/resource/MonetaryFinanceAndBanking">No Link</a></td>
     </tr>
+    <tr>
+      <td><em>Financial Management</em></td>
+      <td><a href="https://xipingo.github.io/resource/FinancialManagement">No Link</a></td>
+    </tr>
   </tbody>
 </table>
 
@@ -205,6 +209,10 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
       <td><a href="https://xipingo.github.io/resource/DatabaseTechnologyAndItsApplication">No Link</a></td>
     </tr>
   </tbody>
+  <tr>
+      <td><em>AI for Complex Network</em></td>
+      <td><a href="https://xipingo.github.io/resource/AIForComplexNetwork">No Link</a></td>
+    </tr>
 </table>
 
 <table>

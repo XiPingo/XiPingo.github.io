@@ -41,11 +41,11 @@ Macroeconomics, Intermediate Macroeconomics, *Industrial Economics*
 Introduction to Econometrics, *Intermediate Econometics*    
 Mathematical Economics.      
 * #### Financial Direction    
-Management, Accounting, Public Finance, International Trade, *Monetary Finance and Banking*, *Empirical Methods in Finance*.   
+Management, Accounting, Public Finance, International Trade, *Monetary Finance and Banking*, *Financial Management*.   
 * #### Intersection Direction    
 Experimental Economics, New Institution Economics, Development Economics, *Behavioral Economics*.     
 * #### Digital and Big Data Direction
-Big Data Economics, Digital Economics, Database Technology and Its Application.    
+Big Data Economics, Digital Economics, Database Technology and Its Application, *AI for Complex Network*.    
 
 ### Computer Science and Technology       
 * #### Software
@@ -150,7 +150,7 @@ Digital Logic and Computer Organization, Introduction to Computer Systems.
   <tbody>
     <tr>
       <td>Overall GPA</td>
-      <td class="semester-column">4.45/5.0</td>
+      <td class="semester-column">4.44/5.0</td>
     </tr>
     <tr>
       <td>Compulsory Course GPA</td>
