@@ -245,7 +245,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     <tr>
       <td class="semester-column">2-1</td>
       <td>Data Structures</td>
-      <td><a href="https://xipingo.github.io/resource/DataStructures">No Link</a></td>
+      <td><a href="https://xipingo.github.io/2024/09/02/DataStructures">Released</a></td>
     </tr>
     <tr>
       <td class="semester-column">2-2</td>
