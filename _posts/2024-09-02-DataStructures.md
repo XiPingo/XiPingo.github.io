@@ -117,13 +117,13 @@ All rights reserved by 机械工业出版社.
  [Courseware(Part8)](https://xipingo.github.io/resource/DataStructures/Chapter8 图遍历.pdf).   
 
 
- All rights reserved by Professer [Zhao Jianhua](https://math.nju.edu.cn/jzyg/apypl/20240321/i261826.html).
+ All rights reserved by Professer [Zhao Jianhua](https://cs.nju.edu.cn/58/18/c2639a153624/page.htm).
 
 -----
 
 ## Notes of Data Structures
 
- [Final](https://xipingo.github.io/resource/DataStructures/Notes of Data Structures .pdf).
+ [Notes](https://xipingo.github.io/resource/DataStructures/Notes of Data Structures .pdf).
 
 -----
 
@@ -559,7 +559,7 @@ OK
 
 ---
 
-### OJ6  交通流量的收费控制 —— DAG 图中的递归与动态规划
+### OJ6  DAG 图中的递归与动态规划
 
 #### 任务描述
 
