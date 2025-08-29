@@ -82,13 +82,13 @@ Digital Logic and Computer Organization, Introduction to Computer Systems.
 
 - **The Return Rate Trend and Professional Heterogeneity of Higher Education in China**   
   *Team Members: **XIANG Xi** and GUI Yuhe*   
-  [Link](https://xipingo.github.io/resourse/papers/The Return Rate Trend and Professional Heterogeneity of Higher Education in China.pdf)   
+  [Link](https://xipingo.github.io/resource/papers/The Return Rate Trend and Professional Heterogeneity of Higher Education in China.pdf)   
   ▪ An article summary and a modified Mincer Equation   
   ▪ Combine The Return Rate Trend and Professional Heterogeneity of Higher Education| *In Progress (Spring 2025)*
 
 - **The Mechanism and Heterogeneity of the Impact of Digital Trade on the Quality of Employment in China**   
   *Team Members: **XIANG Xi**, WU Haomin and FAN Jincheng*    
-  [Link](https://xipingo.github.io/resourse/papers/The Mechanism and Heterigeneity of the Impact of Digital Trade on the Quality of Employment in China.pdf)   
+  [Link](https://xipingo.github.io/resource/papers/The Mechanism and Heterigeneity of the Impact of Digital Trade on the Quality of Employment in China.pdf)   
   ▪ Verify four hypotheses: digital trade boosts employment quality, consumption amplifies effect, education investment has threshold, skill level mediates    
   ▪ Build hierarchical regression model, use entropy - weight & instrumental variable, and diverse methods for robustness   
   ▪ **Awarded Third Prize** - The 36th "Silver Star Cup" undergraduate academic paper competition | *May 2025*
@@ -103,7 +103,7 @@ Digital Logic and Computer Organization, Introduction to Computer Systems.
 
 - **Crisis Management in Stigmatized Industries**  
   *Team Members: AI Peiyang, **XIANG Xi**, YIN Tao, XU Fanjiahui*   
-  [Link](https://xipingo.github.io/resourse/papers/污名化企业的有效响应——以方便食品产业为例.pdf)   
+  [Link](https://xipingo.github.io/resource/papers/污名化企业的有效响应——以方便食品产业为例.pdf)   
   ▪ Case study of Chinese convenience food industry regulatory responses  
   ▪ **Awarded First Prize** - 27th Forum of Science & Arts at Nanjing University (Freshman Division) | *May 2024*
 
