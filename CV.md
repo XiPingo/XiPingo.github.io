@@ -38,7 +38,7 @@ Discrete Mathematics, Probability Theory and Mathematical Statistics, Statistics
 Political Economy Ⅰ, Political Economy Ⅱ, Introduction to Capital, *Chinese Economic History*    
 Microeconomics, Intermediate Microeconomics, Game Theory    
 Macroeconomics, Intermediate Macroeconomics, *Industrial Economics*    
-Introduction to Econometrics, *Intermediate Econometics*    
+Introduction to Econometrics, *Intermediate Econometrics*    
 Mathematical Economics.      
 * #### Financial Direction    
 Management, Accounting, Public Finance, International Trade, *Monetary Finance and Banking*, *Financial Management*.   
@@ -56,13 +56,12 @@ Digital Logic and Computer Organization, Introduction to Computer Systems.
 ---
 ## Research Interests
 - Microeconomics: Game Theory and Information Economics, Microeconomic Theory.  
-- Digital Economics and Big Data Economics: Graph Theory and Algorithm (for social network).
+- Digital Economics and Big Data Economics: Graph Theory and Algorithms (for social network).
     
 ---
 ## Project Experience
 
 ### Computer Science
-
 
 - **Sports Meeting Management System**  
   *A system for managing sports events, athletes, and results*  
@@ -70,7 +69,7 @@ Digital Logic and Computer Organization, Introduction to Computer Systems.
   
 - **NEMU (NJU EMUlator)**  
   *Course Project for Introduction to Computer Systems*  
-  ▪ Developing a simplified x86 architecture emulator | *In Progress (Spring 2025)*
+  ▪ Developing a simplified x86 architecture emulator | *Completed (June 2025)*
 
 - **CPU-XX1 Digital Logic Design**  
   *Course Project for Digital Logic and Computer Organization*  
@@ -83,11 +82,13 @@ Digital Logic and Computer Organization, Introduction to Computer Systems.
 
 - **The Return Rate Trend and Professional Heterogeneity of Higher Education in China**   
   *Team Members: **XIANG Xi** and GUI Yuhe*   
+  [Link](https://xipingo.github.io/resourse/papers/The Return Rate Trend and Professional Heterogeneity of Higher Education in China.pdf)   
   ▪ An article summary and a modified Mincer Equation   
   ▪ Combine The Return Rate Trend and Professional Heterogeneity of Higher Education| *In Progress (Spring 2025)*
 
 - **The Mechanism and Heterogeneity of the Impact of Digital Trade on the Quality of Employment in China**   
   *Team Members: **XIANG Xi**, WU Haomin and FAN Jincheng*    
+  [Link](https://xipingo.github.io/resourse/papers/The Mechanism and Heterigeneity of the Impact of Digital Trade on the Quality of Employment in China.pdf)   
   ▪ Verify four hypotheses: digital trade boosts employment quality, consumption amplifies effect, education investment has threshold, skill level mediates    
   ▪ Build hierarchical regression model, use entropy - weight & instrumental variable, and diverse methods for robustness   
   ▪ **Awarded Third Prize** - The 36th "Silver Star Cup" undergraduate academic paper competition | *May 2025*
@@ -101,7 +102,8 @@ Digital Logic and Computer Organization, Introduction to Computer Systems.
   ▪ Incorporating principal-agent framework | *In Progress (Fall 2024)*
 
 - **Crisis Management in Stigmatized Industries**  
-  *Team Members: AI Peiyang, **XIANG Xi**, YIN Tao, XU Fanjiahui*  
+  *Team Members: AI Peiyang, **XIANG Xi**, YIN Tao, XU Fanjiahui*   
+  [Link](https://xipingo.github.io/resourse/papers/污名化企业的有效响应——以方便食品产业为例.pdf)   
   ▪ Case study of Chinese convenience food industry regulatory responses  
   ▪ **Awarded First Prize** - 27th Forum of Science & Arts at Nanjing University (Freshman Division) | *May 2024*
 
@@ -234,7 +236,6 @@ Digital Logic and Computer Organization, Introduction to Computer Systems.
     </tr>
   </tbody>
 </table>
-
 
 ---
 
