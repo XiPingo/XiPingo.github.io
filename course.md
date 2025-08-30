@@ -210,8 +210,8 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     </tr>
   </tbody>
   <tr>
-      <td><em>AI for Complex Network</em></td>
-      <td><a href="https://xipingo.github.io/resource/AIForComplexNetwork">No Link</a></td>
+      <td><em>AI for Complex Networks</em></td>
+      <td><a href="https://xipingo.github.io/resource/AIForComplexNetworks">No Link</a></td>
     </tr>
 </table>
 

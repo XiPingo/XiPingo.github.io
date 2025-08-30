@@ -45,7 +45,7 @@ Management, Accounting, Public Finance, International Trade, *Monetary Finance a
 * #### Intersection Direction    
 Experimental Economics, New Institution Economics, Development Economics, *Behavioral Economics*.     
 * #### Digital and Big Data Direction
-Big Data Economics, Digital Economics, Database Technology and Its Application, *AI for Complex Network*.    
+Big Data Economics, Digital Economics, Database Technology and Its Application, *AI for Complex Networks*.    
 
 ### Computer Science and Technology       
 * #### Software
