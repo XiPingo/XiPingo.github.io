@@ -11,7 +11,7 @@ Welcome to the homepage of **Probability Theory and Mathematical Statistics** !
 Tips:    
 随机非随意，概率破玄机。   
 无序隐有序，统计解迷离。   
-严加安《悟道诗》
+《悟道诗》严加安
 {: .message }
 
 # Course Introduction

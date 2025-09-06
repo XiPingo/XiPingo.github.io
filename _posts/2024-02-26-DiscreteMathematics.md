@@ -10,7 +10,7 @@ math: true
 Welcome to the homepage of **Discrete Mathematics** !   
 Tips:    
 在大部分时间里，我们并不存在；在某些时间，有你而没有我；在另一些时间，有我而没有你；再有一些时间，你我都存在。   
-博尔赫斯《小径分岔的花园》
+《小径分岔的花园》博尔赫斯
 {: .message }
 
 # Course Introduction
