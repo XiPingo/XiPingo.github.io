@@ -95,7 +95,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     <tr>
       <td class="semester-column">2-1</td>
       <td>Game Theory</td>
-      <td><a href="https://xipingo.github.io/resource/GameTheory">No Link</a></td>
+      <td><a href="https://xipingo.github.io/resource/GameTheory">Released</a></td>
     </tr>
     <tr>
       <td class="semester-column">2-1</td>

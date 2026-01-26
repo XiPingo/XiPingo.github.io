@@ -107,7 +107,7 @@ The teaching content of this course is as follows:
 
 # Course Resourse
 
-## Textbook of Probability Theory and Mathematical Statistics
+## Textbook of Game Theory
 
  [Textbook](https://baike.baidu.com/item/%E7%BB%8F%E6%B5%8E%E5%8D%9A%E5%BC%88%E8%AE%BA%EF%BC%88%E7%AC%AC%E4%B8%89%E7%89%88%EF%BC%89/18774588).
  
@@ -116,41 +116,14 @@ All rights reserved by 复旦大学出版社.
 
 -----
 
-## Courseware of Probability Theory and Mathematical Statistics   
- [Courseware(Part1)](https://xipingo.github.io/resource/ProbabilityTheoryAndMathematicalStatistics/02_1 Random Events and Probabilities.pdf).   
- [Courseware(Part2)](https://xipingo.github.io/resource/ProbabilityTheoryAndMathematicalStatistics/02_2 Random Variables and Their Distributions.pdf).   
- [Courseware(Part3)](https://xipingo.github.io/resource/ProbabilityTheoryAndMathematicalStatistics/02_3 Random Vectors and Their Distributions.pdf).   
- [Courseware(Part4)](https://xipingo.github.io/resource/ProbabilityTheoryAndMathematicalStatistics/02_4 Digital Features.pdf).   
- [Courseware(Part5)](https://xipingo.github.io/resource/ProbabilityTheoryAndMathematicalStatistics/02_5 Limit Theory.pdf).   
- [Courseware(Part6)](https://xipingo.github.io/resource/ProbabilityTheoryAndMathematicalStatistics/02_6 Statistics and Sampling Distributions.pdf).   
- [Courseware(Part7)](https://xipingo.github.io/resource/ProbabilityTheoryAndMathematicalStatistics/02_7 Parameter Estimation.pdf).   
- [Courseware(Part8)](https://xipingo.github.io/resource/ProbabilityTheoryAndMathematicalStatistics/02_8 Hypothesis Testing.pdf).   
-
-
- All rights reserved by Professer [Zhao Jin](https://math.nju.edu.cn/jzyg/apypl/20240321/i261826.html).
+## Courseware of Game Theory   
+ 
+ No coureware.
 
 -----
 
-## Midterm of Probability Theory and Mathematical Statistics
+## Tips of Game Theory
 
- [Midterm](https://xipingo.github.io/resource/ProbabilityTheoryAndMathematicalStatistics/03_1 Mid.pdf).
-
------
-
-## Final of Probability Theory and Mathematical Statistics
-
- [Final](https://xipingo.github.io/resource/ProbabilityTheoryAndMathematicalStatistics/03_2 Final.pdf).
-
------
-
-## Notes of Probability Theory and Mathematical Statistics
-
- [Notes(LaTeX Version)](https://xipingo.github.io/resource/ProbabilityTheoryAndMathematicalStatistics/03_3 概率论与数理统计笔记.pdf) by Xipingo.
-
------
-
-## Tips of Probability Theory and Mathematical Statistics
-
- Maybe you need not to **刷题** a lot this time. But it is important.
+ As long as you can take derivatives, this course should be no problem.
 
 -----

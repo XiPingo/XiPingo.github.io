@@ -33,7 +33,7 @@ Only taken courses are listed below, for more details, click [me](https://xiping
 
 ### Mathematic     
 Calculus Ⅰ(Tier 1), Calculus Ⅱ(Tier 1), Linear Algebra(Tier 1)    
-Discrete Mathematics, Probability Theory and Mathematical Statistics, Statistics
+Discrete Mathematics, Probability Theory and Mathematical Statistics, Statistics   
 *Real Variable Functions and Functional Analysis*   
 ### Economy    
 Political Economy Ⅰ, Political Economy Ⅱ, Introduction to Capital, Chinese Economic History      
