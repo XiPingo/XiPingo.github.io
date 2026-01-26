@@ -52,6 +52,11 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
       <td>Statistics</td>
       <td><a href="https://xipingo.github.io/resource/Statistics">No Link</a></td>
     </tr>
+    <tr>
+      <td class="semester-column">3-2</td>
+      <td><em>Real Variable Functions and Functional Analysis</em></td>
+      <td><a href="https://xipingo.github.io/resource/RealVariableFunctionsAndFunctionalAnalysis">No Link</a></td>
+    </tr>
   </tbody>
 </table>
 
@@ -119,18 +124,23 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     </tr>
   <tr>
       <td class="semester-column">3-1</td>
-      <td><em>Chinese Economic History</em></td>
+      <td>Chinese Economic History</td>
       <td><a href="https://xipingo.github.io/resource/ChineseEconomicHistory">No Link</a></td>
     </tr>
   <tr>
       <td class="semester-column">3-1</td>
-      <td><em>Intermediate Econometrics</em></td>
+      <td>Intermediate Econometrics</td>
       <td><a href="https://xipingo.github.io/resource/IntermediateEconometrics">No Link</a></td>
     </tr>
   <tr>
       <td class="semester-column">3-1</td>
-      <td><em>Industrial Economics</em></td>
-      <td><a href="https://xipingo.github.io/resource/ndustrialEconomics">No Link</a></td>
+      <td>Industrial Economics</td>
+      <td><a href="https://xipingo.github.io/resource/IndustrialEconomics">No Link</a></td>
+    </tr>
+    <tr>
+      <td class="semester-column">3-2</td>
+      <td><em>Intermediate Game Theory</em></td>
+      <td><a href="https://xipingo.github.io/resource/IntermediateGameTheory">No Link</a></td>
     </tr>
   </tbody>
 </table>
@@ -157,12 +167,16 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
       <td><a href="https://xipingo.github.io/resource/InternationalTrade">No Link</a></td>
     </tr>
     <tr>
-      <td><em>Monetary Finance and Banking</em></td>
+      <td>Monetary Finance and Banking</td>
       <td><a href="https://xipingo.github.io/resource/MonetaryFinanceAndBanking">No Link</a></td>
     </tr>
     <tr>
-      <td><em>Financial Management</em></td>
+      <td>Financial Management</td>
       <td><a href="https://xipingo.github.io/resource/FinancialManagement">No Link</a></td>
+    </tr>
+    <tr>
+      <td><em>Financial Mathematics</em></td>
+      <td><a href="https://xipingo.github.io/resource/FinancialMathematics">No Link</a></td>
     </tr>
   </tbody>
 </table>
@@ -185,7 +199,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
       <td><a href="https://xipingo.github.io/resource/DevelopmentEconomics">No Link</a></td>
     </tr>
     <tr>
-      <td><em>Behavioral Economics</em></td>
+      <td>Behavioral Economics</td>
       <td><a href="https://xipingo.github.io/resource/BehavioralEconomics">No Link</a></td>
     </tr>
   </tbody>
@@ -208,11 +222,19 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
       <td>Database Technology and Its Application</td>
       <td><a href="https://xipingo.github.io/resource/DatabaseTechnologyAndItsApplication">No Link</a></td>
     </tr>
-  </tbody>
-  <tr>
-      <td><em>AI for Complex Networks</em></td>
+    <tr>
+      <td>AI for Complex Networks</td>
       <td><a href="https://xipingo.github.io/resource/AIForComplexNetworks">No Link</a></td>
     </tr>
+    <tr>
+      <td><em>Text Mining and Large Language Models</em></td>
+      <td><a href="https://xipingo.github.io/resource/TextMiningAndLargeLanguageModels">No Link</a></td>
+    </tr>
+    <tr>
+      <td><em>Economics of Platform Governance</em></td>
+      <td><a href="https://xipingo.github.io/resource/EconomicsOfPlatformGovernance">No Link</a></td>
+    </tr>
+    </tbody>
 </table>
 
 <table>
@@ -264,23 +286,43 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     </tr>
     <tr>
       <td class="semester-column">3-1</td>
-      <td><em>Computer Networks</em></td>
-      <td><a href="https://xipingo.github.io/resource/ComputerNetworks">No Link</a></td>
+      <td>Computer Networks</td>
+      <td><a href="https://njunet25.github.io/">Prof.</a> & <a href="https://njunet25.github.io/">No Link</a></td>
     </tr>
     <tr>
       <td class="semester-column">3-1</td>
-      <td><em>Introduction to Machine Learning</em></td>
-      <td><a href="https://xipingo.github.io/resource/IntroductionToMachineLearning">No Link</a></td>
+      <td>Introduction to Machine Learning</td>
+      <td><a href="https://njunet25.github.io/">Prof.</a> & <a href="https://njunet25.github.io/">No Link</a></td>
     </tr>
     <tr>
       <td class="semester-column">3-1</td>
-      <td><em>Elements of Cryptography</em></td>
+      <td>Elements of Cryptography</td>
       <td><a href="https://xipingo.github.io/resource/ElementsOfCryptography">No Link</a></td>
     </tr>
     <tr>
       <td class="semester-column">3-1</td>
-      <td><em>Software Engineering</em></td>
+      <td>Software Engineering</td>
       <td><a href="https://xipingo.github.io/resource/SoftwareEngineering">No Link</a></td>
+    </tr>
+    <tr>
+      <td class="semester-column">3-2</td>
+      <td><em>Operating Systems</em></td>
+      <td><a href="https://xipingo.github.io/resource/OperatingSystems">No Link</a></td>
+    </tr>
+    <tr>
+      <td class="semester-column">3-2</td>
+      <td><em>Big Data Processing: Comprehensive Experiments</em></td>
+      <td><a href="https://xipingo.github.io/resource/BigDataProcessing:ComprehensiveExperiments">No Link</a></td>
+    </tr>
+    <tr>
+      <td class="semester-column">3-2</td>
+      <td><em>Introduction to Data Mining</em></td>
+      <td><a href="https://xipingo.github.io/resource/IntroductionToDataMining">No Link</a></td>
+    </tr>
+    <tr>
+      <td class="semester-column">3-2</td>
+      <td><em>Advanced Programming</em></td>
+      <td><a href="https://xipingo.github.io/resource/AdvancedProgramming">No Link</a></td>
     </tr>
   </tbody>
 </table>

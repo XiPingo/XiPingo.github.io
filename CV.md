@@ -33,25 +33,28 @@ Only taken courses are listed below, for more details, click [me](https://xiping
 
 ### Mathematic     
 Calculus Ⅰ(Tier 1), Calculus Ⅱ(Tier 1), Linear Algebra(Tier 1)    
-Discrete Mathematics, Probability Theory and Mathematical Statistics, Statistics.     
+Discrete Mathematics, Probability Theory and Mathematical Statistics, Statistics
+*Real Variable Functions and Functional Analysis*   
 ### Economy    
-Political Economy Ⅰ, Political Economy Ⅱ, Introduction to Capital, *Chinese Economic History*    
-Microeconomics, Intermediate Microeconomics, Game Theory    
-Macroeconomics, Intermediate Macroeconomics, *Industrial Economics*    
-Introduction to Econometrics, *Intermediate Econometrics*    
+Political Economy Ⅰ, Political Economy Ⅱ, Introduction to Capital, Chinese Economic History      
+Microeconomics, Intermediate Microeconomics, Game Theory, Intermediate Game Theory       
+Macroeconomics, Intermediate Macroeconomics, Industrial Economics    
+Introduction to Econometrics, Intermediate Econometrics    
 Mathematical Economics.      
 * #### Financial Direction    
-Management, Accounting, Public Finance, International Trade, *Monetary Finance and Banking*, *Financial Management*.   
+Management, Accounting, Public Finance, International Trade, Monetary Finance and Banking, Financial Management, *Financial Mathematics*.   
 * #### Intersection Direction    
-Experimental Economics, New Institution Economics, Development Economics, *Behavioral Economics*.     
+Experimental Economics, New Institution Economics, Development Economics, Behavioral Economics.     
 * #### Digital and Big Data Direction
-Big Data Economics, Digital Economics, Database Technology and Its Application, *AI for Complex Networks*.    
+Big Data Economics, Digital Economics, Database Technology and Its Application, AI for Complex Networks, *Economics of Platform Governance*, *Text Mining and Large Language Models*.    
 
 ### Computer Science and Technology       
 * #### Software
-Python Programming, Basics of Programming, Data Structures, Alogorithm Design & Analysis, *Introduction to Databases*, *Computer Networks*, *Introduction to Machine Learning*, *Elements of Cryptography*, *Software Engineering*.    
+Python Programming, Basics of Programming, Data Structures, Alogorithm Design & Analysis, Computer Networks, *Advanced Programming*   
+Introduction to Machine Learning, *Introduction to Data Mining*, *Big Data Processing: Comprehensive Experiments*   
+Introduction to Databases, Elements of Cryptography, Software Engineering
 * #### Hardware    
-Digital Logic and Computer Organization, Introduction to Computer Systems.       
+Digital Logic and Computer Organization, Introduction to Computer Systems, *Operating Systems*.       
      
 ---
 ## Research Interests

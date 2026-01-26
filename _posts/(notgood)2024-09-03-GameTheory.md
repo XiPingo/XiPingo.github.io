@@ -9,9 +9,8 @@ math: true
 ---
 Welcome to the homepage of **Game Theory** !   
 Tips:    
-随机非随意，概率破玄机。   
-无序隐有序，统计解迷离。   
-严加安《悟道诗》
+"The best for the group comes when everyone in the group does what’s best for himself **and** the group."   
+——John Nash
 {: .message }
 
 # Course Introduction
@@ -24,178 +23,85 @@ The teaching content of this course is as follows:
     <th>Content</th>
   </tr>
   <tr>
-    <td>1.1-5: Basic Concepts & Probability Axioms</td>
+    <td>1-2: Introduction</td>
     <td>
       <ul>
-        <li>Fundamental concepts of random events</li>
-        <li>Probability axioms and properties</li>
-        <li>Classical and geometric probability models</li>
+        <li>Course overview and basic concepts</li>
+        <li>Scope and applications of game theory</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td>1.6-9: Conditional Probability & Independence</td>
+    <td>3-5: Static Games with Complete Information</td>
     <td>
       <ul>
-        <li>Conditional probability definition</li>
-        <li>Total probability formula</li>
-        <li>Bayes' theorem and applications</li>
-        <li>Independence of events</li>
+        <li>Definition and characteristics of static games</li>
+        <li>Nash equilibrium and solution methods</li>
+        <li>Class discussions and case analysis</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td>2.3: Random Variables & Distributions</td>
+    <td>6-8: Dynamic Games with Complete and Perfect Information</td>
     <td>
       <ul>
-        <li>Definition of random variables</li>
-        <li>Distribution functions (CDF)</li>
-        <li>Discrete vs. continuous random variables</li>
-        <li>Common probability distributions</li>
+        <li>Representation of dynamic games</li>
+        <li>Backward induction and subgame perfect equilibrium</li>
+        <li>Analysis of multi-stage games</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td>2.4: Functions of Random Variables</td>
+    <td>9-10: Repeated Games</td>
     <td>
       <ul>
-        <li>Distribution transformations</li>
-        <li>Methods for deriving distributions of functions</li>
-        <li>Applications to probability calculations</li>
+        <li>Basic types of repeated games</li>
+        <li>Cooperative equilibria and punishment strategies</li>
+        <li>Illustration of term paper examples</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td>3.1-3: Random Vectors</td>
+    <td>11-12: Bounded Rationality and Evolutionary Games</td>
     <td>
       <ul>
-        <li>Joint distribution functions</li>
-        <li>Discrete and continuous bivariate random variables</li>
-        <li>Marginal distributions</li>
+        <li>Motivations for bounded rationality and behavioral games</li>
+        <li>Evolutionarily stable strategies (ESS)</li>
+        <li>Replicator dynamics and equilibrium analysis</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td>3.4-5: Conditional Distributions & Transformations</td>
+    <td>13-14: Dynamic Games with Complete but Imperfect Information</td>
     <td>
       <ul>
-        <li>Conditional distributions for random vectors</li>
-        <li>Distributions of vector transformations</li>
-        <li>Multivariate distribution techniques</li>
+        <li>Modeling of dynamic games with imperfect information</li>
+        <li>Bayesian Nash equilibrium</li>
+        <li>Signaling games and strategy analysis</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td>4.2: Expectation & Variance</td>
+    <td>15-16: Static Games with Incomplete Information & Summary</td>
     <td>
       <ul>
-        <li>Mathematical expectation properties</li>
-        <li>Variance and standard deviation</li>
-        <li>Moments and moment-generating functions</li>
+        <li>Basic framework of static games with incomplete information</li>
+        <li>Assignment review and Q&amp;A</li>
+        <li>Course summary and overall review</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td>4.3-4: Covariance & Characteristic Functions</td>
+    <td>17: Q&amp;A</td>
     <td>
       <ul>
-        <li>Covariance and correlation coefficients</li>
-        <li>Correlation functions</li>
-        <li>Characteristic functions and properties</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>5.1-2: Limit Theorems</td>
-    <td>
-      <ul>
-        <li>Law of Large Numbers (LLN)</li>
-        <li>Central Limit Theorem (CLT)</li>
-        <li>Applications and convergence concepts</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>6.1-2: Statistics</td>
-    <td>
-      <ul>
-        <li>Sample statistics definitions</li>
-        <li>Common statistical measures</li>
-        <li>Data summarization techniques</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>6.3: Sampling Distributions</td>
-    <td>
-      <ul>
-        <li>Distribution of sample statistics</li>
-        <li>Chi-square, t, and F distributions</li>
-        <li>Sampling distribution derivations</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>7.1-2: Point Estimation</td>
-    <td>
-      <ul>
-        <li>Method of moments estimation</li>
-        <li>Maximum likelihood estimation (MLE)</li>
-        <li>Properties of point estimators</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>7.3-4: Estimation Properties & Intervals</td>
-    <td>
-      <ul>
-        <li>Unbiasedness and efficiency</li>
-        <li>Confidence interval construction</li>
-        <li>Interval estimation methods</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>8.1-2: Hypothesis Testing Theory</td>
-    <td>
-      <ul>
-        <li>Null and alternative hypotheses</li>
-        <li>Type I/II errors and significance levels</li>
-        <li>Test statistics and rejection regions</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>8.3: Normal Distribution Tests</td>
-    <td>
-      <ul>
-        <li>Z-tests and t-tests</li>
-        <li>Chi-square tests for variance</li>
-        <li>ANOVA applications</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>8.4: Nonparametric Tests</td>
-    <td>
-      <ul>
-        <li>Goodness-of-fit tests (e.g., Kolmogorov-Smirnov)</li>
-        <li>Rank-based tests (e.g., Wilcoxon, Mann-Whitney)</li>
-        <li>Distribution-free methods</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>Review</td>
-    <td>
-      <ul>
-        <li>Comprehensive review of key concepts</li>
-        <li>Problem-solving strategies</li>
-        <li>Exam preparation</li>
+        <li>Comprehensive Q&amp;A and discussion</li>
+        <li>Final review of course content</li>
       </ul>
     </td>
   </tr>
 </table>
+
 
 -----
 
@@ -203,15 +109,14 @@ The teaching content of this course is as follows:
 
 ## Textbook of Probability Theory and Mathematical Statistics
 
- [Textbook](https://book.douban.com/subject/35021195/).
+ [Textbook](https://baike.baidu.com/item/%E7%BB%8F%E6%B5%8E%E5%8D%9A%E5%BC%88%E8%AE%BA%EF%BC%88%E7%AC%AC%E4%B8%89%E7%89%88%EF%BC%89/18774588).
  
 
-All rights reserved by 科学出版社.
+All rights reserved by 复旦大学出版社.
 
 -----
 
 ## Courseware of Probability Theory and Mathematical Statistics   
-
  [Courseware(Part1)](https://xipingo.github.io/resource/ProbabilityTheoryAndMathematicalStatistics/02_1 Random Events and Probabilities.pdf).   
  [Courseware(Part2)](https://xipingo.github.io/resource/ProbabilityTheoryAndMathematicalStatistics/02_2 Random Variables and Their Distributions.pdf).   
  [Courseware(Part3)](https://xipingo.github.io/resource/ProbabilityTheoryAndMathematicalStatistics/02_3 Random Vectors and Their Distributions.pdf).   
