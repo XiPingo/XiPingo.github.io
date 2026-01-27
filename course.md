@@ -95,7 +95,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     <tr>
       <td class="semester-column">2-1</td>
       <td>Game Theory</td>
-      <td><a href="https://xipingo.github.io/resource/GameTheory">Released</a></td>
+      <td><a href="https://xipingo.github.io/2024/09/03/GameTheory/">Released</a></td>
     </tr>
     <tr>
       <td class="semester-column">2-1</td>
@@ -196,7 +196,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     </tr>
     <tr>
       <td>Development Economics</td>
-      <td><a href="https://xipingo.github.io/resource/DevelopmentEconomics">No Link</a></td>
+      <td><a href="https://xipingo.github.io/2024/09/04/DevelopmentEconomics/">Released</a></td>
     </tr>
     <tr>
       <td>Behavioral Economics</td>
