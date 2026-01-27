@@ -281,7 +281,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     </tr>
     <tr>
       <td class="semester-column">3-1</td>
-      <td><em>Introduction to Databases</em></td>
+      <td>Introduction to Databases</td>
       <td><a href="https://xipingo.github.io/resource/IntroductionToDatabases">No Link</a></td>
     </tr>
     <tr>

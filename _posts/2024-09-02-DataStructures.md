@@ -15,6 +15,8 @@ Tips:
 
 # Course Introduction
 
+<mark>Course number: 22010020 Credit: 4</mark>  
+
 The teaching content of this course is as follows:   
 
 <table border="1" width="100%">

@@ -15,6 +15,8 @@ Tips:
 
 # Course Introduction
 
+<mark>Course number: 09010210 Credit: 2</mark>   
+
 The teaching content of this course is as follows:   
 
 <table border="1" width="100%">
@@ -118,7 +120,7 @@ All rights reserved by 复旦大学出版社.
 
 ## Courseware of Game Theory   
  
- No coureware.
+ No courseware.
 
 -----
 
