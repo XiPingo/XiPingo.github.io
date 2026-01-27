@@ -262,7 +262,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     <tr>
       <td class="semester-column">2-1</td>
       <td>Digital Logic and Computer Organization</td>
-      <td><a href="https://xipingo.github.io/resource/DigitalLogicAndComputerOrganization">No Link</a></td>
+      <td><a href="https://xipingo.github.io/2024/09/04/DigitalLogicAndComputerOrganization">Released</a></td>
     </tr>
     <tr>
       <td class="semester-column">2-1</td>
