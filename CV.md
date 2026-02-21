@@ -61,7 +61,8 @@ Digital Logic and Computer Organization, Introduction to Computer Systems, *Oper
 - Application of Machine Learning, Data Mining and Big Data Technology in Causality Inference of Econometrics.  
 - Theoretical Explanation of New Phenomena and New Models in Digital Economy.   
 - Application of Micro-empirical Econometrics: Topics Related to Labor and Education.
-- Game Theory: Relationship between Central Government and Local Government.
+- Game Theory: Relationship between Central Government and Local Government.   
+
 ---
 ## Project Experience
 
