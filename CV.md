@@ -58,13 +58,18 @@ Digital Logic and Computer Organization, Introduction to Computer Systems, *Oper
      
 ---
 ## Research Interests
-- Microeconomics: Game Theory and Information Economics, Microeconomic Theory.  
-- Digital Economics and Big Data Economics: Graph Theory and Algorithms (for social network).
-    
+- Application of Machine Learning, Data Mining and Big Data Technology in Causality Inference of Econometrics.  
+- Theoretical Explanation of New Phenomena and New Models in Digital Economy.   
+- Application of Micro-empirical Econometrics: Topics Related to Labor and Education.
+- Game Theory: Relationship between Central Government and Local Government.
 ---
 ## Project Experience
 
 ### Computer Science
+
+- **Second-Hand Goods Trading Platform**   
+  *A platform for second-hand goods publish, trade, comment, and manage*   
+  ▪ Users can register, log in, log out, post, purchase, comment, and save second-hand items. Administrators can review and publish user and item information. | *Completed (Dec 2025)*
 
 - **Sports Meeting Management System**  
   *A system for managing sports events, athletes, and results*  
@@ -82,6 +87,18 @@ Digital Logic and Computer Organization, Introduction to Computer Systems, *Oper
 ---
 
 ### Economics Research
+
+- **Opening Doors, Widening Gaps? The Distributional and Intergenerational Effects of China’s Higher Education Expansion**
+  *Team Members: **XIANG Xi***   
+  [Link](https://xipingo.github.io/resource/papers/Opening Doors, Widening Gaps.pdf)   
+  ▪ Higher education expansion promotes intergenerational mobility, with heterogeneous effects across urban-rural and parental dimensions   
+  ▪ Employ Regression Discontinuity Design and Difference-in-Differences, process CFPS 2022 data, and conduct rigorous robustness checks | *Feb 2026*   
+
+- **The Relationship between Industrial Chain Network Position, Supply Chain Concentration and Enterprise Innovation Performance**
+  *Team Members: **XIANG Xi***   
+  [Link](https://xipingo.github.io/resource/papers/产业链网络位置、供应链集中度与企业创新绩效.pdf)   
+  ▪ Network centrality boosts innovation, supply chain concentration negatively moderates the effect, the moderation is more significant in high-complexity innovation   
+  ▪ Construct directed weighted industrial chain network, adopt panel fixed effect model, DID and link prediction, with multiple robustness tests | *Feb 2026*   
 
 - **The Return Rate Trend and Professional Heterogeneity of Higher Education in China**   
   *Team Members: **XIANG Xi** and GUI Yuhe*   
