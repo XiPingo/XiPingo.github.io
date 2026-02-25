@@ -107,6 +107,8 @@ The teaching content of this course is as follows:
 
 All rights reserved by Professor [Shen Haopeng](https://nubs.nju.edu.cn/shp%C2%A0/list.htm).
 
+-----
+
 ## Homework of Intermediate Macroeconomics   
 
 [HW1](https://xipingo.github.io/resource/IntermediateMacroeconomics/HW1.pdf).  
