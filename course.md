@@ -105,7 +105,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     <tr>
       <td class="semester-column">2-2</td>
       <td>Introduction to Capital</td>
-      <td><a href="https://xipingo.github.io/resource/IntroductionToCapital">No Link</a></td>
+      <td>No Link</td>
     </tr>
     <tr>
       <td class="semester-column">2-2</td>
@@ -115,7 +115,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     <tr>
       <td class="semester-column">2-2</td>
       <td>Introduction to Econometrics</td>
-      <td><a href="https://byelenin.github.io/Metrics_2025/">Prof.</a> & <a href="https://byelenin.github.io/Metrics_2025/">No Link</a></td>
+      <td><a href="https://byelenin.github.io/Metrics_2025/">Prof.</a></td>
     </tr>
     <tr>
       <td class="semester-column">2-2</td>
@@ -160,15 +160,15 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     </tr>
     <tr>
       <td>Public Finance</td>
-      <td><a href="https://xipingo.github.io/resource/PublicFinance">No Link</a></td>
+      <td>No Link</td>
     </tr>
     <tr>
       <td>International Trade</td>
-      <td><a href="https://xipingo.github.io/resource/InternationalTrade">No Link</a></td>
+      <td>No Link</td>
     </tr>
     <tr>
       <td>Monetary Finance and Banking</td>
-      <td><a href="https://xipingo.github.io/resource/MonetaryFinanceAndBanking">No Link</a></td>
+      <td>No Link</td>
     </tr>
     <tr>
       <td>Financial Management</td>
@@ -272,12 +272,12 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     <tr>
       <td class="semester-column">2-2</td>
       <td>Algorithm Design & Analysis</td>
-      <td><a href="https://tcs.nju.edu.cn/shili/courses/2025spring-algo/">Prof.</a> & <a href="https://tcs.nju.edu.cn/shili/courses/2025spring-algo/">No Link</a></td>
+      <td><a href="https://tcs.nju.edu.cn/shili/courses/2025spring-algo/">Prof.</a></td>
     </tr>
     <tr>
       <td class="semester-column">2-2</td>
       <td>Introduction to Computer Systems</td>
-      <td><a href="http://114.212.10.193:8080/course/ics25s/">Prof.</a> & <a href="http://114.212.10.193:8080/course/ics25s/">No Link</a></td>
+      <td><a href="http://114.212.10.193:8080/course/ics25s/">Prof.</a></td>
     </tr>
     <tr>
       <td class="semester-column">3-1</td>
@@ -287,12 +287,12 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     <tr>
       <td class="semester-column">3-1</td>
       <td>Computer Networks</td>
-      <td><a href="https://njunet25.github.io/">Prof.</a> & <a href="https://njunet25.github.io/">No Link</a></td>
+      <td><a href="https://njunet25.github.io/">Prof.</a></td>
     </tr>
     <tr>
       <td class="semester-column">3-1</td>
       <td>Introduction to Machine Learning</td>
-      <td><a href="https://njunet25.github.io/">Prof.</a> & <a href="https://njunet25.github.io/">No Link</a></td>
+      <td><a href="https://njunet25.github.io/">Prof.</a></td>
     </tr>
     <tr>
       <td class="semester-column">3-1</td>

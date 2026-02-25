@@ -89,13 +89,13 @@ Digital Logic and Computer Organization, Introduction to Computer Systems, *Oper
 
 ### Economics Research
 
-- **Opening Doors, Widening Gaps? The Distributional and Intergenerational Effects of China’s Higher Education Expansion**
+- **Opening Doors, Widening Gaps? The Distributional and Intergenerational Effects of China’s Higher Education Expansion**   
   *Team Members: **XIANG Xi***   
   [Link](https://xipingo.github.io/resource/papers/Opening Doors, Widening Gaps.pdf)   
   ▪ Higher education expansion promotes intergenerational mobility, with heterogeneous effects across urban-rural and parental dimensions   
   ▪ Employ Regression Discontinuity Design and Difference-in-Differences, process CFPS 2022 data, and conduct rigorous robustness checks | *Feb 2026*   
 
-- **The Relationship between Industrial Chain Network Position, Supply Chain Concentration and Enterprise Innovation Performance**
+- **The Relationship between Industrial Chain Network Position, Supply Chain Concentration and Enterprise Innovation Performance**   
   *Team Members: **XIANG Xi***   
   [Link](https://xipingo.github.io/resource/papers/产业链网络位置、供应链集中度与企业创新绩效.pdf)   
   ▪ Network centrality boosts innovation, supply chain concentration negatively moderates the effect, the moderation is more significant in high-complexity innovation   
