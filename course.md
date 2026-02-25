@@ -100,7 +100,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     <tr>
       <td class="semester-column">2-1</td>
       <td>Intermediate Macroeconomics</td>
-      <td><a href="https://xipingo.github.io/resource/IntermediateMacroeconomics">No Link</a></td>
+      <td><a href="https://xipingo.github.io/2024/09/05/IntermediateMacroeconomics">Released</a></td>
     </tr>
     <tr>
       <td class="semester-column">2-2</td>
@@ -188,7 +188,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
   <tbody>
     <tr>
       <td>Experimental Economics</td>
-      <td><a href="https://xipingo.github.io/resource/ExperimentalEconomics">No Link</a></td>
+      <td><a href="https://xipingo.github.io/2024/09/05/ExperimentalEconomics">Released</a></td>
     </tr>
     <tr>
       <td>New Institution Economics</td>
