@@ -241,19 +241,19 @@ Digital Logic and Computer Organization, Introduction to Computer Systems, *Oper
   <tbody>
     <tr>
       <td>Listening Comprehension</td>
-      <td class="semester-column">185</td>
+      <td class="semester-column">188</td>
     </tr>
     <tr>
       <td>Reading Comprehension</td>
-      <td class="semester-column">210</td>
+      <td class="semester-column">221</td>
     </tr>
     <tr>
       <td>Translation &amp; Writing</td>
-      <td class="semester-column">147</td>
+      <td class="semester-column">162</td>
     </tr>
     <tr>
       <td><strong>Total</strong></td>
-      <td class="semester-column"><strong>542</strong></td>
+      <td class="semester-column"><strong>571</strong></td>
     </tr>
   </tbody>
 </table>

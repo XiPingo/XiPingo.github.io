@@ -84,7 +84,7 @@ The teaching content of this course is as follows:
 
 # Course Resourse
 
-## Textbook of CalculusⅠ
+## Textbook of Political Economics Ⅱ
 
  [Textbook](https://www.icourse163.org/course/NJU-1462027163).
 
@@ -92,7 +92,7 @@ All rights reserved by 科学出版社.
 
 -----
 
-## Courseware of CalculusⅠ
+## Courseware of Political Economics Ⅱ
 
  [Courseware(Part1)](https://xipingo.github.io/resource/CalculusⅠ/02_1_Calculus I Courseware(Part1).pdf).   
  [Courseware(Part2)](https://xipingo.github.io/resource/CalculusⅠ/02_1_Calculus I Courseware(Part2).pdf).
@@ -102,25 +102,25 @@ All rights reserved by 科学出版社.
 
 -----
 
-## Midterm of CalculusⅠ
+## Midterm of Political Economics Ⅱ
 
  [Midterm](https://xipingo.github.io/resource/CalculusⅠ/03_1_Calculus I Midterm.pdf).
 
 -----
 
-## Final of CalculusⅠ
+## Final of Political Economics Ⅱ
 
  [Final](https://xipingo.github.io/resource/CalculusⅠ/03_2_Calculus I Final.pdf).
 
 -----
 
-## Notes of CalculusⅠ   
+## Notes of Political Economics Ⅱ   
 
  [Notes(Handwrite Version)](https://xipingo.github.io/resource/CalculusⅠ/NotesOfCalculusⅠ.pdf) by Xipingo, there is no LaTeX version of it.
 
 -----
 
-## Tips of CalculusⅠ   
+## Tips of Political Economics Ⅱ   
 
  All you need to do is **刷题** !
 
