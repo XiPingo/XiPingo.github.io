@@ -177,11 +177,13 @@ Digital Logic and Computer Organization, Introduction to Computer Systems, *Oper
     </tr>
     <tr>
       <td>Compulsory Course GPA</td>
-      <td class="semester-column">4.50/5.0</td>
+      <td class="semester-column">4.49/5.0</td>
     </tr>
   </tbody>
 </table>
 
+Rank: 6/20 (30%)   
+{: .message }   
 
 *Official academic transcripts available upon request via email.*
 
