@@ -90,7 +90,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     <tr>
       <td class="semester-column">2-1</td>
       <td>Political Economy Ⅱ</td>
-      <td><a href="https://xipingo.github.io/resource/PoliticalEconomyⅡ">No Link</a></td>
+      <td><a href="https://xipingo.github.io/2024/09/05/PoliticalEconomyⅡ">Released</a></td>
     </tr>
     <tr>
       <td class="semester-column">2-1</td>
