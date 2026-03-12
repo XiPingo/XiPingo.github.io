@@ -90,13 +90,13 @@ Digital Logic and Computer Organization, Introduction to Computer Systems, *Oper
 ### Economics Research
 
 - **Opening Doors, Widening Gaps? The Distributional and Intergenerational Effects of China’s Higher Education Expansion**   
-  *Team Members: **XIANG Xi***   
+  *Team Member: **XIANG Xi***   
   [Link](https://xipingo.github.io/resource/papers/Opening Doors, Widening Gaps.pdf)   
   ▪ Higher education expansion promotes intergenerational mobility, with heterogeneous effects across urban-rural and parental dimensions   
   ▪ Employ Regression Discontinuity Design and Difference-in-Differences, process CFPS 2022 data, and conduct rigorous robustness checks | *Feb 2026*   
 
 - **The Relationship between Industrial Chain Network Position, Supply Chain Concentration and Enterprise Innovation Performance**   
-  *Team Members: **XIANG Xi***   
+  *Team Member: **XIANG Xi***   
   [Link](https://xipingo.github.io/resource/papers/产业链网络位置、供应链集中度与企业创新绩效.pdf)   
   ▪ Network centrality boosts innovation, supply chain concentration negatively moderates the effect, the moderation is more significant in high-complexity innovation   
   ▪ Construct directed weighted industrial chain network, adopt panel fixed effect model, DID and link prediction, with multiple robustness tests | *Feb 2026*   
@@ -123,7 +123,7 @@ Digital Logic and Computer Organization, Introduction to Computer Systems, *Oper
   ▪ Incorporating principal-agent framework | *In Progress (Fall 2024)*
 
 - **Crisis Management in Stigmatized Industries**  
-  *Team Members: AI Peiyang, **XIANG Xi**, YIN Tao, XU Fanjiahui*   
+  *Team Members: AI Peiyuan, **XIANG Xi**, YIN Tao, XU Fanjiahui*   
   [Link](https://xipingo.github.io/resource/papers/污名化企业的有效响应——以方便食品产业为例.pdf)   
   ▪ Case study of Chinese convenience food industry regulatory responses  
   ▪ **Awarded First Prize** - 27th Forum of Science & Arts at Nanjing University (Freshman Division) | *May 2024*

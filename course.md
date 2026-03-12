@@ -212,7 +212,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
   <tbody>
     <tr>
       <td>Big Data Economics</td>
-      <td><a href="https://xipingo.github.io/resource/BigDataEconomics">Prof.</a> & <a href="https://xipingo.github.io/resource/BigDataEconomics">No Link</a></td>
+      <td><a href="https://xipingo.github.io/resource/BigDataEconomics">Prof.</a> & <a href="https://xipingo.github.io/2024/09/06/BigDataEconomics">Released</a></td>
     </tr>
     <tr>
       <td>Digital Economics</td>
