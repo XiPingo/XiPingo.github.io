@@ -17,7 +17,7 @@ Tips: In God we trust. All others must bring data.
 
 The teaching content of this course is as follows:   
 
-<table border="1" width="100%"><tr><th>Week</th><th>Content</th></tr><tr><td>1</td><td>经济大数据简介</td></tr><tr><td>2</td><td>DataFrame&词频计算</td></tr><tr><td>3</td><td>概率计算与模拟</td></tr><tr><td>5</td><td>截面数据分析</td></tr><tr><td>6</td><td>时间序列数据分析</td></tr><tr><td>7</td><td>面板数据分析</td></tr><tr><td>8</td><td>网络爬虫实验</td></tr><tr><td>10</td><td>跨表操作与数据构造</td></tr><tr><td>11</td><td>实验数据分析</td></tr><tr><td>12</td><td>股票大数据分析</td></tr><tr><td>13</td><td>非结构化数据处理</td></tr><tr><td>14</td><td>大数据的可视化进阶</td></tr><tr><td>15</td><td>大数据综合研究型实验</td></tr><tr><td>16</td><td>大作业展示与点评</td></tr><tr><td>17</td><td>随堂期末考试（开卷机考）</td></tr></table>
+<table border="1" width="100%"><tr><th>Week</th><th>Content</th></tr><tr><td>1</td><td>Introduction to Economic Big Data</td></tr><tr><td>2</td><td>DataFrame & Word Frequency Calculation</td></tr><tr><td>3</td><td>Probability Calculation and Simulation</td></tr><tr><td>5</td><td>Cross-Sectional Data Analysis</td></tr><tr><td>6</td><td>Time Series Data Analysis</td></tr><tr><td>7</td><td>Panel Data Analysis</td></tr><tr><td>8</td><td>Web Crawler Experiment</td></tr><tr><td>10</td><td>Cross-Table Operations and Data Construction</td></tr><tr><td>11</td><td>Experimental Data Analysis</td></tr><tr><td>12</td><td>Stock Big Data Analysis</td></tr><tr><td>13</td><td>Unstructured Data Processing</td></tr><tr><td>14</td><td>Advanced Visualization of Big Data</td></tr><tr><td>15</td><td>Comprehensive Research-based Experiment on Big Data</td></tr><tr><td>16</td><td>Major Assignment Presentation and Comment</td></tr><tr><td>17</td><td>In-Class Final Exam (Open-Book Computer-Based Exam)</td></tr></table>
 
 -----
 

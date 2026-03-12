@@ -9,7 +9,9 @@ math: true
 ---
 Welcome to the homepage of **Intermediate Macroeconomics** !   
 Tips: In the long run we are all dead.   
-——Keynes
+——Keynes   
+“劝君莫惜金缕衣，劝君惜取少年时。花开堪折直须折，莫待无花空折枝。”   
+《金缕衣》
 {: .message }
 
 <mark>Course Number: 09010280 Credits:3</mark>

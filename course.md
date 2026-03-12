@@ -110,7 +110,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     <tr>
       <td class="semester-column">2-2</td>
       <td>Intermediate Microeconomics</td>
-      <td><a href="https://xipingo.github.io/resource/IntermediateMicroeconomics">No Link</a></td>
+      <td><a href="https://xipingo.github.io/2025/02/17/IntermediateMicroeconomics">Released</a></td>
     </tr>
     <tr>
       <td class="semester-column">2-2</td>
