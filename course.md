@@ -192,7 +192,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     </tr>
     <tr>
       <td>New Institution Economics</td>
-      <td>No Link</a></td>
+      <td>No Link</td>
     </tr>
     <tr>
       <td>Development Economics</td>
@@ -220,7 +220,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     </tr>
     <tr>
       <td>Database Technology and Its Application</td>
-      <td>No Link</a></td>
+      <td>No Link</td>
     </tr>
     <tr>
       <td>AI for Complex Networks</td>
