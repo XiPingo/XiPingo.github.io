@@ -192,7 +192,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     </tr>
     <tr>
       <td>New Institution Economics</td>
-      <td><a href="https://xipingo.github.io/resource/NewInstitutionEconomics">No Link</a></td>
+      <td>No Link</a></td>
     </tr>
     <tr>
       <td>Development Economics</td>
@@ -220,7 +220,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     </tr>
     <tr>
       <td>Database Technology and Its Application</td>
-      <td><a href="https://xipingo.github.io/resource/DatabaseTechnologyAndItsApplication">No Link</a></td>
+      <td>No Link</a></td>
     </tr>
     <tr>
       <td>AI for Complex Networks</td>
@@ -292,7 +292,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     <tr>
       <td class="semester-column">3-1</td>
       <td>Introduction to Machine Learning</td>
-      <td><a href="https://njunet25.github.io/">Prof.</a></td>
+      <td><a href="https://www.lamda.nju.edu.cn/yehj/ml2025fall/ml2025.htm">Prof.</a></td>
     </tr>
     <tr>
       <td class="semester-column">3-1</td>
@@ -307,7 +307,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     <tr>
       <td class="semester-column">3-2</td>
       <td><em>Operating Systems</em></td>
-      <td><a href="https://xipingo.github.io/resource/OperatingSystems">No Link</a></td>
+      <td><a href="https://jyywiki.cn/OS/2026/">Prof.</a></td>
     </tr>
     <tr>
       <td class="semester-column">3-2</td>
