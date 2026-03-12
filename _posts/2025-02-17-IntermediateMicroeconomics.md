@@ -42,19 +42,19 @@ All rights reserved by 格致出版社/上海三联书店/上海人民出版社.
 
 ## Courseware of Intermediate Microeconomics
 
-[02_1 Introduction & Budget Constraints](https://xipingo.github.io/resource/IntermediateMicroeconomics/02_1 Introduction & Budget Constraints.pdf).
-[02_2 Preference & Utility & Choice](https://xipingo.github.io/resource/IntermediateMicroeconomics/02_2 Preference & Utility & Choice.pdf).
-[02_3 Choice & Demand](https://xipingo.github.io/resource/IntermediateMicroeconomics/02_3 Choice & Demand.pdf).
-[02_4 Slutsky Equation](https://xipingo.github.io/resource/IntermediateMicroeconomics/02_4 Slutsky Equation.pdf).
-[02_5 Buying and Selling](https://xipingo.github.io/resource/IntermediateMicroeconomics/02_5 Buying and Selling.pdf).
-[02_6 Intertemporal Choice & Uncertainty](https://xipingo.github.io/resource/IntermediateMicroeconomics/02_6 Intertemporal Choice & Uncertainty.pdf).
-[02_7 Consumer Surplus & Market Demand & Equilibrium & Measurement](https://xipingo.github.io/resource/IntermediateMicroeconomics/02_7 Consumer Surplus & Market Demand & Equilibrium & Measurement.pdf).
-[02_8 Technology](https://xipingo.github.io/resource/IntermediateMicroeconomics/02_8 Technology.pdf).
-[02_9 Profit Maximization](https://xipingo.github.io/resource/IntermediateMicroeconomics/02_9 Profit Maximization.pdf).
-[02_10 Cost Minimization and Cost Curve](https://xipingo.github.io/resource/IntermediateMicroeconomics/02_10 Cost Minimization and Cost Curve.pdf).
-[02_11 Cost Curve & Firm Supply & Industrial Supply](https://xipingo.github.io/resource/IntermediateMicroeconomics/02_11_Cost Curve & Firm Supply & Industrial Supply.pdf).
-[02_12 Monopoly & Monopoly Behavior](https://xipingo.github.io/resource/IntermediateMicroeconomics/02_12_Monopoly & Monopoly Behavior.pdf).
-[02_13 Oligopoly & General Equilibrium And Exchange](https://xipingo.github.io/resource/IntermediateMicroeconomics/02_13_Oligopoly & General Equilibrium And Exchange.pdf).
+[02_1 Introduction & Budget Constraints](https://xipingo.github.io/resource/IntermediateMicroeconomics/02_1 Introduction & Budget Constraints.pdf).   
+[02_2 Preference & Utility & Choice](https://xipingo.github.io/resource/IntermediateMicroeconomics/02_2 Preference & Utility & Choice.pdf).   
+[02_3 Choice & Demand](https://xipingo.github.io/resource/IntermediateMicroeconomics/02_3 Choice & Demand.pdf).   
+[02_4 Slutsky Equation](https://xipingo.github.io/resource/IntermediateMicroeconomics/02_4 Slutsky Equation.pdf).   
+[02_5 Buying and Selling](https://xipingo.github.io/resource/IntermediateMicroeconomics/02_5 Buying and Selling.pdf).   
+[02_6 Intertemporal Choice & Uncertainty](https://xipingo.github.io/resource/IntermediateMicroeconomics/02_6 Intertemporal Choice & Uncertainty.pdf).   
+[02_7 Consumer Surplus & Market Demand & Equilibrium & Measurement](https://xipingo.github.io/resource/IntermediateMicroeconomics/02_7 Consumer Surplus & Market Demand & Equilibrium & Measurement.pdf).   
+[02_8 Technology](https://xipingo.github.io/resource/IntermediateMicroeconomics/02_8 Technology.pdf).   
+[02_9 Profit Maximization](https://xipingo.github.io/resource/IntermediateMicroeconomics/02_9 Profit Maximization.pdf).   
+[02_10 Cost Minimization and Cost Curve](https://xipingo.github.io/resource/IntermediateMicroeconomics/02_10 Cost Minimization and Cost Curve.pdf).   
+[02_11 Cost Curve & Firm Supply & Industrial Supply](https://xipingo.github.io/resource/IntermediateMicroeconomics/02_11_Cost Curve & Firm Supply & Industrial Supply.pdf).   
+[02_12 Monopoly & Monopoly Behavior](https://xipingo.github.io/resource/IntermediateMicroeconomics/02_12_Monopoly & Monopoly Behavior.pdf).   
+[02_13 Oligopoly & General Equilibrium And Exchange](https://xipingo.github.io/resource/IntermediateMicroeconomics/02_13_Oligopoly & General Equilibrium And Exchange.pdf).   
 
  All rights reserved by Professer [Chen Ziyang](https://nubs.nju.edu.cn/czy/list.htm).
 
@@ -65,19 +65,19 @@ All rights reserved by 格致出版社/上海三联书店/上海人民出版社.
 ### Problem Set 1
 
 #### Q1
-Suppose Jurgen consumes two goods \((x_1, x_2)\). The price of good \(x_1\) is \(p_1 = 2\), the price of good \(x_2\) is \(p_2 = 1\), and Jurgen's income is \(I = 50\).
+Suppose Jurgen consumes two goods $(x_1, x_2)$. The price of good $x_1$ is $p_1 = 2$, the price of good $x_2$ is $p_2 = 1$, and Jurgen's income is $I = 50$.
 
 ##### (a)
 Draw a graph of Jurgen's budget set. Write down an equation describing the budget line.
 
 ##### (b)
-If Jurgen spends all of his money on \(x_1\), what is the largest amount he can buy? If he spends all of his money on \(x_2\), what is the largest amount he can buy? Label these points on your graph from part (a).
+If Jurgen spends all of his money on $x_1$, what is the largest amount he can buy? If he spends all of his money on $x_2$, what is the largest amount he can buy? Label these points on your graph from part (a).
 
 ##### (c)
-What is the opportunity cost of good \(x_1\)—that is, starting from some bundle with \(x_2 > 0\), if the consumer would like an additional unit of \(x_1\), how many units of \(x_2\) will he need to give up? What is the slope of the budget line?
+What is the opportunity cost of good $x_1$—that is, starting from some bundle with $x_2 > 0$, if the consumer would like an additional unit of $x_1$, how many units of $x_2$ will he need to give up? What is the slope of the budget line?
 
 ##### (d)
-Plot the bundles \((15, 15)\), \((20, 20)\), and \((20, 10)\) on your graph from part (a). For each of these, determine if the bundle is:
+Plot the bundles $(15, 15)$, $(20, 20)$, and $(20, 10)$ on your graph from part (a). For each of these, determine if the bundle is:
 - (i) on the budget line;
 - (ii) in the consumer's budget set, but not on the budget line;
 - (iii) not in the budget set.
@@ -85,47 +85,47 @@ Plot the bundles \((15, 15)\), \((20, 20)\), and \((20, 10)\) on your graph from
 ---
 
 #### Q2
-Suppose that a consumer's preference relation over bundles of goods \((x, y)\) is both rational and (strictly) well-behaved. The consumer faces a budget constraint, where the price of good \(x\) is \(p_x = 2\), the price of good \(y\) is \(p_y = 3\), and the total available income is \(I = 60\).
+Suppose that a consumer's preference relation over bundles of goods $(x, y)$ is both rational and (strictly) well-behaved. The consumer faces a budget constraint, where the price of good $x$ is $p_x = 2$, the price of good $y$ is $p_y = 3$, and the total available income is $I = 60$.
 
 ##### (a)
-Is it possible that the bundle \((10, 10)\) is the most preferred for this consumer among all of the bundles in her budget set? If so, explain why. If not, suggest a bundle in the budget set that is necessarily more preferred.
+Is it possible that the bundle $(10, 10)$ is the most preferred for this consumer among all of the bundles in her budget set? If so, explain why. If not, suggest a bundle in the budget set that is necessarily more preferred.
 
 ##### (b)
-Suppose it is known that the consumer (strictly) prefers the bundle \((12, 12)\) to the bundle \((21, 6)\). Can you determine whether the consumer prefers the bundle \((12, 12)\) to the bundle \((21, 5)\)? Explain your answer in detail.
+Suppose it is known that the consumer (strictly) prefers the bundle $(12, 12)$ to the bundle $(21, 6)$. Can you determine whether the consumer prefers the bundle $(12, 12)$ to the bundle $(21, 5)$? Explain your answer in detail.
 
 ##### (c)
-Suppose this consumer's preferences over consumption bundles \((x, y)\) are characterized by utility function \(u(x, y) = x^{\frac{1}{3}} y^{\frac{2}{3}}\). Show that this consumer's preferences satisfy strict monotonicity and strict convexity.
+Suppose this consumer's preferences over consumption bundles $(x, y)$ are characterized by utility function $u(x, y) = x^{\frac{1}{3}} y^{\frac{2}{3}}$. Show that this consumer's preferences satisfy strict monotonicity and strict convexity.
 
 ---
 
 #### Q3
-Erling's preferences over goods \((x_1, x_2)\) are represented by the utility function:
-\[
+Erling's preferences over goods $(x_1, x_2)$ are represented by the utility function:
+$$
 u(x_1, x_2) = \sqrt{x_1} + x_2
-\]
-Suppose the market prices are \(p_1 = 3\) and \(p_2 = 4\), and that Erling's income is \(m\) (assume \(m > 0\)).
+$$
+Suppose the market prices are $p_1 = 3$ and $p_2 = 4$, and that Erling's income is $m$ (assume $m > 0$).
 
 ##### (a)
 Write Erling's utility maximization problem.
 
 ##### (b)
-Start by solving for an interior solution, and find Erling's optimal bundle \((x_1^*, x_2^*)\). Note that your solution here may be a function of income \(m\).
+Start by solving for an interior solution, and find Erling's optimal bundle $(x_1^*, x_2^*)$. Note that your solution here may be a function of income $m$.
 
 ##### (c)
-Given your results from part (b), for what values of income \(m\) will Erling choose to consume \(x_2^* = 0\)?
+Given your results from part (b), for what values of income $m$ will Erling choose to consume $x_2^* = 0$?
 
 ---
 
 ### Midterm Exam
 
 #### Q1
-Suppose Alex consumes two goods \((x_1, x_2)\) and has endowment bundle \((60, 40)\). Market prices are \((p_1, p_2) = (2, 2)\), and Alex's utility from the two goods is given by \(u(x_1, x_2) = \sqrt{x_1 x_2}\).
+Suppose Alex consumes two goods $(x_1, x_2)$ and has endowment bundle $(60, 40)$. Market prices are $(p_1, p_2) = (2, 2)$, and Alex's utility from the two goods is given by $u(x_1, x_2) = \sqrt{x_1 x_2}$.
 
 ##### (a)
-Solve for Alex's optimal bundle \((x_1^*, x_2^*)\). At these market prices \((p_1, p_2) = (2, 2)\), is Alex a net buyer or net seller of good 1? Please explain briefly.
+Solve for Alex's optimal bundle $(x_1^*, x_2^*)$. At these market prices $(p_1, p_2) = (2, 2)$, is Alex a net buyer or net seller of good 1? Please explain briefly.
 
 ##### (b)
-Now suppose the price of good 1 decreases to \(p_1' = 1\). Solve for the substitution effect, the ordinary income effect, and the endowment income effect on Alex's demand for good 1.
+Now suppose the price of good 1 decreases to $p_1' = 1$. Solve for the substitution effect, the ordinary income effect, and the endowment income effect on Alex's demand for good 1.
 
 ##### (c)
 In a single graph, draw Alex's endowment bundle, budget lines, choices (before and after change). Please label all axes, bundles, slopes, etc.
@@ -133,31 +133,31 @@ In a single graph, draw Alex's endowment bundle, budget lines, choices (before a
 ---
 
 #### Q2
-Suppose Bukayo's utility from consumption in periods 1 and 2 is given by \(u(c_1, c_2) = c_1 c_2\) and his endowment of income in the two periods is \((m_1, m_2) = (200, 50)\). There is a positive interest rate \(r > 0\) at which consumers can borrow/save, and there is no inflation. Assume Bukayo maximizes his utility subject to his budget.
+Suppose Bukayo's utility from consumption in periods 1 and 2 is given by $u(c_1, c_2) = c_1 c_2$ and his endowment of income in the two periods is $(m_1, m_2) = (200, 50)$. There is a positive interest rate $r > 0$ at which consumers can borrow/save, and there is no inflation. Assume Bukayo maximizes his utility subject to his budget.
 
 ##### (a)
 Write Bukayo's intertemporal budget constraint in present value form.
 
 ##### (b)
-Solve for Bukayo's optimal consumption bundle as a function of the interest rate \(r\).
+Solve for Bukayo's optimal consumption bundle as a function of the interest rate $r$.
 
 ##### (c)
-Suppose the interest rate is \(r = 0.1\). Find Bukayo's optimal bundle, and then draw a graph of his budget constraint, endowment bundle, and optimal bundle.
+Suppose the interest rate is $r = 0.1$. Find Bukayo's optimal bundle, and then draw a graph of his budget constraint, endowment bundle, and optimal bundle.
 
 ---
 
 #### Q3
-An agent has a CRRA utility function \(u(c) = \frac{c^{1-\theta}}{1-\theta}\). An agent has poor health, and there are two possible states \(s\) she could be in: (1) \(s = H\) for healthy and (2) \(s = S\) for sick, each with probability \(1/2\). Suppose that consumption when healthy is \(c = 2\), and consumption when sick is \(c = 1\). Recall from lecture that expected utility would be:
-\[
+An agent has a CRRA utility function $u(c) = \frac{c^{1-\theta}}{1-\theta}$. An agent has poor health, and there are two possible states $s$ she could be in: (1) $s = H$ for healthy and (2) $s = S$ for sick, each with probability $1/2$. Suppose that consumption when healthy is $c = 2$, and consumption when sick is $c = 1$. Recall from lecture that expected utility would be:
+$$
 E[u(c)] = \sum_{s \in \{H, S\}} \pi(s) u(c_s)
-\]
-Here, \(\pi(s) = 1/2\) for \(s = H, S\). The agent can pay for insurance which will lead consumption \(c\) to be \(2-p\) in both states, eliminating all risk. We can think \(p\) as the cost of insurance.
+$$
+Here, $\pi(s) = 1/2$ for $s = H, S$. The agent can pay for insurance which will lead consumption $c$ to be $2-p$ in both states, eliminating all risk. We can think $p$ as the cost of insurance.
 
 ##### (a)
 What is the expected utility of the agent without insurance and with insurance?
 
 ##### (b)
-Solve for the highest amount the agent would be willing to pay for insurance \(p^*\).
+Solve for the highest amount the agent would be willing to pay for insurance $p^*$.
 
 -----
 
