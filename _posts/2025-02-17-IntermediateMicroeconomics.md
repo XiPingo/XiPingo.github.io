@@ -109,7 +109,7 @@ Suppose the market prices are $p_1 = 3$ and $p_2 = 4$, and that Erling's income 
 Write Erling's utility maximization problem.
 
 ##### (b)
-Start by solving for an interior solution, and find Erling's optimal bundle $(x_1^*, x_2^*)$. Note that your solution here may be a function of income $m$.
+Start by solving for an interior solution, and find Erling's optimal bundle $(x_1^*, x_2^*)$ . Note that your solution here may be a function of income $m$.
 
 ##### (c)
 Given your results from part (b), for what values of income $m$ will Erling choose to consume $x_2^* = 0$?
@@ -119,7 +119,7 @@ Given your results from part (b), for what values of income $m$ will Erling choo
 ### Midterm Exam
 
 #### Q1
-Suppose Alex consumes two goods $(x_1, x_2)$ and has endowment bundle $(60, 40)$. Market prices are $(p_1, p_2) = (2, 2)$, and Alex's utility from the two goods is given by $u(x_1, x_2) = \sqrt{x_1 x_2}$.
+Suppose Alex consumes two goods $(x_1, x_2)$ and has endowment bundle $(60, 40)$ . Market prices are $(p_1, p_2) = (2, 2)$, and Alex's utility from the two goods is given by $u(x_1, x_2) = \sqrt{x_1 x_2}$.
 
 ##### (a)
 Solve for Alex's optimal bundle $(x_1^*, x_2^*)$. At these market prices $(p_1, p_2) = (2, 2)$, is Alex a net buyer or net seller of good 1? Please explain briefly.
