@@ -216,7 +216,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     </tr>
     <tr>
       <td>Digital Economics</td>
-      <td><a href="https://xipingo.github.io/resource/DigitalEconomics">No Link</a></td>
+      <td><a href="https://xipingo.github.io/2025/02/20/DigitalEconomics">Released</a></td>
     </tr>
     <tr>
       <td>Database Technology and Its Application</td>
