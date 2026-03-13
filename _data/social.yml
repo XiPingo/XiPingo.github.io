@@ -1,9 +1,6 @@
 - title: Email
   url: mailto:xiangxi@smail.nju.edu.cn
   icon: fas fa-envelope
-- title: WeChat
-  url: WeChat ID: meXipingo
-  icon: fab fa-weixin
 - title: GitHub
   url: https://github.com/XiPingo
   icon: fab fa-github
