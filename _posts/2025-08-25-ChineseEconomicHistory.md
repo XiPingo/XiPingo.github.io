@@ -7,7 +7,7 @@ tags: Economics
 toc:  true
 math: true
 ---
-Welcome to the homepage of **MChinese Economic History** !   
+Welcome to the homepage of **Chinese Economic History** !   
 Tips: “China’s economic history was a cycle of prosperity, rebellion, and restoration.”   
 ——Albert Feuerwerker
 {: .message }
@@ -76,10 +76,10 @@ The teaching content of this course is as follows:
 
 ## Textbook of Chinese Economic History
 
+[Textbook](https://book.douban.com/subject/30452351/).
+
  All rights reserved by 高等教育出版社.
  
-
-Reprinted only, no rights reserved.
 
 -----
 
