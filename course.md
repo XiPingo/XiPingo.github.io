@@ -120,7 +120,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     <tr>
       <td class="semester-column">2-2</td>
       <td>Mathematical Economics</td>
-      <td><a href="https://xipingo.github.io/resource/MathematicalEconomics">No Link</a></td>
+      <td><a href="https://xipingo.github.io/2025/02/19/MathematicalEconomics">Released</a></td>
     </tr>
   <tr>
       <td class="semester-column">3-1</td>
