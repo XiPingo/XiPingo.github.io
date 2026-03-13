@@ -50,7 +50,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     <tr>
       <td class="semester-column">2-2</td>
       <td>Statistics</td>
-      <td><a href="https://xipingo.github.io/resource/Statistics">No Link</a></td>
+      <td><a href="https://xipingo.github.io/2025/02/18/Statistics">Released</a></td>
     </tr>
     <tr>
       <td class="semester-column">3-2</td>
@@ -212,7 +212,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
   <tbody>
     <tr>
       <td>Big Data Economics</td>
-      <td><a href="https://xipingo.github.io/resource/BigDataEconomics">Prof.</a> & <a href="https://xipingo.github.io/2024/09/06/BigDataEconomics">Released</a></td>
+      <td> Prof. & <a href="https://xipingo.github.io/2024/09/06/BigDataEconomics">Released</a></td>
     </tr>
     <tr>
       <td>Digital Economics</td>
