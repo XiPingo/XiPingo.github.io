@@ -125,7 +125,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
   <tr>
       <td class="semester-column">3-1</td>
       <td>Chinese Economic History</td>
-      <td><a href="https://xipingo.github.io/resource/ChineseEconomicHistory">No Link</a></td>
+      <td><a href="https://xipingo.github.io/2025/08/25/ChineseEconomicHistory">Released</a></td>
     </tr>
   <tr>
       <td class="semester-column">3-1</td>
