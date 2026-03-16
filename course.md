@@ -135,7 +135,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
   <tr>
       <td class="semester-column">3-1</td>
       <td>Industrial Economics</td>
-      <td><a href="https://xipingo.github.io/resource/IndustrialEconomics">No Link</a></td>
+      <td>No Link</td>
     </tr>
     <tr>
       <td class="semester-column">3-2</td>
@@ -172,7 +172,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     </tr>
     <tr>
       <td>Financial Management</td>
-      <td><a href="https://xipingo.github.io/resource/FinancialManagement">No Link</a></td>
+      <td><a href="https://xipingo.github.io/2025/08/26/FinancialManagement">Released</a></td>
     </tr>
     <tr>
       <td><em>Financial Mathematics</em></td>
