@@ -16,7 +16,6 @@ Tips: We are not perfectly rational, we are human.
 
 <mark>Course number: 09010580 Credit: 3</mark>   
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -201,7 +200,7 @@ Tips: We are not perfectly rational, we are human.
 ## Notes and Homework of Behavioral Economics
 
  [HW1](https://xipingo.github.io/resource/BehavioralEconomics/Problem Set 1 BE 2025.pdf).
- [HW1 sol](https://xipingo.github.io/resource/BehavioralEconomics/Behavioral Economics HW1.pdf).
+ [HW1 sol](https://xipingo.github.io/resource/BehavioralEconomics/Behavioral Economics HW1.pdf).   
  [HW2](https://xipingo.github.io/resource/BehavioralEconomics/Problem Set 2 BE 2025.pdf).
  [HW2 sol](https://xipingo.github.io/resource/BehavioralEconomics/Behavioral Economics HW2.pdf).
 
