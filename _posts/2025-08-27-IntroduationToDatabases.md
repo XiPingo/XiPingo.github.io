@@ -3,7 +3,7 @@ layout: post
 title: Introduction to Databases
 date: 2025-08-27 14:00 +0800
 last_modified_at: 2025-12-26 12:00 +0800
-tags: computer
+tags: Computer
 toc:  true
 math: true
 ---
