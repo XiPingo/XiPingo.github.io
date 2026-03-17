@@ -3,7 +3,8 @@ layout: page
 title: Course
 ---
 On this page, I will put some links to the homepage of the course, containing my understanding of the course and my own notes, I hope it will be helpful.   
-The course red and black list is [here](https://table.nju.edu.cn/external-apps/7aded834-74a2-43cc-b515-fb8e01656ef2/?page_id=zI1D).
+The course red and black list is [here](https://table.nju.edu.cn/external-apps/7aded834-74a2-43cc-b515-fb8e01656ef2/?page_id=zI1D).   
+Some useful resourse about CS you can find at [here](https://github.com/NijikaIjichi/njucs-past-exam).
 {: .message }   
 
 <style>
@@ -297,7 +298,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     <tr>
       <td class="semester-column">3-1</td>
       <td>Elements of Cryptography</td>
-      <td><a href="https://xipingo.github.io/resource/ElementsOfCryptography">No Link</a></td>
+      <td><a href="https://xipingo.github.io/2025/08/28/ElementsOfCryptography">Released</a></td>
     </tr>
     <tr>
       <td class="semester-column">3-1</td>
