@@ -161,7 +161,7 @@ Some useful resourse about CS you can find at [here](https://github.com/NijikaIj
     </tr>
     <tr>
       <td>Public Finance</td>
-      <td>No Link</td>
+      <td><a herf="https://xipingo.github.io/2024/09/04/PublicFinance">Released</a></td>
     </tr>
     <tr>
       <td>International Trade</td>
