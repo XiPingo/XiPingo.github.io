@@ -200,7 +200,7 @@ The course red and black list is [here](https://table.nju.edu.cn/external-apps/7
     </tr>
     <tr>
       <td>Behavioral Economics</td>
-      <td><a href="https://xipingo.github.io/resource/BehavioralEconomics">No Link</a></td>
+      <td><a href="https://xipingo.github.io/2025/08/28/BehavioralEconomics">Released</a></td>
     </tr>
   </tbody>
 </table>
