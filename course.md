@@ -106,7 +106,7 @@ Some useful resourse about CS you can find at [here](https://github.com/NijikaIj
     <tr>
       <td class="semester-column">2-2</td>
       <td>Introduction to Capital</td>
-      <td>No Link</td>
+      <td><a href="https://xipingo.github.io/2025/02/21/IntroductionToCapital">Released</a></td>
     </tr>
     <tr>
       <td class="semester-column">2-2</td>
