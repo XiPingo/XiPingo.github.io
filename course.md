@@ -225,7 +225,7 @@ Some useful resourse about CS you can find at [here](https://github.com/NijikaIj
     </tr>
     <tr>
       <td>AI for Complex Networks</td>
-      <td><a href="https://xipingo.github.io/resource/AIForComplexNetworks">No Link</a></td>
+      <td><a href="https://xipingo.github.io/2025/11/17/AIForComplexNetworks">Released</a></td>
     </tr>
     <tr>
       <td><em>Text Mining and Large Language Models</em></td>
