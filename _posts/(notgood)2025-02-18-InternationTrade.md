@@ -16,68 +16,98 @@ Tips: 凌波能信步，苦海岂无边。
 The teaching content of this course is as follows:   
 
 <table border="1" width="100%">
-<tr>
-<th>Section</th>
-<th>Content</th>
-</tr>
-<tr>
-<td>1. Review of Basic Elementary Mathematics</td>
-<td>
-<ul>
-<li>Fundamental concepts of set theory</li>
-<li>Mappings and functions</li>
-<li>Basic elementary functions</li>
-<li>Composite functions and elementary functions</li>
-<li>Complex numbers and polar coordinates</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>2. Limits and Continuity</td>
-<td>
-<ul>
-<li>Sequences and limits of functions</li>
-<li>Continuity and discontinuities of functions</li>
-<li>Properties of continuous functions on closed intervals</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>3. Differential Calculus</td>
-<td>
-<ul>
-<li>Definition of derivatives and arithmetic operation rules</li>
-<li>Derivative rules for inverse functions, composite functions, and basic derivative formulas</li>
-<li>Logarithmic differentiation, implicit function differentiation, and derivative rules for parametric equations</li>
-<li>Definition and properties of differentials</li>
-<li>Mean value theorems (L'Hôpital's rule, Lagrange's mean value theorem, Cauchy's mean value theorem)</li>
-<li>Taylor's formula</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>4. Integral Calculus</td>
-<td>
-<ul>
-<li>Primitive functions, definitions, and properties of indefinite integrals</li>
-<li>First and second substitution methods, integration by parts, and basic integration formulas for indefinite integrals</li>
-<li>Definitions and properties of definite integrals, Newton-Leibniz formula</li>
-<li>Substitution and integration by parts for definite integrals</li>
-<li>Method of evaluating definite integrals using infinitesimals</li>
-<li>Geometric applications of definite integrals (area of plane figures, volume via cross-sectional areas, curve arc length, volumes/surface areas of rotating surfaces, curve curvature, etc.)</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>5. Analytic Geometry and Vector Algebra</td>
-<td>
-<ul>
-<li>Cartesian coordinate system</li>
-<li>Basic knowledge of vectors</li>
-<li>Vector algebra (operations, properties, etc.)</li>
-</ul>
-</td>
-</tr>
+  <tr>
+    <th>Week</th>
+    <th>Content</th>
+  </tr>
+  <tr>
+    <td>1-2: Core Concepts of International Trade</td>
+    <td>
+      <ul>
+        <li>Key concepts in international trade research</li>
+        <li>Differences between international and domestic trade</li>
+        <li>New developments in international trade</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>3: International Division of Labour & Trade Benefits</td>
+    <td>
+      <ul>
+        <li>New characteristics of international division of labour</li>
+        <li>Benefits of international trade</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>4-7: International Trade Theories</td>
+    <td>
+      <ul>
+        <li>Classical international trade theories</li>
+        <li>Modern international trade theories</li>
+        <li>New trade theories: intra-industry, intra-firm, intra-product trade theories</li>
+        <li>New-new trade theory, national competitive advantage theory, digital trade theory</li>
+        <li>In-class test</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>8: World Market & Terms of Trade</td>
+    <td>
+      <ul>
+        <li>Concepts of world market and terms of trade</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>9-10: Theories of Terms of Trade Determination</td>
+    <td>
+      <ul>
+        <li>Terms of trade determination theory (offer curves)</li>
+        <li>New developments in terms of trade theory</li>
+        <li>Unequal exchange theory</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>11-12: International Trade Policy Theories</td>
+    <td>
+      <ul>
+        <li>Overview of international trade policies</li>
+        <li>Infant industry protection theory</li>
+        <li>Political economy of international trade policies</li>
+        <li>Trade policies of contemporary developed countries</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>13-14: Trade Policy Instruments & Economic Effects</td>
+    <td>
+      <ul>
+        <li>Tariff policies and their economic effects</li>
+        <li>Non-tariff policies and their economic effects</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>15: WTO, FDI & Regional Economic Integration</td>
+    <td>
+      <ul>
+        <li>Core principles of WTO</li>
+        <li>Key theories of international direct investment (FDI)</li>
+        <li>Regional economic integration</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>16: Trade Development Strategies & Final Analysis</td>
+    <td>
+      <ul>
+        <li>Trade development strategies</li>
+        <li>Final term analysis and discussion</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 -----

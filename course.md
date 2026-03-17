@@ -193,7 +193,7 @@ Some useful resourse about CS you can find at [here](https://github.com/NijikaIj
     </tr>
     <tr>
       <td>New Institution Economics</td>
-      <td>No Link</td>
+      <td><a herf="https://xipingo.github.io/2025/02/17/NewInstitutionEconomics">Released</a></td>
     </tr>
     <tr>
       <td>Development Economics</td>

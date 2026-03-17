@@ -16,68 +16,104 @@ Tips: 凌波能信步，苦海岂无边。
 The teaching content of this course is as follows:   
 
 <table border="1" width="100%">
-<tr>
-<th>Section</th>
-<th>Content</th>
-</tr>
-<tr>
-<td>1. Review of Basic Elementary Mathematics</td>
-<td>
-<ul>
-<li>Fundamental concepts of set theory</li>
-<li>Mappings and functions</li>
-<li>Basic elementary functions</li>
-<li>Composite functions and elementary functions</li>
-<li>Complex numbers and polar coordinates</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>2. Limits and Continuity</td>
-<td>
-<ul>
-<li>Sequences and limits of functions</li>
-<li>Continuity and discontinuities of functions</li>
-<li>Properties of continuous functions on closed intervals</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>3. Differential Calculus</td>
-<td>
-<ul>
-<li>Definition of derivatives and arithmetic operation rules</li>
-<li>Derivative rules for inverse functions, composite functions, and basic derivative formulas</li>
-<li>Logarithmic differentiation, implicit function differentiation, and derivative rules for parametric equations</li>
-<li>Definition and properties of differentials</li>
-<li>Mean value theorems (L'Hôpital's rule, Lagrange's mean value theorem, Cauchy's mean value theorem)</li>
-<li>Taylor's formula</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>4. Integral Calculus</td>
-<td>
-<ul>
-<li>Primitive functions, definitions, and properties of indefinite integrals</li>
-<li>First and second substitution methods, integration by parts, and basic integration formulas for indefinite integrals</li>
-<li>Definitions and properties of definite integrals, Newton-Leibniz formula</li>
-<li>Substitution and integration by parts for definite integrals</li>
-<li>Method of evaluating definite integrals using infinitesimals</li>
-<li>Geometric applications of definite integrals (area of plane figures, volume via cross-sectional areas, curve arc length, volumes/surface areas of rotating surfaces, curve curvature, etc.)</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td>5. Analytic Geometry and Vector Algebra</td>
-<td>
-<ul>
-<li>Cartesian coordinate system</li>
-<li>Basic knowledge of vectors</li>
-<li>Vector algebra (operations, properties, etc.)</li>
-</ul>
-</td>
-</tr>
+  <tr>
+    <th>Week</th>
+    <th>Content</th>
+  </tr>
+  <tr>
+    <td>1: Introduction</td>
+    <td>
+      <ul>
+        <li>General introduction to the course</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>3-4: "Das Kapital" - Commodities and Money</td>
+    <td>
+      <ul>
+        <li>Overview of "Das Kapital"</li>
+        <li>Commodity theory: attributes and value of commodities</li>
+        <li>Monetary theory: origin and functions of money</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>5: Conversion of Money into Capital</td>
+    <td>
+      <ul>
+        <li>Difference between money and capital</li>
+        <li>Circulation of capital and surplus value origin</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>6: Production of Absolute Surplus Value</td>
+    <td>
+      <ul>
+        <li>Extension of working hours and absolute surplus value</li>
+        <li>Labour process and valorisation process</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>7-8: Production of Relative Surplus Value</td>
+    <td>
+      <ul>
+        <li>Reduction of necessary labour time and relative surplus value</li>
+        <li>Technological progress and relative surplus value production</li>
+        <li>Forms of relative surplus value (cooperation, manufacture, large-scale industry)</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>9: Production of Absolute and Relative Surplus Value</td>
+    <td>
+      <ul>
+        <li>Relationship between absolute and relative surplus value</li>
+        <li>Unified analysis of surplus value production methods</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>13: Wages</td>
+    <td>
+      <ul>
+        <li>Essence of wages: phenomenal form of labour power value</li>
+        <li>Forms of wages (time wage, piece wage)</li>
+        <li>Wage differences and their causes</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>14: Process of Capital Accumulation</td>
+    <td>
+      <ul>
+        <li>Simple reproduction and expanded reproduction of capital</li>
+        <li>Conditions and sources of capital accumulation</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>15: General Law of Capitalist Accumulation</td>
+    <td>
+      <ul>
+        <li>Concentration and centralisation of capital</li>
+        <li>Formation of industrial reserve army</li>
+        <li>Polarisation between wealth and poverty under capitalism</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>16: Primitive Accumulation</td>
+    <td>
+      <ul>
+        <li>Origin of primitive accumulation of capital</li>
+        <li>Enclosure movement and separation of labourers from means of production</li>
+        <li>Historical process of capitalist primitive accumulation</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 -----
