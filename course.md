@@ -165,7 +165,7 @@ Some useful resourse about CS you can find at [here](https://github.com/NijikaIj
     </tr>
     <tr>
       <td>International Trade</td>
-      <td>No Link</td>
+      <td><a herf="https://xipingo.github.io/2025/02/18/InternationTrade">Released</a></td>
     </tr>
     <tr>
       <td>Monetary Finance and Banking</td>

@@ -8,7 +8,8 @@ toc:  true
 math: true
 ---
 Welcome to the homepage of **Management** !   
-Tips: 为将者不通天文，不懂地理，不晓阴阳，不知奇门遁甲及阵图兵势，乃庸才也！
+Tips: You can take my clothes, my toys, but you can’t take my code.   
+Iron Man
 {: .message }
 
 # Course Introduction

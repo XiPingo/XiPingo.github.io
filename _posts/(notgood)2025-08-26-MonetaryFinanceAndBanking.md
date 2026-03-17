@@ -8,7 +8,8 @@ toc:  true
 math: true
 ---
 Welcome to the homepage of **Management** !   
-Tips: 为将者不通天文，不懂地理，不晓阴阳，不知奇门遁甲及阵图兵势，乃庸才也！
+Tips: Money is not wealth; it is the measure and instrument of commerce.   
+——Jacob van der Linde
 {: .message }
 
 # Course Introduction

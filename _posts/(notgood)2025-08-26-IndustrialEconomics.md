@@ -8,7 +8,8 @@ toc:  true
 math: true
 ---
 Welcome to the homepage of **Management** !   
-Tips: 为将者不通天文，不懂地理，不晓阴阳，不知奇门遁甲及阵图兵势，乃庸才也！
+Tips: Concentration changes everything.    
+Too Big to Fail
 {: .message }
 
 # Course Introduction

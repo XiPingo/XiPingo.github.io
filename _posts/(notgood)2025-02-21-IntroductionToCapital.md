@@ -8,7 +8,8 @@ toc:  true
 math: true
 ---
 Welcome to the homepage of **Introduction to Capital** !   
-Tips: 凌波能信步，苦海岂无边。
+Tips: 在一极是财富的积累，同时在另一极是贫困、劳动折磨、奴役、无知、粗野和精神堕落的积累。   
+《资本论》第一卷
 {: .message }
 
 # Course Introduction
