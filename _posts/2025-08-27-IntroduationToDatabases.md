@@ -283,7 +283,7 @@ All rights reserved by 高等教育出版社.
 
 -----
 
-## Tips of Management
+## Tips of Introduction to Databases
 
 The course content is extensive, and the final exam preparation is highly stressful, but the teachers are very friendly.
 
