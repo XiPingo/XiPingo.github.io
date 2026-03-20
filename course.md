@@ -136,7 +136,7 @@ Some useful resourse about CS you can find at [here](https://github.com/NijikaIj
   <tr>
       <td class="semester-column">3-1</td>
       <td>Industrial Economics</td>
-      <td>No Link</td>
+      <td><a herf="https://xipingo.github.io/2025/08/26/IndustrialEconomics">Released</a></td>
     </tr>
     <tr>
       <td class="semester-column">3-2</td>
