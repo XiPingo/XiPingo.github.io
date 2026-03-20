@@ -303,7 +303,7 @@ Some useful resourse about CS you can find at [here](https://github.com/NijikaIj
     <tr>
       <td class="semester-column">3-1</td>
       <td>Software Engineering</td>
-      <td><a href="https://xipingo.github.io/resource/SoftwareEngineering">No Link</a></td>
+      <td><a href="https://xipingo.github.io/2025/08/29/SoftwareEngineering">Released</a></td>
     </tr>
     <tr>
       <td class="semester-column">3-2</td>

@@ -134,6 +134,6 @@ The teaching content of this course is as follows:
 
 ## Tips of Monetary Finance and Banking
 
-Maybe this will be your first paper. 
+The course content is poorly designed, with exam questions, courseware materials, and classroom instruction appearing as three unrelated elements. The exam difficulty level far exceeds that of the other two components, making it prone to failure.
 
 -----
