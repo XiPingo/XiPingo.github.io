@@ -1,20 +1,20 @@
 ---
 layout: post
-title: Management
-date: 2023-09-11 14:00 +0800
-last_modified_at: 2023-12-26 17:00 +0800
+title: Monetary Finance and Banking
+date: 2025-08-26 10:10 +0800
+last_modified_at: 2025-12-23 12:00 +0800
 tags: Finance
 toc:  true
 math: true
 ---
-Welcome to the homepage of **Management** !   
+Welcome to the homepage of **Monetary Finance and Banking** !   
 Tips: Money is not wealth; it is the measure and instrument of commerce.   
 ——Jacob van der Linde
 {: .message }
 
 # Course Introduction
 
-<mark>Course number: 09000510 Credit: 3</mark>   
+<mark>Course number: 09010640 Credit: 2</mark>   
 
 The teaching content of this course is as follows:   
 
@@ -107,30 +107,32 @@ The teaching content of this course is as follows:
 
 # Course Resourse
 
-## Textbook of Management
+## Textbook of Monetary Finance and Banking
 
- [Textbook](https://zhuanlan.zhihu.com/p/23875436850).
+ [Textbook](http://www.njupco.com/ubook/index.php?action=detail&bid=9508).
  
 
-Reprinted only, no rights reserved.
+ All rights reserved by 南京大学出版社.
 
 -----
 
-## Courseware of Management
+## Courseware of Monetary Finance and Banking
 
- Email me if you need.   
+- [01_1-2 前言](https://xipingo.github.io/resource/MonetaryFinanceAndBanking/1-2.%E5%89%8D%E8%A8%80(w1-w2).pdf)
+- [03_3-5 利率及其决定](https://xipingo.github.io/resource/MonetaryFinanceAndBanking/3-5.%E5%88%A9%E7%8E%87%E5%8F%8A%E5%85%B6%E5%86%B3%E5%AE%9A%E5%86%B3.pdf)
+- [06 货币市场、债券市场与利率市场化](https://xipingo.github.io/resource/MonetaryFinanceAndBanking/6.%E8%B4%A7%E5%B8%82%E5%B8%82%E5%9%BA%BA%E3%80%81%E5%80%BA%E5%88%B8%E5%B8%82%E5%9%BA%BA%E4%B8%8E%E5%88%A9%E7%8E%87%E5%B8%82%E5%9C%BA%E5%8F%98%E5%8C%96.pdf)
+- [07 股票市场及其在中国的发展](https://xipingo.github.io/resource/MonetaryFinanceAndBanking/7.%E8%82%A1%E7%A5%A8%E5%B8%82%E5%9C%BA%E5%8F%8A%E5%85%B6%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%8F%91%E5%B1%95.pdf)
+- [08 衍生金融市场及其在中国的发展](https://xipingo.github.io/resource/MonetaryFinanceAndBanking/8.%E8%A1%8D%E7%94%9F%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA%E5%8F%8A%E5%85%B6%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%8F%91%E5%B1%95.pdf)
+- [09 金融机构基础](https://xipingo.github.io/resource/MonetaryFinanceAndBanking/9.%E9%87%91%E8%9E%8D%E6%9C%BA%E6%9E%84%E5%9F%BA%E7%A1%80.pdf)
+- [10 商业银行及其在中国的发展](https://xipingo.github.io/resource/MonetaryFinanceAndBanking/10.%E5%95%86%E4%B8%9A%E9%93%B6%E8%A1%8C%E5%8F%8A%E5%85%B6%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%8F%91%E5%B1%95.pdf)
+- [11 非银行金融机构](https://xipingo.github.io/resource/MonetaryFinanceAndBanking/11.%E9%9D%9E%E9%93%B6%E8%A1%8C%E9%87%91%E8%9E%8D%E6%9C%BA%E6%9E%84.pdf)
+- [12 中央银行与货币供给形成](https://xipingo.github.io/resource/MonetaryFinanceAndBanking/12.%E4%B%AD%E5%A4%AE%E9%93%B6%E8%A1%8C%E4%B8%8E%E8%B4%A7%E5%B8%82%E4%BE%9B%E7%BB%99%E5%BD%A2%E6%88%90.pdf)
 
- All rights reserved by Professer [Jia Liangding](https://nubs.nju.edu.cn/jld/list.htm).
+ All rights reserved by Professer [Wang Yuwei](https://nubs.nju.edu.cn/wyw/list.htm).
 
 -----
 
-## Notes of Management
-
- [Notes](https://xipingo.github.io/resource/Management/管理学重点.docx).
-
------
-
-## Tips of Management
+## Tips of Monetary Finance and Banking
 
 Maybe this will be your first paper. 
 

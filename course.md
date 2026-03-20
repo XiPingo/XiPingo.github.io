@@ -169,7 +169,7 @@ Some useful resourse about CS you can find at [here](https://github.com/NijikaIj
     </tr>
     <tr>
       <td>Monetary Finance and Banking</td>
-      <td>No Link</td>
+      <td><a href="https://xipingo.github.io/2025/08/26/MonetaryFinanceAndBanking">Released</a></td>
     </tr>
     <tr>
       <td>Financial Management</td>
