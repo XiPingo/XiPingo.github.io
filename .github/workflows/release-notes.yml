@@ -10,29 +10,29 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout Code
-      uses: actions/checkout@v4  # 升级到最新版本
+      - name: Checkout Code
+        uses: actions/checkout@v4 # Use latest v4 action
 
-    - name: Set up Ruby
-      uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: '3.1'  # Jekyll 3.9+ 需要 Ruby 2.4+
-        bundler-cache: true  # 自动处理依赖缓存
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.1" # Jekyll 3.9+ requires Ruby 2.4+
+          bundler-cache: true # Enable Bundler dependency cache
 
-    - name: Fix Dubious Ownership
-      run: git config --global --add safe.directory /github/workspace
+      - name: Fix Dubious Ownership
+        run: git config --global --add safe.directory /github/workspace
 
-    - name: Install Missing Dependencies
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y build-essential patch zlib1g-dev liblzma-dev
+      - name: Install Missing Dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y build-essential patch zlib1g-dev liblzma-dev
 
-    - name: Bundle Install
-      run: |
-        bundle config path vendor/bundle  # 指定本地安装路径
-        bundle install --jobs 4 --retry 3
+      - name: Bundle Install
+        run: |
+          bundle config path vendor/bundle # Install gems in workspace cache path
+          bundle install --jobs 4 --retry 3
 
-    - name: Build Site
-      run: bundle exec jekyll build --trace  # 添加调试参数
-      env:
-        JEKYLL_ENV: production
+      - name: Build Site
+        run: bundle exec jekyll build --trace # Keep trace output for easier debugging
+        env:
+          JEKYLL_ENV: production

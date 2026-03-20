@@ -1,0 +1,30 @@
+name: Link Check
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Run link checker
+        uses: lycheeverse/lychee-action@v2
+        with:
+          fail: true
+          args: >-
+            --verbose
+            --no-progress
+            --accept 200,206,429
+            --exclude-mail
+            --exclude 'http://127.0.0.1'
+            --exclude 'http://localhost'
+            --exclude 'http://114.212.10.193:8080/course/ics25s/'
+            './**/*.md'
+            './**/*.html'

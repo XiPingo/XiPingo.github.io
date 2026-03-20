@@ -1,0 +1,325 @@
+- title: Mathematics
+  show_semester: true
+  rows:
+    - semester: "1-1"
+      course: "Calculus Ⅰ (Tier 1)"
+      links:
+        - label: Released
+          url: /2023/09/13/Calculus%E2%85%A0/
+          internal: true
+    - semester: "1-1"
+      course: "Linear Algebra (Tier 1)"
+      links:
+        - label: Released
+          url: /2023/09/12/LinearAlgebra/
+          internal: true
+    - semester: "1-2"
+      course: "Calculus Ⅱ (Tier 1)"
+      links:
+        - label: Released
+          url: /2024/02/27/Calculus%E2%85%A1/
+          internal: true
+    - semester: "1-2"
+      course: Discrete Mathematics
+      links:
+        - label: Released
+          url: /2024/02/26/DiscreteMathematics
+          internal: true
+    - semester: "2-1"
+      course: Probability Theory and Mathematical Statistics
+      links:
+        - label: Released
+          url: /2024/09/03/ProbabilityTheoryAndMathematicalStatistics/
+          internal: true
+    - semester: "2-2"
+      course: Statistics
+      links:
+        - label: Released
+          url: /2025/02/18/Statistics
+          internal: true
+    - semester: "3-2"
+      course: Real Variable Functions and Functional Analysis
+      course_emphasis: true
+      links:
+        - label: No Link
+          url: /resource/RealVariableFunctionsAndFunctionalAnalysis
+          internal: true
+
+- title: Economics
+  show_semester: true
+  rows:
+    - semester: "1-1"
+      course: "Political Economy Ⅰ"
+      links:
+        - label: Released
+          url: /2023/09/13/PoliticalEconomy%E2%85%A0/
+          internal: true
+    - semester: "1-1"
+      course: Microeconomics
+      links:
+        - label: Released
+          url: /2023/09/12/Microeconomics/
+          internal: true
+    - semester: "1-2"
+      course: Macroeconomics
+      links:
+        - label: Released
+          url: /2024/03/01/Macroeconomics
+          internal: true
+    - semester: "2-1"
+      course: "Political Economy Ⅱ"
+      links:
+        - label: Released
+          url: /2024/09/05/PoliticalEconomyⅡ
+          internal: true
+    - semester: "2-1"
+      course: Game Theory
+      links:
+        - label: Released
+          url: /2024/09/03/GameTheory/
+          internal: true
+    - semester: "2-1"
+      course: Intermediate Macroeconomics
+      links:
+        - label: Released
+          url: /2024/09/05/IntermediateMacroeconomics
+          internal: true
+    - semester: "2-2"
+      course: Introduction to Capital
+      links:
+        - label: Released
+          url: /2025/02/21/IntroductionToCapital
+          internal: true
+    - semester: "2-2"
+      course: Intermediate Microeconomics
+      links:
+        - label: Released
+          url: /2025/02/17/IntermediateMicroeconomics
+          internal: true
+    - semester: "2-2"
+      course: Introduction to Econometrics
+      links:
+        - label: Prof.
+          url: https://byelenin.github.io/Metrics_2025/
+    - semester: "2-2"
+      course: Mathematical Economics
+      links:
+        - label: Released
+          url: /2025/02/19/MathematicalEconomics
+          internal: true
+    - semester: "3-1"
+      course: Chinese Economic History
+      links:
+        - label: Released
+          url: /2025/08/25/ChineseEconomicHistory
+          internal: true
+    - semester: "3-1"
+      course: Intermediate Econometrics
+      links:
+        - label: Released
+          url: /2025/08/25/IntermediateEconometrics
+          internal: true
+    - semester: "3-1"
+      course: Industrial Economics
+      links:
+        - label: Released
+          url: /2025/08/26/IndustrialEconomics
+          internal: true
+    - semester: "3-2"
+      course: Intermediate Game Theory
+      course_emphasis: true
+      links:
+        - label: No Link
+          url: /resource/IntermediateGameTheory
+          internal: true
+
+- title: Financial Direction
+  show_semester: false
+  rows:
+    - course: Management
+      links:
+        - label: Released
+          url: /2023/09/11/Management/
+          internal: true
+    - course: Accounting
+      links:
+        - label: Released
+          url: /2024/02/27/Accounting
+          internal: true
+    - course: Public Finance
+      links:
+        - label: Released
+          url: /2024/09/04/PublicFinance
+          internal: true
+    - course: International Trade
+      links:
+        - label: Released
+          url: /2025/02/18/InternationalTrade
+          internal: true
+    - course: Monetary Finance and Banking
+      links:
+        - label: Released
+          url: /2025/08/26/MonetaryFinanceAndBanking
+          internal: true
+    - course: Financial Management
+      links:
+        - label: Released
+          url: /2025/08/26/FinancialManagement
+          internal: true
+    - course: Financial Mathematics
+      course_emphasis: true
+      links:
+        - label: No Link
+          url: /resource/FinancialMathematics
+          internal: true
+
+- title: Intersection Direction
+  show_semester: false
+  rows:
+    - course: Experimental Economics
+      links:
+        - label: Released
+          url: /2024/09/05/ExperimentalEconomics
+          internal: true
+    - course: New Institution Economics
+      links:
+        - label: Released
+          url: /2025/02/17/NewInstitutionEconomics
+          internal: true
+    - course: Development Economics
+      links:
+        - label: Released
+          url: /2024/09/04/DevelopmentEconomics/
+          internal: true
+    - course: Behavioral Economics
+      links:
+        - label: Released
+          url: /2025/08/28/BehavioralEconomics
+          internal: true
+
+- title: Digital and Big Data Direction
+  show_semester: false
+  rows:
+    - course: Big Data Economics
+      homepage_prefix: "Prof. & "
+      links:
+        - label: Released
+          url: /2024/09/06/BigDataEconomics
+          internal: true
+    - course: Digital Economics
+      links:
+        - label: Released
+          url: /2025/02/20/DigitalEconomics
+          internal: true
+    - course: Database Technology and Its Application
+      homepage_text: No Link
+    - course: AI for Complex Networks
+      links:
+        - label: Released
+          url: /2025/11/17/AIForComplexNetworks
+          internal: true
+    - course: Text Mining and Large Language Models
+      course_emphasis: true
+      links:
+        - label: No Link
+          url: /resource/TextMiningAndLargeLanguageModels
+          internal: true
+    - course: Economics of Platform Governance
+      course_emphasis: true
+      links:
+        - label: No Link
+          url: /resource/EconomicsOfPlatformGovernance
+          internal: true
+
+- title: Computer Science and Technology
+  show_semester: true
+  rows:
+    - semester: "1-2"
+      course: Python Programming
+      links:
+        - label: Released
+          url: /2024/02/26/PythonProgramming
+          internal: true
+    - semester: "1-2"
+      course: Basics of Programming
+      links:
+        - label: Released
+          url: /2024/02/27/BasicsOfProgramming
+          internal: true
+    - semester: "2-1"
+      course: Digital Logic and Computer Organization
+      links:
+        - label: Released
+          url: /2024/09/04/DigitalLogicAndComputerOrganization
+          internal: true
+    - semester: "2-1"
+      course: Data Structures
+      links:
+        - label: Released
+          url: /2024/09/02/DataStructures
+          internal: true
+    - semester: "2-2"
+      course: Algorithm Design & Analysis
+      links:
+        - label: Prof.
+          url: https://tcs.nju.edu.cn/shili/courses/2025spring-algo/
+    - semester: "2-2"
+      course: Introduction to Computer Systems
+      links:
+        - label: Prof.
+          url: http://114.212.10.193:8080/course/ics25s/
+    - semester: "3-1"
+      course: Introduction to Databases
+      links:
+        - label: Released
+          url: /2025/08/27/IntroductionToDatabases
+          internal: true
+    - semester: "3-1"
+      course: Computer Networks
+      links:
+        - label: Prof.
+          url: https://njunet25.github.io/
+    - semester: "3-1"
+      course: Introduction to Machine Learning
+      links:
+        - label: Prof.
+          url: https://www.lamda.nju.edu.cn/yehj/ml2025fall/ml2025.htm
+    - semester: "3-1"
+      course: Elements of Cryptography
+      links:
+        - label: Released
+          url: /2025/08/28/ElementsOfCryptography
+          internal: true
+    - semester: "3-1"
+      course: Software Engineering
+      links:
+        - label: Released
+          url: /2025/08/29/SoftwareEngineering
+          internal: true
+    - semester: "3-2"
+      course: Operating Systems
+      course_emphasis: true
+      links:
+        - label: Prof.
+          url: https://jyywiki.cn/OS/2026/
+    - semester: "3-2"
+      course: "Big Data Processing: Comprehensive Experiments"
+      course_emphasis: true
+      links:
+        - label: No Link
+          url: /resource/BigDataProcessing:ComprehensiveExperiments
+          internal: true
+    - semester: "3-2"
+      course: Introduction to Data Mining
+      course_emphasis: true
+      links:
+        - label: No Link
+          url: /resource/IntroductionToDataMining
+          internal: true
+    - semester: "3-2"
+      course: Advanced Programming
+      course_emphasis: true
+      links:
+        - label: No Link
+          url: /resource/AdvancedProgramming
+          internal: true

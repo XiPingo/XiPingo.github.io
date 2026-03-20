@@ -30,11 +30,11 @@ exclude:
   - scripts/
   - not-pure-poole.gemspec
 
-# 确保包含静态资源目录
+# Ensure static favicon assets are included
 include:
   - assets/images/favicons
 
-# Optimize Jekyl SEO Tag
+# Optimize Jekyll SEO Tag
 twitter:
   username: Xi Xiang
   card: summary
