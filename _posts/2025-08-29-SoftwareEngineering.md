@@ -176,17 +176,17 @@ The teaching content of this course is as follows:
 
 ## Courseware of Software Engineering
 
-[02_0_1 软件工程课程介绍和考核要求](https://xipingo.github.io/resource/SoftwareEngineering/02_0_1_%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E8%AF%BE%E7%A8%8B%E4%BB%8B%E5%92%8C%E8%80%83%E6%A0%A8%E8%A6%81%E6%B1%82.pdf).   
-[02_0_2 可信智能化软件工程_人工智能打开的空间和带来的挑战](https://xipingo.github.io/resource/SoftwareEngineering/02_0_2_%E5%8F%AF%E4%BF%A1%E6%99%BA%E8%83%BD%E5%8C%96%E8%BD%B6%E8%BD%AF%E7%A8%8B_%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%89%93%E5%BC%80%E7%9A%84%E7%A9%BA%E9%97%B4%E5%92%8C%E5%B8%A6%E6%9D%A5%E7%9A%84%E6%8C%91%E6%88%88.pdf).   
-[02_1_1 SE软件开发方法和过程](https://xipingo.github.io/resource/SoftwareEngineering/02_1_1_SE%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E6%96%B9%E6%B3%95%E5%92%8C%E8%BF%87%E7%A8%8B.pdf).   
-[02_1_2 软件过程及过程模型](https://xipingo.github.io/resource/SoftwareEngineering/02_1_2_%E8%BD%AF%E4%BB%B6%E8%BF%87%E7%A8%8B%E5%8F%8A%E8%BF%87%E7%A8%8B%E6%A8%A8%E5%9E%8B.pdf).   
-[02_2 需求_软件需求及需求工程](https://xipingo.github.io/resource/SoftwareEngineering/02_2_%E9%9C%80%E6%B1%82_%E8%BD%AF%E4%BB%B6%E9%9C%80%E6%B1%82%E5%8F%8A%E9%9C%80%E6%B1%82%E5%B7%A5%E7%A8%8B.pdf).   
-[02_3 UML模型图简介（先需求部分）](https://xipingo.github.io/resource/SoftwareEngineering/02_3_UML%E6%A8%A1%E5%9E%8B%E5%9B%BE%E7%AE%80%E4%BB%8B%EF%BC%88%E5%85%88%E9%9C%80%E6%B1%82%E9%83%A8%E5%88%97%EF%BC%89.pdf).   
-[02_4 需求_UML用例建模](https://xipingo.github.io/resource/SoftwareEngineering/02_4_%E9%9C%80%E6%B1%82_UML%E7%94%A8%E4%BE%8B%E5%BB%BA%E6%A8%A8.pdf).   
-[02_5 分析设计_结构化分析方法](https://xipingo.github.io/resource/SoftwareEngineering/02_5_%E5%88%86%E6%9E%90%E8%AE%BE%E8%AE%A1_%E7%BB%93%E6%9E%84%E5%8C%96%E5%88%86%E6%9E%90%E6%96%B9%E6%B3%95.pdf).   
-[02_6_1 分析设计_面向对象设计方法](https://xipingo.github.io/resource/SoftwareEngineering/02_6_1_%E5%88%86%E6%9E%90%E8%AE%BE%E8%AE%A1_%E9%9D%A2%E5%90%91%E8%B1%A1%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%B3%95.pdf).   
-[02_6_2 分析设计_面向对象分析方法](https://xipingo.github.io/resource/SoftwareEngineering/02_6_2_%E5%88%86%E6%9E%90%E8%AE%BE%E8%AE%A1_%E9%9D%A2%E5%90%91%E8%B1%A1%E5%88%86%E6%9E%90%E6%96%B9%E6%B3%95.pdf).   
-[02_7 软件架构_设计模式简介](https://xipingo.github.io/resource/SoftwareEngineering/02_7_%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84_%E8%AE%BE%E8%AE%A1%E6%A8%A8%E5%BC%8F%E7%AE%80%E4%BB%8B.pdf).     
+[02_0_1 软件工程课程介绍和考核要求](https://xipingo.github.io/resource/SoftwareEngineering/02_0_1_软件工程课程介绍和考核要求.pdf).   
+[02_0_2 可信智能化软件工程](https://xipingo.github.io/resource/SoftwareEngineering/02_0_2_可信智能化软件工程_人工智能打开的空间和带来的挑战.pdf).   
+[02_1_1 SE软件开发方法和过程](https://xipingo.github.io/resource/SoftwareEngineering/02_1_1_SE软件开发方法和过程.pdf).   
+[02_1_2 软件过程及过程模型](https://xipingo.github.io/resource/SoftwareEngineering/02_1_2_软件过程及过程模型.pdf).   
+[02_2 需求_软件需求及需求工程](https://xipingo.github.io/resource/SoftwareEngineering/02_2_需求_软件需求及需求工程.pdf).   
+[02_3 UML模型图简介（先需求部分）](https://xipingo.github.io/resource/SoftwareEngineering/02_3_UML模型图简介（先需求部分）.pdf).   
+[02_4 需求_UML用例建模](https://xipingo.github.io/resource/SoftwareEngineering/02_4_需求_UML用例建模.pdf).   
+[02_5 分析设计_结构化分析方法](https://xipingo.github.io/resource/SoftwareEngineering/02_5_分析设计_结构化分析方法.pdf).   
+[02_6_1 分析设计_面向对象设计方法](https://xipingo.github.io/resource/SoftwareEngineering/02_6_1_分析设计_面向对象设计方法.pdf).   
+[02_6_2 分析设计_面向对象分析方法](https://xipingo.github.io/resource/SoftwareEngineering/02_6_2_分析设计_面向对象分析方法.pdf).   
+[02_7 软件架构_设计模式简介](https://xipingo.github.io/resource/SoftwareEngineering/02_7_软件架构_设计模式简介.pdf).     
 
  All rights reserved by Professer [Wang Linzhang](https://cs.nju.edu.cn/58/03/c2639a153603/page.htm) [Li Xuandong](https://cs.nju.edu.cn/58/28/c2639a153640/page.htm) [Wang Yu](https://cs.nju.edu.cn/01/05/c56396a524549/page.htm) and [Zhang Tian](https://cs.nju.edu.cn/c9/43/c2639a51523/page.htm).
 
