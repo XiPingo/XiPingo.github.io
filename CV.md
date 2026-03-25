@@ -182,7 +182,7 @@ Digital Logic and Computer Organization, Introduction to Computer Systems, *Oper
   </tbody>
 </table>
 
-Rank: 6/20 (30%)   
+Rank: 7/20 (35%)   
 {: .message }   
 
 *Official academic transcripts available upon request via email.*
