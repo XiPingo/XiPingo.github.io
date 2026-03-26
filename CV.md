@@ -68,6 +68,11 @@ Digital Logic and Computer Organization, Introduction to Computer Systems, *Oper
 
 ### Computer Science
 
+- **NJUBSwatcher: NJUBS Website Change Monitor**  
+  *A Python-based monitoring and notification tool for NJUBS official website updates*  
+  ● Crawls six content modules from the NJUBS homepage, stores structured snapshots, and detects added/removed/renamed items via snapshot diffing  
+  ● Supports module-level email subscriptions, sends consolidated update reports to recipients, and auto-commits snapshot updates through GitHub Actions workflow integration | *Completed (Sep 2025)*
+
 - **Second-Hand Goods Trading Platform**   
   *A platform for second-hand goods publish, trade, comment, and manage*   
   ▪ Users can register, log in, log out, post, purchase, comment, and save second-hand items. Administrators can review and publish user and item information. | *Completed (Dec 2025)*
