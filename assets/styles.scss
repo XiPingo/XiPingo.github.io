@@ -73,8 +73,10 @@
 
 .hero-logo {
   width: 132px;
-  height: 132px;
+  height: auto;
+  max-height: 132px;
   opacity: 0.96;
+  object-fit: contain;
   mix-blend-mode: multiply;
   filter: saturate(1.15) contrast(1.08);
 }
@@ -288,7 +290,8 @@
 
   .hero-logo {
     width: 116px;
-    height: 116px;
+    height: auto;
+    max-height: 116px;
   }
 
   .hero-label {
