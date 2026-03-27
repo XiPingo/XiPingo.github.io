@@ -2,6 +2,7 @@
 layout: page
 title: CV
 toc:  true
+page_style: academic-doc
 ---
 
 Welcome to my CV. Good morning, good afternoon and good night! I hope you all well. 

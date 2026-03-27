@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Course
+page_style: academic-doc
 ---
 On this page, I will put some links to the homepage of the course, containing my understanding of the course and my own notes, I hope it will be helpful.
 The course red and black list is [here](https://table.nju.edu.cn/external-apps/7aded834-74a2-43cc-b515-fb8e01656ef2/?page_id=zI1D).

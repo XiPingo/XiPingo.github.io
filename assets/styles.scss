@@ -38,7 +38,7 @@
 }
 
 .academic-home {
-  --home-bg: linear-gradient(130deg, #0b2138 0%, #104a7a 54%, #1b7f95 100%);
+  --home-bg: linear-gradient(132deg, #3f145f 0%, #5c2488 52%, #7c41a8 100%);
   --home-card: #ffffff;
   --home-text: #1f2937;
   --home-muted: #5b6778;
@@ -58,18 +58,34 @@
   overflow: hidden;
 }
 
-.academic-hero::after {
-  content: "";
+.hero-orb {
   position: absolute;
-  right: -90px;
-  bottom: -110px;
-  width: 260px;
-  height: 260px;
+  right: -54px;
+  bottom: -96px;
+  width: 250px;
+  height: 250px;
   border-radius: 50%;
-  background: rgba(255, 255, 255, 0.14);
+  background: rgba(255, 255, 255, 0.18);
+  display: grid;
+  place-items: center;
+  z-index: 0;
+}
+
+.hero-logo {
+  width: 160px;
+  height: 160px;
+  opacity: 0.9;
+}
+
+.hero-logo-fallback {
+  color: rgba(255, 255, 255, 0.88);
+  font-weight: 700;
+  font-size: 1.3rem;
 }
 
 .hero-label {
+  position: relative;
+  z-index: 1;
   display: inline-block;
   margin-bottom: 0.7rem;
   padding: 0.2rem 0.65rem;
@@ -81,18 +97,24 @@
 }
 
 .hero-name {
+  position: relative;
+  z-index: 1;
   margin: 0;
   font-size: 2.1rem;
   line-height: 1.2;
 }
 
 .hero-subtitle {
+  position: relative;
+  z-index: 1;
   margin: 0.8rem 0 1.2rem 0;
   max-width: 58ch;
   color: rgba(245, 251, 255, 0.94);
 }
 
 .hero-actions {
+  position: relative;
+  z-index: 1;
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 0.65rem;
@@ -202,6 +224,47 @@
   line-height: 1.5;
 }
 
+.page.academic-doc {
+  background: linear-gradient(180deg, #fbf8ff 0%, #ffffff 26%);
+  border: 1px solid #eadff8;
+  border-radius: 16px;
+  padding: 1.2rem 1.25rem;
+  box-shadow: 0 12px 28px rgba(90, 46, 135, 0.08);
+}
+
+.page.academic-doc .page-title {
+  background: linear-gradient(132deg, #4d1f73 0%, #6d35a1 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  margin-bottom: 1rem;
+}
+
+.page.academic-doc h2,
+.page.academic-doc h3 {
+  color: #4d1f73;
+}
+
+.page.academic-doc table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1rem 0;
+  background: #ffffff;
+  border: 1px solid #e6dbf6;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.page.academic-doc th,
+.page.academic-doc td {
+  border: 1px solid #ece3f8;
+  padding: 0.55rem 0.7rem;
+}
+
+.page.academic-doc th {
+  background: #f4ecff;
+}
+
 @media (max-width: 960px) {
   .academic-grid.two-col,
   .academic-grid.three-col {
@@ -210,6 +273,18 @@
 
   .academic-hero {
     padding: 1.45rem 1.2rem;
+  }
+
+  .hero-orb {
+    right: -72px;
+    bottom: -110px;
+    width: 230px;
+    height: 230px;
+  }
+
+  .hero-logo {
+    width: 142px;
+    height: 142px;
   }
 
   .hero-label {
@@ -223,6 +298,10 @@
   .hero-actions {
     grid-template-columns: 1fr;
     max-width: 220px;
+  }
+
+  .page.academic-doc {
+    padding: 1rem;
   }
 }
 
