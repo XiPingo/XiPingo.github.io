@@ -1,4 +1,4 @@
-- title: Homepage
+﻿- title: Homepage
   url: /
 - title: CV
   url: /CV/
@@ -6,3 +6,5 @@
   url: /course/
 - title: About
   url: /about/
+- title: Post
+  url: /post/

@@ -1,0 +1,129 @@
+﻿---
+layout: default
+---
+
+<div class="academic-home">
+  <section class="academic-hero">
+    <p class="hero-kicker">Academic Homepage</p>
+    <h1>Xi Xiang</h1>
+    <p class="hero-subtitle">Economics (Talent Training Program) with a Minor in Computer Science, Nanjing University.</p>
+    <div class="hero-actions">
+      <a class="hero-btn" href="{{ '/CV/' | relative_url }}">View CV</a>
+      <a class="hero-btn ghost" href="{{ '/resource/CV/Xi-Xiang-CV.md' | relative_url }}" download>Download CV</a>
+      <a class="hero-btn ghost" href="{{ '/post/' | relative_url }}">Browse Posts</a>
+    </div>
+  </section>
+
+  <section class="academic-card">
+    <h2>News</h2>
+    <ul class="academic-list news-list-pro">
+      {% for message in site.data.news %}
+      <li>{{ message }}</li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  <section class="academic-grid two-col">
+    <article class="academic-card">
+      <h2>Personal Background</h2>
+      <p>I am an undergraduate researcher at Nanjing University, with interests at the intersection of economics, data science, and digital economy.</p>
+      <p>My current work focuses on empirical analysis, causal inference, and policy-relevant questions in labor, education, and industrial development.</p>
+    </article>
+
+    <article class="academic-card">
+      <h2>Affiliation</h2>
+      <ul class="academic-list">
+        <li><strong>University:</strong> Nanjing University (NJU)</li>
+        <li><strong>School:</strong> School of Business, Department of Economics</li>
+        <li><strong>Mentor:</strong> Professor Pi Jiancai</li>
+        <li><strong>Research Assistant to:</strong> Professor Shen Haopeng</li>
+      </ul>
+    </article>
+  </section>
+
+  <section class="academic-grid two-col">
+    <article class="academic-card">
+      <h2>CV & Education</h2>
+      <ul class="academic-list">
+        <li><strong>Program:</strong> B.A. in Economics (Talent Training Program)</li>
+        <li><strong>Minor:</strong> Computer Science and Technology</li>
+        <li><strong>Period:</strong> Sep 2023 - Present</li>
+      </ul>
+      <p class="card-actions">
+        <a href="{{ '/CV/' | relative_url }}">Read full CV</a> |
+        <a href="{{ '/resource/CV/Xi-Xiang-CV.md' | relative_url }}" download>Download CV file</a>
+      </p>
+    </article>
+
+    <article class="academic-card">
+      <h2>Research Interests</h2>
+      <ul class="academic-list">
+        <li>Machine learning and data mining for econometric causal inference</li>
+        <li>Digital economy: new mechanisms and policy implications</li>
+        <li>Labor and education economics in micro-empirical settings</li>
+        <li>Government interactions under game-theoretic frameworks</li>
+      </ul>
+    </article>
+  </section>
+
+  <section class="academic-card">
+    <h2>Papers, Code, and Slides</h2>
+    <div class="academic-grid three-col">
+      <div>
+        <h3>Papers (Download)</h3>
+        <ul class="academic-list compact">
+          <li><a href="{{ '/resource/papers/Opening Doors, Widening Gaps.pdf' | relative_url }}">Opening Doors, Widening Gaps</a></li>
+          <li><a href="{{ '/resource/papers/The Mechanism and Heterigeneity of the Impact of Digital Trade on the Quality of Employment in China.pdf' | relative_url }}">Digital Trade and Employment Quality</a></li>
+          <li><a href="{{ '/resource/papers/The Return Rate Trend and Professional Heterogeneity of Higher Education in China.pdf' | relative_url }}">Return Rate Trend and Heterogeneity</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Code</h3>
+        <ul class="academic-list compact">
+          <li><a href="https://github.com/XiPingo" target="_blank" rel="noreferrer">GitHub Profile</a></li>
+          <li><a href="{{ '/about/' | relative_url }}">More project context</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Slides / PPT</h3>
+        <ul class="academic-list compact">
+          <li><a href="{{ '/resource/PythonProgramming/Python辅导.pptx' | relative_url }}">Python Tutorial Slides</a></li>
+          <li><a href="{{ '/resource/BehavioralEconomics/Review of Behavioral Economics.pdf' | relative_url }}">Behavioral Economics Review Slides</a></li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="academic-grid two-col">
+    <article class="academic-card">
+      <h2>Survey Reports</h2>
+      <ul class="academic-list">
+        <li><a href="{{ '/resource/BehavioralEconomics/Review of Behavioral Economics.pdf' | relative_url }}">Review of Behavioral Economics</a></li>
+        <li><a href="{{ '/resource/papers/ML for econ.pdf' | relative_url }}">ML for Economics</a></li>
+      </ul>
+    </article>
+
+    <article class="academic-card">
+      <h2>Projects</h2>
+      <h3>Ongoing</h3>
+      <ul class="academic-list compact">
+        <li>Higher education return and major heterogeneity in China</li>
+        <li>Land finance mechanisms of local governments</li>
+      </ul>
+      <h3>Past</h3>
+      <ul class="academic-list compact">
+        <li>Digital trade and employment quality (award-winning project)</li>
+        <li>Industrial chain network position and innovation performance</li>
+      </ul>
+    </article>
+  </section>
+
+  <section class="academic-card">
+    <h2>Talks and Conference Slides</h2>
+    <ul class="academic-list">
+      <li><a href="{{ '/resource/PythonProgramming/Python辅导.pptx' | relative_url }}">Academic/Teaching Presentation Slides (PPT)</a></li>
+      <li><a href="{{ '/resource/Macroeconomics/Part 5 Macroeconomic Policy.pdf' | relative_url }}">Macroeconomic Policy Presentation</a></li>
+      <li><a href="{{ '/resource/IntermediateEconometrics/02_6_Lec6_Synthetic.Control.pdf' | relative_url }}">Synthetic Control Presentation</a></li>
+    </ul>
+  </section>
+</div>

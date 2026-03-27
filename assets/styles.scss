@@ -1,4 +1,4 @@
-// Use a comment to ensure Jekyll reads the file to be transformed into CSS later
+﻿// Use a comment to ensure Jekyll reads the file to be transformed into CSS later
 // only main files contain this front matter, not partials.
 ---
 
@@ -35,50 +35,131 @@
   @import "syntax-dark";
 }
 
-// 新增的消息盒子样式
-.news-box {
-  background-color: #ffe6f2; /* 淡粉色 */
-  padding: 20px;
-  margin-bottom: 20px;
-  border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+.academic-home {
+  --home-bg: linear-gradient(135deg, #f6fbff 0%, #f4f8ef 45%, #fff7ef 100%);
+  --home-card: #ffffff;
+  --home-text: #1f2a37;
+  --home-muted: #5b6778;
+  --home-accent: #0b6e99;
+  --home-accent-soft: #e3f3fa;
+  color: var(--home-text);
 }
 
-.news-box h2 {
-  color: #333;
-  margin-top: 0;
-  margin-bottom: 15px;
+.academic-hero {
+  background: var(--home-bg);
+  border: 1px solid #d9e6ef;
+  border-radius: 16px;
+  padding: 1.75rem;
+  margin-bottom: 1rem;
 }
 
-.news-list {
-  list-style: none;
-  padding: 0;
+.hero-kicker {
+  margin: 0 0 0.35rem 0;
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--home-accent);
+  font-weight: 700;
+}
+
+.academic-hero h1 {
   margin: 0;
+  font-size: 2rem;
 }
 
-.news-list li {
-  margin-bottom: 10px;
-  color: #444;
-  line-height: 1.6;
+.hero-subtitle {
+  margin: 0.6rem 0 1rem 0;
+  color: var(--home-muted);
 }
 
-.news-list li:last-child {
-  margin-bottom: 0;
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
 }
 
-// 响应式设计
-@media (max-width: 768px) {
-  .news-box {
-    padding: 15px;
-    margin-bottom: 15px;
+.hero-btn {
+  display: inline-block;
+  padding: 0.48rem 0.85rem;
+  border-radius: 999px;
+  background: var(--home-accent);
+  color: #fff;
+  font-size: 0.92rem;
+}
+
+.hero-btn.ghost {
+  background: var(--home-accent-soft);
+  color: var(--home-accent);
+}
+
+.hero-btn:hover,
+.hero-btn:focus {
+  text-decoration: none;
+  opacity: 0.92;
+}
+
+.academic-card {
+  background: var(--home-card);
+  border: 1px solid #e3ecf2;
+  border-radius: 14px;
+  padding: 1rem 1.1rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 8px 24px rgba(31, 42, 55, 0.06);
+}
+
+.academic-grid {
+  display: grid;
+  gap: 1rem;
+}
+
+.academic-grid.two-col {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.academic-grid.three-col {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.academic-home h2 {
+  margin: 0 0 0.8rem 0;
+  color: #0e4262;
+}
+
+.academic-home h3 {
+  margin: 0 0 0.55rem 0;
+  font-size: 1rem;
+  color: #2a3b4f;
+}
+
+.academic-list {
+  margin: 0;
+  padding-left: 1.1rem;
+}
+
+.academic-list li {
+  margin: 0.35rem 0;
+  line-height: 1.5;
+}
+
+.academic-list.compact li {
+  margin: 0.2rem 0;
+}
+
+.news-list-pro li::marker {
+  color: var(--home-accent);
+}
+
+.card-actions {
+  margin: 0.8rem 0 0 0;
+}
+
+@media (max-width: 960px) {
+  .academic-grid.two-col,
+  .academic-grid.three-col {
+    grid-template-columns: 1fr;
   }
-
-  .news-box h2 {
-    font-size: 1.5rem;
-  }
 }
 
-// 原有的颜色示例代码
 .colors {
   display: grid;
   grid-template-columns: max-content 1fr;
@@ -87,7 +168,7 @@
     width: 3rem;
     height: 3rem;
     border-radius: var(--border-radius);
-    box-shadow: inset 0 0 0 1px rgba(255,255,255,.15);
+    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.15);
   }
 
   dd {
