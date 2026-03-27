@@ -36,75 +36,103 @@
 }
 
 .academic-home {
-  --home-bg: linear-gradient(135deg, #f6fbff 0%, #f4f8ef 45%, #fff7ef 100%);
+  --home-bg: linear-gradient(130deg, #0b2138 0%, #104a7a 54%, #1b7f95 100%);
   --home-card: #ffffff;
-  --home-text: #1f2a37;
+  --home-text: #1f2937;
   --home-muted: #5b6778;
-  --home-accent: #0b6e99;
-  --home-accent-soft: #e3f3fa;
+  --home-accent: #0e739f;
+  --home-accent-soft: #d9eff9;
   color: var(--home-text);
+  display: grid;
+  gap: 1rem;
 }
 
 .academic-hero {
   background: var(--home-bg);
-  border: 1px solid #d9e6ef;
-  border-radius: 16px;
-  padding: 1.75rem;
-  margin-bottom: 1rem;
+  border-radius: 18px;
+  padding: 2rem 1.75rem;
+  color: #f7fbff;
+  position: relative;
+  overflow: hidden;
 }
 
-.hero-kicker {
-  margin: 0 0 0.35rem 0;
-  font-size: 0.85rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: var(--home-accent);
+.academic-hero::after {
+  content: "";
+  position: absolute;
+  right: -90px;
+  bottom: -110px;
+  width: 260px;
+  height: 260px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.14);
+}
+
+.hero-label {
+  display: inline-block;
+  margin-bottom: 0.7rem;
+  padding: 0.2rem 0.65rem;
+  border: 1px solid rgba(255, 255, 255, 0.45);
+  border-radius: 999px;
+  font-size: 1rem;
   font-weight: 700;
+  letter-spacing: 0.04em;
 }
 
-.academic-hero h1 {
+.hero-name {
   margin: 0;
-  font-size: 2rem;
+  font-size: 2.1rem;
+  line-height: 1.2;
 }
 
 .hero-subtitle {
-  margin: 0.6rem 0 1rem 0;
-  color: var(--home-muted);
+  margin: 0.8rem 0 1.2rem 0;
+  max-width: 58ch;
+  color: rgba(245, 251, 255, 0.94);
 }
 
 .hero-actions {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.65rem;
+  max-width: 320px;
 }
 
 .hero-btn {
   display: inline-block;
-  padding: 0.48rem 0.85rem;
+  min-width: 132px;
+  text-align: center;
+  padding: 0.56rem 1rem;
   border-radius: 999px;
-  background: var(--home-accent);
-  color: #fff;
-  font-size: 0.92rem;
+  background: #ffffff;
+  border: 1px solid #ffffff;
+  color: #0e345b;
+  font-weight: 700;
+  font-size: 0.9rem;
 }
 
 .hero-btn.ghost {
-  background: var(--home-accent-soft);
-  color: var(--home-accent);
+  background: rgba(255, 255, 255, 0.2);
+  border-color: rgba(255, 255, 255, 0.8);
+  color: #f7fbff;
 }
 
 .hero-btn:hover,
 .hero-btn:focus {
   text-decoration: none;
-  opacity: 0.92;
+  transform: translateY(-1px);
 }
 
 .academic-card {
   background: var(--home-card);
-  border: 1px solid #e3ecf2;
-  border-radius: 14px;
-  padding: 1rem 1.1rem;
-  margin-bottom: 1rem;
-  box-shadow: 0 8px 24px rgba(31, 42, 55, 0.06);
+  border: 1px solid #deebf3;
+  border-radius: 16px;
+  padding: 1.15rem 1.2rem;
+  box-shadow: 0 10px 26px rgba(15, 50, 79, 0.08);
+}
+
+.academic-card.accent {
+  background: linear-gradient(135deg, #eef8ff 0%, #f5fff8 100%);
+  border-color: #d2e8f8;
 }
 
 .academic-grid {
@@ -121,14 +149,15 @@
 }
 
 .academic-home h2 {
-  margin: 0 0 0.8rem 0;
-  color: #0e4262;
+  margin: 0 0 0.85rem 0;
+  color: #0b4362;
+  font-size: 1.32rem;
 }
 
 .academic-home h3 {
-  margin: 0 0 0.55rem 0;
-  font-size: 1rem;
-  color: #2a3b4f;
+  margin: 0 0 0.5rem 0;
+  font-size: 1.06rem;
+  color: #1e344d;
 }
 
 .academic-list {
@@ -141,22 +170,57 @@
   line-height: 1.5;
 }
 
-.academic-list.compact li {
-  margin: 0.2rem 0;
-}
-
 .news-list-pro li::marker {
   color: var(--home-accent);
 }
 
-.card-actions {
-  margin: 0.8rem 0 0 0;
+.paper-card {
+  border: 1px solid #e5eef5;
+  border-radius: 12px;
+  padding: 0.9rem 1rem;
+  background: #fbfdff;
+}
+
+.paper-card + .paper-card {
+  margin-top: 0.85rem;
+}
+
+.paper-meta {
+  margin: 0.2rem 0 0.4rem 0;
+  color: #41566e;
+}
+
+.paper-points {
+  margin: 0.55rem 0 0 0;
+  padding-left: 1.1rem;
+}
+
+.paper-points li {
+  margin: 0.3rem 0;
+  line-height: 1.5;
 }
 
 @media (max-width: 960px) {
   .academic-grid.two-col,
   .academic-grid.three-col {
     grid-template-columns: 1fr;
+  }
+
+  .academic-hero {
+    padding: 1.45rem 1.2rem;
+  }
+
+  .hero-label {
+    font-size: 0.92rem;
+  }
+
+  .hero-name {
+    font-size: 1.76rem;
+  }
+
+  .hero-actions {
+    grid-template-columns: 1fr;
+    max-width: 220px;
   }
 }
 
