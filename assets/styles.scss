@@ -60,21 +60,23 @@
 
 .hero-orb {
   position: absolute;
-  right: -54px;
-  bottom: -96px;
-  width: 250px;
-  height: 250px;
+  right: -36px;
+  bottom: -48px;
+  width: 220px;
+  height: 220px;
   border-radius: 50%;
-  background: rgba(255, 255, 255, 0.18);
+  background: radial-gradient(circle at 30% 30%, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.08));
   display: grid;
   place-items: center;
   z-index: 0;
 }
 
 .hero-logo {
-  width: 160px;
-  height: 160px;
-  opacity: 0.9;
+  width: 132px;
+  height: 132px;
+  opacity: 0.96;
+  mix-blend-mode: multiply;
+  filter: saturate(1.15) contrast(1.08);
 }
 
 .hero-logo-fallback {
@@ -102,6 +104,8 @@
   margin: 0;
   font-size: 2.1rem;
   line-height: 1.2;
+  color: #f6d37a;
+  text-shadow: 0 2px 14px rgba(65, 28, 103, 0.35);
 }
 
 .hero-subtitle {
@@ -276,15 +280,15 @@
   }
 
   .hero-orb {
-    right: -72px;
-    bottom: -110px;
-    width: 230px;
-    height: 230px;
+    right: -48px;
+    bottom: -62px;
+    width: 190px;
+    height: 190px;
   }
 
   .hero-logo {
-    width: 142px;
-    height: 142px;
+    width: 116px;
+    height: 116px;
   }
 
   .hero-label {
