@@ -67,29 +67,19 @@ Digital Logic and Computer Organization, Introduction to Computer Systems, *Oper
 ---
 ## Project Experience
 
-### Computer Science
+### Interdisciplinary Projects (Economics × Computer Science)
 
 - **NJUBSwatcher: NJUBS Website Change Monitor**  
-  *A Python-based monitoring and notification tool for NJUBS official website updates*  
-  ● Crawls six content modules from the NJUBS homepage, stores structured snapshots, and detects added/removed/renamed items via snapshot diffing  
-  ● Supports module-level email subscriptions, sends consolidated update reports to recipients, and auto-commits snapshot updates through GitHub Actions workflow integration | *Completed (Sep 2025)*
+  *Open-source Python monitoring system for automated tracking of NJUBS website updates*  
+  ▪ Built a scraper and notification pipeline for six announcement modules, with snapshot diffing, module-level email subscriptions, and GitHub Actions-based automated snapshot updates | *Completed (Sep 2025)*
 
 - **Second-Hand Goods Trading Platform**   
-  *A platform for second-hand goods publish, trade, comment, and manage*   
-  ▪ Users can register, log in, log out, post, purchase, comment, and save second-hand items. Administrators can review and publish user and item information. | *Completed (Dec 2025)*
+  *End-to-end marketplace system independently developed with Python desktop UI and local data persistence*   
+  ▪ Implemented user authentication, listing management, search, favorites, comments, image handling, and administrator moderation using Tkinter, Pillow, and JSON-based storage | *Completed (Dec 2025)*
 
 - **Sports Meeting Management System**  
-  *A system for managing sports events, athletes, and results*  
-  ▪ Enables administrators to manage events and athletes, including functions such as adding, modifying, and deleting events, managing athlete information, and entering results; also supports athletes in registering, logging in, and querying registered events, personal results, event results, and department-level results, etc. | *Completed (May 2025)*
-  
-- **NEMU (NJU EMUlator)**  
-  *Course Project for Introduction to Computer Systems*  
-  ▪ Developing a simplified x86 architecture emulator | *Completed (June 2025)*
-
-- **CPU-XX1 Digital Logic Design**  
-  *Course Project for Digital Logic and Computer Organization*  
-  ▪ Implemented bubble sort and quick sort algorithms using digital logic circuits  
-  ▪ Designed with Logisim simulation tool | *Completed (Dec 2024)*
+  *Full-stack event management system independently developed for athlete registration, scheduling, and result administration*  
+  ▪ Built a Flask-based backend with SQL Server integration and a web frontend supporting athlete registration, event signup, score entry, schedule queries, and department-level result summaries | *Completed (May 2025)*
 
 ---
 
@@ -98,40 +88,32 @@ Digital Logic and Computer Organization, Introduction to Computer Systems, *Oper
 - **Opening Doors, Widening Gaps? The Distributional and Intergenerational Effects of China’s Higher Education Expansion**   
   *Team Member: **XIANG Xi***   
   [Link](https://xipingo.github.io/resource/papers/Opening Doors, Widening Gaps.pdf)   
-  ▪ Higher education expansion promotes intergenerational mobility, with heterogeneous effects across urban-rural and parental dimensions   
-  ▪ Employ Regression Discontinuity Design and Difference-in-Differences, process CFPS 2022 data, and conduct rigorous robustness checks | *Feb 2026*   
+  ▪ Examines the distributional and intergenerational effects of China’s higher education expansion, with heterogeneous impacts across urban-rural and parental-background dimensions   
+  ▪ Uses CFPS 2022 microdata and combines regression discontinuity with difference-in-differences to identify policy effects and assess robustness | *Feb 2026*   
 
 - **The Relationship between Industrial Chain Network Position, Supply Chain Concentration and Enterprise Innovation Performance**   
   *Team Member: **XIANG Xi***   
   [Link](https://xipingo.github.io/resource/papers/产业链网络位置、供应链集中度与企业创新绩效.pdf)   
-  ▪ Network centrality boosts innovation, supply chain concentration negatively moderates the effect, the moderation is more significant in high-complexity innovation   
-  ▪ Construct directed weighted industrial chain network, adopt panel fixed effect model, DID and link prediction, with multiple robustness tests | *Feb 2026*   
+  ▪ Investigates how firms’ positions in industrial chain networks affect innovation performance and how supply chain concentration moderates this relationship   
+  ▪ Constructs a directed weighted industrial chain network and applies panel fixed-effects models, heterogeneity analysis, and link-prediction-based extensions | *Feb 2026*   
 
 - **The Return Rate Trend and Professional Heterogeneity of Higher Education in China**   
   *Team Members: **XIANG Xi** and GUI Yuhe*   
   [Link](https://xipingo.github.io/resource/papers/The Return Rate Trend and Professional Heterogeneity of Higher Education in China.pdf)   
-  ▪ An article summary and a modified Mincer Equation   
-  ▪ Combine The Return Rate Trend and Professional Heterogeneity of Higher Education| *In Progress (Spring 2025)*
+  ▪ Studies temporal changes in returns to higher education and major-specific heterogeneity in labor market outcomes in China   
+  ▪ Combines structured literature review with an extended Mincer earnings framework to compare return patterns across disciplines | *In Progress (Spring 2025)*
 
 - **The Mechanism and Heterogeneity of the Impact of Digital Trade on the Quality of Employment in China**   
   *Team Members: **XIANG Xi**, WU Haomin and FAN Jincheng*    
   [Link](https://xipingo.github.io/resource/papers/The Mechanism and Heterigeneity of the Impact of Digital Trade on the Quality of Employment in China.pdf)   
-  ▪ Verify four hypotheses: digital trade boosts employment quality, consumption amplifies effect, education investment has threshold, skill level mediates    
-  ▪ Build hierarchical regression model, use entropy - weight & instrumental variable, and diverse methods for robustness   
+  ▪ Evaluates the impact of digital trade on employment quality and tests transmission channels through consumption, education investment, and skill structure    
+  ▪ Builds hierarchical regression specifications and applies entropy-weight index construction, instrumental-variable estimation, and multiple robustness checks   
   ▪ **Awarded Third Prize** - The 36th "Silver Star Cup" undergraduate academic paper competition | *May 2025*
-
-- **Land Finance Mechanisms of Chinese Local Governments**  
-  ▪ Analyzing fiscal decentralization and land monetization strategies  
-  ▪ Developing game theory models for policy analysis | *In Progress (Fall 2024)*
-
-- **Central-Local Government Dynamics: A Game Theoretic Approach**  
-  ▪ Modeling intergovernmental bargaining processes  
-  ▪ Incorporating principal-agent framework | *In Progress (Fall 2024)*
 
 - **Crisis Management in Stigmatized Industries**  
   *Team Members: AI Peiyuan, **XIANG Xi**, YIN Tao, XU Fanjiahui*   
   [Link](https://xipingo.github.io/resource/papers/污名化企业的有效响应——以方便食品产业为例.pdf)   
-  ▪ Case study of Chinese convenience food industry regulatory responses  
+  ▪ Analyzes crisis-response strategies in stigmatized industries using China’s convenience food sector as a case study  
   ▪ **Awarded First Prize** - 27th Forum of Science & Arts at Nanjing University (Freshman Division) | *May 2024*
 
 ---
