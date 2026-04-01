@@ -137,6 +137,9 @@ Digital Logic and Computer Organization, Introduction to Computer Systems, *Oper
   School of Business, Nanjing University    
   ▪ 2025 Peer mentor for freashmen | *Aug 2025 - Present*
 
+- **Outstanding Student, Outstanding Volunteer**    
+  School of Business, Nanjing University    
+  ▪ | *2024-2025*
 ---
 ## Academic Credentials
 

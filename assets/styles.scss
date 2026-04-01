@@ -271,6 +271,64 @@
   background: #f4ecff;
 }
 
+@media (prefers-color-scheme: dark) {
+  .message {
+    color: #e8e6f2;
+    background: linear-gradient(135deg, #2a2138 0%, #342547 100%);
+    border-color: #5f4a7c;
+    border-left-color: #b58cff;
+    box-shadow: 0 10px 24px rgba(0, 0, 0, 0.24);
+  }
+
+  .page.academic-doc {
+    color: #e8e6f2;
+    background: linear-gradient(180deg, #1f1828 0%, #16121d 100%);
+    border-color: #433154;
+    box-shadow: 0 12px 28px rgba(0, 0, 0, 0.28);
+  }
+
+  .page.academic-doc .page-title {
+    background: linear-gradient(132deg, #d6b5ff 0%, #f0d4ff 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+
+  .page.academic-doc h2,
+  .page.academic-doc h3,
+  .page.academic-doc h4,
+  .page.academic-doc h5,
+  .page.academic-doc h6 {
+    color: #e5c9ff;
+  }
+
+  .page.academic-doc table {
+    background: #1b1622 !important;
+    border-color: #49375f;
+    color: #ece9f6;
+  }
+
+  .page.academic-doc th,
+  .page.academic-doc td {
+    background: transparent;
+    border-color: #3e304f;
+    color: #ece9f6;
+  }
+
+  .page.academic-doc th {
+    background: #2b2237 !important;
+  }
+
+  .page.academic-doc thead th {
+    border-bottom-color: #6a5386;
+  }
+
+  .page.academic-doc mark {
+    color: #fff5cc;
+    background-color: #5f4a00;
+  }
+}
+
 @media (max-width: 960px) {
   .academic-grid.two-col,
   .academic-grid.three-col {
