@@ -85,15 +85,21 @@ Digital Logic and Computer Organization, Introduction to Computer Systems, *Oper
 
 ### Economics Research
 
+- **Digital Skill Premia, Structural Polarization and Skill Complementarity: Evidence from Chinese Listed-Firm Job Postings, 2016-2025**   
+  *Independent Research Project: **XIANG Xi***   
+  [Paper](https://xipingo.github.io/resource/papers/Digital%20Skill%20Premia,%20Structural%20Polarization%20and%20Skill%20Complementarity.pdf) | [Report (ZH)](https://xipingo.github.io/resource/papers/Digital%20Skill%20Premia,%20Structural%20Polarization%20and%20Skill%20Complementarity_report_zh.pdf) | [Slides (EN)](https://xipingo.github.io/resource/papers/Digital%20Skill%20Premia,%20Structural%20Polarization%20and%20Skill%20Complementarity_report_en.pdf)   
+  ▪ Uses 6.9 million job postings from Chinese listed firms between 2016 and 2025 to trace the evolution of digital-skill demand, wage premia, and structural polarization in the labor market   
+  ▪ Combines structured NLP-based skill extraction with annual wage regressions, quantile regressions, and concentration measures to show time-varying AI/ML premia, sub-additive skill complementarity, and persistent upper-tail wage inequality amid broad skill diffusion | *Apr 2026*   
+
 - **Opening Doors, Widening Gaps? The Distributional and Intergenerational Effects of China’s Higher Education Expansion**   
   *Team Member: **XIANG Xi***   
-  [Link](https://xipingo.github.io/resource/papers/Opening Doors, Widening Gaps.pdf)   
+  [Paper](https://xipingo.github.io/resource/papers/Opening%20Doors,%20Widening%20Gaps.pdf) | [Report (ZH)](https://xipingo.github.io/resource/papers/opening_doors_report_zh.pdf) | [Report (EN)](https://xipingo.github.io/resource/papers/opening_doors_report_en.pdf)   
   ▪ Examines the distributional and intergenerational effects of China’s higher education expansion, with heterogeneous impacts across urban-rural and parental-background dimensions   
   ▪ Uses CFPS 2022 microdata and combines regression discontinuity with difference-in-differences to identify policy effects and assess robustness | *Feb 2026*   
 
 - **The Relationship between Industrial Chain Network Position, Supply Chain Concentration and Enterprise Innovation Performance**   
   *Team Member: **XIANG Xi***   
-  [Link](https://xipingo.github.io/resource/papers/产业链网络位置、供应链集中度与企业创新绩效.pdf)   
+  [Paper](https://xipingo.github.io/resource/papers/%E4%BA%A7%E4%B8%9A%E9%93%BE%E7%BD%91%E7%BB%9C%E4%BD%8D%E7%BD%AE%E3%80%81%E4%BE%9B%E5%BA%94%E9%93%BE%E9%9B%86%E4%B8%AD%E5%BA%A6%E4%B8%8E%E4%BC%81%E4%B8%9A%E5%88%9B%E6%96%B0%E7%BB%A9%E6%95%88.pdf) | [Report (ZH)](https://xipingo.github.io/resource/papers/%E4%BA%A7%E4%B8%9A%E9%93%BE%E7%BD%91%E7%BB%9C%E4%BD%8D%E7%BD%AE%E3%80%81%E4%BE%9B%E5%BA%94%E9%93%BE%E9%9B%86%E4%B8%AD%E5%BA%A6%E4%B8%8E%E4%BC%81%E4%B8%9A%E5%88%9B%E6%96%B0%E7%BB%A9%E6%95%88_report.pdf)   
   ▪ Investigates how firms’ positions in industrial chain networks affect innovation performance and how supply chain concentration moderates this relationship   
   ▪ Constructs a directed weighted industrial chain network and applies panel fixed-effects models, heterogeneity analysis, and link-prediction-based extensions | *Feb 2026*   
 
