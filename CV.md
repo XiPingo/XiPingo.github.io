@@ -87,7 +87,7 @@ Digital Logic and Computer Organization, Introduction to Computer Systems, *Oper
 
 - **Digital Skill Premia, Structural Polarization and Skill Complementarity: Evidence from Chinese Listed-Firm Job Postings, 2016-2025**   
   *Independent Research Project: **XIANG Xi***   
-  [Paper](https://xipingo.github.io/resource/papers/Digital%20Skill%20Premia,%20Structural%20Polarization%20and%20Skill%20Complementarity.pdf) | [Report (ZH)](https://xipingo.github.io/resource/papers/Digital%20Skill%20Premia,%20Structural%20Polarization%20and%20Skill%20Complementarity_report_zh.pdf) | [Slides (EN)](https://xipingo.github.io/resource/papers/Digital%20Skill%20Premia,%20Structural%20Polarization%20and%20Skill%20Complementarity_report_en.pdf)   
+  [Paper](https://xipingo.github.io/resource/papers/Digital%20Skill%20Premia,%20Structural%20Polarization%20and%20Skill%20Complementarity.pdf) | [Report (ZH)](https://xipingo.github.io/resource/papers/Digital%20Skill%20Premia,%20Structural%20Polarization%20and%20Skill%20Complementarity_report_zh.pdf) | [Report (EN)](https://xipingo.github.io/resource/papers/Digital%20Skill%20Premia,%20Structural%20Polarization%20and%20Skill%20Complementarity_report_en.pdf)   
   ▪ Uses 6.9 million job postings from Chinese listed firms between 2016 and 2025 to trace the evolution of digital-skill demand, wage premia, and structural polarization in the labor market   
   ▪ Combines structured NLP-based skill extraction with annual wage regressions, quantile regressions, and concentration measures to show time-varying AI/ML premia, sub-additive skill complementarity, and persistent upper-tail wage inequality amid broad skill diffusion | *Apr 2026*   
 
