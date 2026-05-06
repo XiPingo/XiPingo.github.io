@@ -62,7 +62,6 @@ Digital Logic and Computer Organization, Introduction to Computer Systems, *Oper
 - Application of Machine Learning, Data Mining and Big Data Technology in Causality Inference of Econometrics.  
 - Theoretical Explanation of New Phenomena and New Models in Digital Economy.   
 - Application of Micro-empirical Econometrics: Topics Related to Labor and Education.
-- Game Theory: Relationship between Central Government and Local Government.   
 
 ---
 ## Project Experience
@@ -95,14 +94,17 @@ Digital Logic and Computer Organization, Introduction to Computer Systems, *Oper
   *Team Member: **XIANG Xi***   
   [Paper](https://xipingo.github.io/resource/papers/Opening%20Doors,%20Widening%20Gaps.pdf) | [Report (ZH)](https://xipingo.github.io/resource/papers/opening_doors_report_zh.pdf) | [Report (EN)](https://xipingo.github.io/resource/papers/opening_doors_report_en.pdf)   
   ▪ Examines the distributional and intergenerational effects of China’s higher education expansion, with heterogeneous impacts across urban-rural and parental-background dimensions   
-  ▪ Uses CFPS 2022 microdata and combines regression discontinuity with difference-in-differences to identify policy effects and assess robustness | *Feb 2026*   
+  ▪ Uses CFPS 2022 microdata and combines regression discontinuity with difference-in-differences to identify policy effects and assess robustness    
+  ▪ **Awarded Third Prize** - The 37th "Silver Star Cup" undergraduate academic paper competition | *May 2026*
+
 
 - **The Relationship between Industrial Chain Network Position, Supply Chain Concentration and Enterprise Innovation Performance**   
   *Team Member: **XIANG Xi***   
   [Paper](https://xipingo.github.io/resource/papers/%E4%BA%A7%E4%B8%9A%E9%93%BE%E7%BD%91%E7%BB%9C%E4%BD%8D%E7%BD%AE%E3%80%81%E4%BE%9B%E5%BA%94%E9%93%BE%E9%9B%86%E4%B8%AD%E5%BA%A6%E4%B8%8E%E4%BC%81%E4%B8%9A%E5%88%9B%E6%96%B0%E7%BB%A9%E6%95%88.pdf) | [Report (ZH)](https://xipingo.github.io/resource/papers/%E4%BA%A7%E4%B8%9A%E9%93%BE%E7%BD%91%E7%BB%9C%E4%BD%8D%E7%BD%AE%E3%80%81%E4%BE%9B%E5%BA%94%E9%93%BE%E9%9B%86%E4%B8%AD%E5%BA%A6%E4%B8%8E%E4%BC%81%E4%B8%9A%E5%88%9B%E6%96%B0%E7%BB%A9%E6%95%88_report.pdf)   
   ▪ Investigates how firms’ positions in industrial chain networks affect innovation performance and how supply chain concentration moderates this relationship   
   ▪ Constructs a directed weighted industrial chain network and applies panel fixed-effects models, heterogeneity analysis, and link-prediction-based extensions     
-  ▪ This paper is reported at **The Second Undergraduate Forum on New Structural Economics**(2026.04.27) | *Feb 2026*      
+  ▪ This paper is reported at **The Second Undergraduate Forum on New Structural Economics**(2026.04.27)
+  ▪ This paper is reported at Final Round of **the 37th Silver Star Cup Undergraduate Academic Paper Competition**(2026.05.10)| *Feb 2026*      
 
 - **The Return Rate Trend and Professional Heterogeneity of Higher Education in China**   
   *Team Members: **XIANG Xi** and GUI Yuhe*   
