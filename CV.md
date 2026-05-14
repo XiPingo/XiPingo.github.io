@@ -104,7 +104,8 @@ Digital Logic and Computer Organization, Introduction to Computer Systems, *Oper
   ▪ Investigates how firms’ positions in industrial chain networks affect innovation performance and how supply chain concentration moderates this relationship   
   ▪ Constructs a directed weighted industrial chain network and applies panel fixed-effects models, heterogeneity analysis, and link-prediction-based extensions     
   ▪ This paper is reported at **The Second Undergraduate Forum on New Structural Economics**(2026.04.27)
-  ▪ This paper is reported at Final Round of **the 37th Silver Star Cup Undergraduate Academic Paper Competition**(2026.05.10)| *Feb 2026*      
+  ▪ This paper is reported at Final Round of **the 37th Silver Star Cup Undergraduate Academic Paper Competition**(2026.05.10)
+  ▪ This paper is reported at **The 16th National Annual Conference on Economics for Undergraduate Students in Higher Education Institutions**(2026.05.30) | *Feb 2026*      
 
 - **The Return Rate Trend and Professional Heterogeneity of Higher Education in China**   
   *Team Members: **XIANG Xi** and GUI Yuhe*   
