@@ -271,6 +271,66 @@
   background: #f4ecff;
 }
 
+.article-collection {
+  margin-top: 1.5rem;
+}
+
+.article-year + .article-year {
+  margin-top: 1.4rem;
+}
+
+.article-year h2 {
+  margin: 0 0 0.6rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid #e6dbf6;
+}
+
+.article-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.article-list li {
+  display: grid;
+  grid-template-columns: 6.5rem minmax(0, 1fr) auto;
+  align-items: baseline;
+  gap: 0.7rem;
+  padding: 0.72rem 0.2rem;
+  border-bottom: 1px solid #eee8f5;
+}
+
+.article-list time {
+  color: #758195;
+  font-size: 0.9rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.article-list a {
+  font-weight: 600;
+}
+
+.article-category {
+  padding: 0.12rem 0.55rem;
+  border-radius: 999px;
+  background: #f2eafa;
+  color: #65428a;
+  font-size: 0.78rem;
+  white-space: nowrap;
+}
+
+@media (max-width: 520px) {
+  .article-list li {
+    grid-template-columns: 5.8rem minmax(0, 1fr);
+    gap: 0.4rem 0.6rem;
+  }
+
+  .article-category {
+    grid-column: 2;
+    justify-self: start;
+  }
+}
+
 @media (prefers-color-scheme: dark) {
   .message {
     color: #e8e6f2;
