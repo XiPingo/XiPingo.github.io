@@ -39,10 +39,16 @@
           internal: true
     - semester: "3-2"
       course: Real Variable Functions and Functional Analysis
-      course_emphasis: true
       links:
         - label: No Link
           url: /resource/RealVariableFunctionsAndFunctionalAnalysis
+          internal: true
+    - semester: "4-1"
+      course: Stochastic Processes
+      course_emphasis: true
+      links:
+        - label: No Link
+          url: /resource/StochasticProcesses
           internal: true
 
 - title: Economics
@@ -127,7 +133,6 @@
           internal: true
     - semester: "3-2"
       course: Intermediate Game Theory
-      course_emphasis: true
       links:
         - label: No Link
           url: /resource/IntermediateGameTheory
@@ -167,7 +172,6 @@
           url: /2025/08/26/FinancialManagement
           internal: true
     - course: Financial Mathematics
-      course_emphasis: true
       links:
         - label: No Link
           url: /resource/FinancialMathematics
@@ -219,13 +223,11 @@
           url: /2025/11/17/AIForComplexNetworks
           internal: true
     - course: Text Mining and Large Language Models
-      course_emphasis: true
       links:
         - label: No Link
           url: /resource/TextMiningAndLargeLanguageModels
           internal: true
     - course: Economics of Platform Governance
-      course_emphasis: true
       links:
         - label: No Link
           url: /resource/EconomicsOfPlatformGovernance
@@ -298,27 +300,23 @@
           internal: true
     - semester: "3-2"
       course: Operating Systems
-      course_emphasis: true
       links:
         - label: Prof.
           url: https://jyywiki.cn/OS/2026/
     - semester: "3-2"
       course: "Big Data Processing: Comprehensive Experiments"
-      course_emphasis: true
       links:
         - label: No Link
           url: /resource/BigDataProcessing:ComprehensiveExperiments
           internal: true
     - semester: "3-2"
       course: Introduction to Data Mining
-      course_emphasis: true
       links:
         - label: No Link
           url: /resource/IntroductionToDataMining
           internal: true
     - semester: "3-2"
       course: Advanced Programming
-      course_emphasis: true
       links:
         - label: No Link
           url: /resource/AdvancedProgramming
